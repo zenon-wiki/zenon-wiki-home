@@ -22,6 +22,6 @@ Wrapped ZNN was created ( wZNN ) on the Binance Smart Chain to ensure access to 
 
 The launch of the functioning first version of the Network of Momentum ( NoM 0 ) is called “The Big Bang” by the Zenon team. This will occur in November 2021. At that time the Syrius wallet will be updated and that update will run on the live Network of Momentum, not the Testnet. NoM 0 is also called the **Alphanet**, this will run for 1 year after which NoM 1 begins.
 
-At Alphanet launch all the functions of the Testnet will roll out on the Alphanet but using ZNN and QSR with real value. Pillars will be deployed but Sentinels, which have a secondary function in validating and securing the Network, only become possible at NoM 1.&#x20;
+At Alphanet launch all the functions of the Testnet will roll out on the Alphanet but using ZNN and QSR with real value. Pillars and Sentinels will be active during NoM 0, while Sentries, which have a function in validating and securing the Network, only become possible at NoM 1.&#x20;
 
 The wZNN version of ZNN will remain active on Binance Smart Chain and can be bridged to and from the NoM via Syrius Wallet at will.
