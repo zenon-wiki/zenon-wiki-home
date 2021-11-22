@@ -8,7 +8,9 @@ description: Information for the 2018 - 2022 Legacy Zenon Network.
 
 A community member compiled a lot of various info from other articles into one big article, “The Ape’s Guide to the Galaxy”. This is a great initial read to familiarize yourself with the project. Then you can dig into more details via the team’s medium articles or asking specific questions of the community in the official Telegram channel. Links are provided below:
 
-https://shazzamazzash.medium.com/zenon-network-an-apes-guide-to-the-galaxy-7aad7dacdfef https://medium.com/@zenon.network
+[ https://medium.com/@zenon.network](https://medium.com/@zenon.network)
+
+[https://shazzamazzash.medium.com/zenon-network-an-apes-guide-to-the-galaxy-7aad7dacdfef](https://shazzamazzash.medium.com/zenon-network-an-apes-guide-to-the-galaxy-7aad7dacdfef)
 
 #### What’s the difference between the Legacy Network and the Alphanet? <a href="q-whats-the-difference-between-the-legacy-network-and-the-alphanet" id="q-whats-the-difference-between-the-legacy-network-and-the-alphanet"></a>
 
