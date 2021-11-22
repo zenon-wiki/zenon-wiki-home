@@ -24,7 +24,7 @@ The "Transition" tab will give you information on swapping Legacy ZNN for the No
 
 #### Legacy ZNN on Exchanges after the transition to NoM.
 
-For all those who have bought legacy ZNN on the CEX’s ( Central Exchanges ) and who did not move them into their own Legacy Wallet for the snapshot on November 19 2021, or who trade and buy Legacy ZNN on an exchange after the Snapshot:
+For all those who have bought legacy ZNN on the CEX’s ( Central Exchanges ) and who did not move them into their own Legacy Wallet for the snapshot on November 22 2021, or who trade and buy Legacy ZNN on an exchange after the Snapshot:
 
 It is entirely up to the Exchanges ( who are part of the snapshot ) to honour your purchase of Legacy ZNN and swap them out for NoM ZNN.
 
