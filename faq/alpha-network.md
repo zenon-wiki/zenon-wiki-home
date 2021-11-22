@@ -34,7 +34,7 @@ https://shazzamazzash.medium.com/zenon-network-an-apes-guide-to-the-galaxy-7aad7
 
 You can find that information here
 
-https://medium.com/@zenon.network/znn-x-qsr-alphanet-specifications-83d27c005c09
+[https://medium.com/@zenon.network/znn-x-qsr-alphanet-specifications-83d27c005c09](https://medium.com/@zenon.network/znn-x-qsr-alphanet-specifications-83d27c005c09)
 
 #### Testnet & Syrius wallet.
 
