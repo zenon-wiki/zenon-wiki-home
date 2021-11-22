@@ -33,8 +33,8 @@ The Network of Momentum will launch in November 2021. That launch is called “T
 
 More info from Zenon.&#x20;
 
-[https://medium.com/@zenon.network/paving-the-way-1332f61a66b2\
-\
-https://zenon.network\
-\
-https://twitter.com/Zenon\_Network](https://medium.com/@zenon.network/paving-the-way-1332f61a66b2https://zenon.networkhttps://twitter.com/Zenon\_Network)
+[https://medium.com/@zenon.network/paving-the-way-1332f61a66b2](https://medium.com/@zenon.network/paving-the-way-1332f61a66b2)
+
+[https://twitter.com/Zenon\_Network](https://twitter.com/Zenon\_Network)
+
+[https://zenon.network](https://zenon.network)
