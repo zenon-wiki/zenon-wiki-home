@@ -1,7 +1,8 @@
-# ZENON.wiki
+---
+description: A community managed wiki for Zenon Network.
+---
 
-ZENON.wiki is a community managed wiki for Zenon Network.\
-
+# ZENON wiki
 
 ### Official Zenon Network Resources:
 
@@ -27,3 +28,4 @@ _Note: These resources are provided by the community and are not thoroughly vett
 * [https://shazzamazzash.medium.com/fundamental-analysis-of-zenon-network-based-on-charlie-mungers-investment-principles-9097db0fa1bd](https://shazzamazzash.medium.com/fundamental-analysis-of-zenon-network-based-on-charlie-mungers-investment-principles-9097db0fa1bd)
 * [https://medium.com/@shaimo/the-zenon-enigma-782f8b293bd6](https://medium.com/@shaimo/the-zenon-enigma-782f8b293bd6)
 * [https://yenhowell.medium.com/zenon-101-10-frequently-asked-questions-when-investing-in-zenon-b7eb0cd1a7de](https://yenhowell.medium.com/zenon-101-10-frequently-asked-questions-when-investing-in-zenon-b7eb0cd1a7de)
+* [https://medium.com/@georgezgeorgez/a-message-to-humans-an-aliens-guide-to-lightning-network-watchtower-limitations-and-beyond-96138967fa9b](https://medium.com/@georgezgeorgez/a-message-to-humans-an-aliens-guide-to-lightning-network-watchtower-limitations-and-beyond-96138967fa9b)
