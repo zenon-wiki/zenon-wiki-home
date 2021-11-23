@@ -18,9 +18,7 @@ If you chose to store you PIVX Zennies in the Legacy Wallet you were able to sta
 
 The Zenon team created the option to buy and trade a version of ZNN on Pancakeswap on the Binance Smart Chain ( wZNN on BSC ) using a Web.3 wallet like Metamask. You could swap ZNN from your Legacy Wallet on the PIVX chain for wZNN on Binance Smart Chain through a one-way bridge at a cost of 1 ZNN per 100 ZNN swapped. ( Send 100 ZNN, receive 99 wZNN ). You are still able to cross the one-way bridge from your Legacy Wallet to BSC if you want to trade your ZNN on Pancakeswap. wZNN is still active and it seems will remain so into the future as a cross-chain version of ZNN.
 
-More info from Zenon.
-
-[https://medium.com/@zenon.network/zenon-building-bridges-272538cde1a7](https://medium.com/@zenon.network/zenon-building-bridges-272538cde1a7)
+[More info from Zenon.](https://medium.com/@zenon.network/zenon-building-bridges-272538cde1a7)
 
 The wZNN token contract ( Updated November 22nd 2021 ):
 
@@ -36,15 +34,15 @@ On 19th November 2021 the Liquidity Pool on the wZNN / BNB Pancakeswap pair was 
 
 This means that the contract linked on Coingecko and CoinMarketCap with the address **0x8a7ca49f42e5196c26bb00fa014352e5d065db4d** IS NO LONGER VALID and your Metamask web3 wallet will show a zero balance for wZNN
 
-wZNN has been replaced by wZNN 2. At this contract address https://bscscan.com/address/0x84b174628911896a3b87fa6980d05dbc2ee74836
+All wZNN has been replaced with a new contract at [this contract address](https://bscscan.com/address/0x84b174628911896a3b87fa6980d05dbc2ee74836).
 
 **Find your replaced wZNN**&#x20;
 
-Click “Add new token” at the bottom of your Metamask BSC token list and add the token address 0x84b174628911896a3b87fa6980d05dbc2ee74836 to find your replaced wZNN.
+Click “Add new token” at the bottom of your Metamask BSC token list and add the new token address to find your replaced wZNN.
 
-Token contract address: 0x84b174628911896a3b87fa6980d05dbc2ee74836
+New Token contract address:    0x84b174628911896a3b87fa6980d05dbc2ee74836
 
-New Liquidity Pool contract address: 0xE6B03fCB16dAf3462DdfB8B0AFb3F0E87d38d884
+New Liquidity Pool contract address:    0xE6B03fCB16dAf3462DdfB8B0AFb3F0E87d38d884
 
 #### Can I swap wZNN for ZNN? <a href="can-i-swap-wznn-for-znn" id="can-i-swap-wznn-for-znn"></a>
 

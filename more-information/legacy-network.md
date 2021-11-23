@@ -6,11 +6,11 @@ description: Information for the 2018 - 2022 Legacy Zenon Network.
 
 #### Where are some good sources of information to familiarize myself with the project? <a href="q-where-are-some-good-sources-of-information-to-familiarize-myself-with-the-project" id="q-where-are-some-good-sources-of-information-to-familiarize-myself-with-the-project"></a>
 
-A community member compiled a lot of various info from other articles into one big article, “The Ape’s Guide to the Galaxy”. This is a great initial read to familiarize yourself with the project. Then you can dig into more details via the team’s medium articles or asking specific questions of the community in the official Telegram channel. Links are provided below:
+A community member compiled a lot of info from other articles into one big article; “The Ape’s Guide to the Galaxy”. This is a great initial read to familiarize yourself with the project. Then you can dig into more details via the team’s medium articles or asking specific questions of the community in the official Telegram channel. Links are provided below:
 
-[ https://medium.com/@zenon.network](https://medium.com/@zenon.network)
+[The Ape’s Guide to the Galaxy](https://shazzamazzash.medium.com/zenon-network-an-apes-guide-to-the-galaxy-7aad7dacdfef)
 
-[https://shazzamazzash.medium.com/zenon-network-an-apes-guide-to-the-galaxy-7aad7dacdfef](https://shazzamazzash.medium.com/zenon-network-an-apes-guide-to-the-galaxy-7aad7dacdfef)
+[Zenon Medium Page](https://medium.com/@zenon.network)
 
 #### What’s the difference between the Legacy Network and the Alphanet? <a href="q-whats-the-difference-between-the-legacy-network-and-the-alphanet" id="q-whats-the-difference-between-the-legacy-network-and-the-alphanet"></a>
 
@@ -20,7 +20,7 @@ The legacy network is a placeholder chain that allowed the network to decentrali
 
 You may safely store you PIVX ZNN in the Legacy wallet during the transition to the Network of Momentum and transfer at will to the new network once it launches. You have a 3 month time window to transfer without penalty, after that penalties begin to apply.
 
-The "Transition" tab will give you information on swapping Legacy ZNN for the NoM ZNN
+More information on swapping Legacy ZNN for the NoM ZNN is available [here.](the-transition.md)
 
 #### Legacy ZNN on Exchanges after the transition to NoM.
 

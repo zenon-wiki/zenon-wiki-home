@@ -6,15 +6,13 @@ description: Information on Funding, Launching and Maintaining Pillars
 
 #### I am interested in running a node on the Alphanet. Are there requirements or specifications for what is required in terms of hardware capabilities? <a href="q-i-am-interested-in-running-a-node-on-the-alphanet-are-there-requirements-or-specifications-for-wha" id="q-i-am-interested-in-running-a-node-on-the-alphanet-are-there-requirements-or-specifications-for-wha"></a>
 
-Yes the node hardware requirements have already been published for the Testnet. It doesn’t mean Alphanet’s will be the same, but you could imagine these as minimum requirements. You can easily achieve these requirements with a cloud vps.&#x20;
+Yes the node hardware requirements have already been published for the Testnet. It doesn’t mean Alphanet’s will be the same, but you could imagine these as minimum requirements. You can easily achieve these requirements with a cloud vps.
 
-https://testnet.znn.space/#!requirements.md
+[Alphanet Node Requirments.](https://testnet.znn.space/#!requirements.md)
 
 #### Are there any guides for deploying Nodes on the Network of Momentum?
 
-Yes a Community Member has created some here:
-
-https://github.com/sultanofstaking
+Yes Community Member SultanOfStaking has created some [here:](https://github.com/sultanofstaking)
 
 #### Why are Pillars and Sentinels so expensive?
 

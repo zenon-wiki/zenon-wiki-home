@@ -1,6 +1,6 @@
 # Introducing ZENON
 
-Zenon is a Dual Layer, Dual Coin, fee-less protocol that has been in design and build phase since 2018. The protocol itself is called the Network of Momentum ( NoM ) and the coins built into that protocol are Zenon/ZNN and Quasar/QSR.
+Zenon Network is a Dual Layer, Dual Coin, fee-less protocol that has been in design and build phase since early 2018. The protocol itself is called the Network of Momentum ( NoM ) and the coins built into that protocol are Zenon/ZNN and Quasar/QSR.
 
 While the NoM has been in development the Zenon team put in place a temporary network built on a fork of PIVX, with its own wallet. That wallet is called the Legacy Wallet and the current ZNN coin you buy on CEX’s and in OTC channels is actually a PIVX coin which can be stored ONLY within the Legacy Zenon Wallet OR on the exchanges where you can buy ZNN.
 
@@ -8,7 +8,7 @@ While the NoM has been in development the Zenon team put in place a temporary ne
 
 The Zenon Network of Momentum ( NoM ) is an evolutionary “Blockchain” 3.0. It has a Dual Layer Structure with a DAG ( Directed Acyclic Graph ) base layer, and a Block Lattice transaction layer. The Network is secured through both Proof of Work ( PoW ) and Proof of Stake ( PoS ). It is powered by two coins; Zenon/ZNN is the fundamental transactional coin and Quasar/QSR the fuel coin which secures the Network through Proof of Stake.
 
-There are two types of Nodes on the NoM; Pillars and Sentinels. Pillars require high levels of commitment, both in value and resources to ensure a strong foundation for the NoM, Sentinels require less commitment and allow a broader base to help secure the NoM.
+There are two types of Nodes on the NoM; Pillars and Sentinels. Pillars require high levels of commitment, both in value and resources, to ensure a strong foundation for the NoM, Sentinels require less commitment and allow a broader base to help secure the NoM.
 
 The NoM has a fall-back Proof of Work security mechanism - in that if you do not have Quasar/QSR you will still be able to transact, albeit at a slower pace, by generating Proof of Work for each transaction.
 
@@ -29,12 +29,12 @@ The Network of Momentum allows for:
 * Staking for QSR rewards and Delegating for ZNN rewards
 * Low energy consumption to maintain and secure the Network of Momentum
 
-The Network of Momentum will launch in November 2021. That launch is called “The Big Bang” and at that time the “Alphanet” will go live.
+The Network of Momentum will launch in November 2021. At that time the “Alphanet” will go live.
 
 More info from Zenon.&#x20;
 
-[https://medium.com/@zenon.network/paving-the-way-1332f61a66b2](https://medium.com/@zenon.network/paving-the-way-1332f61a66b2)
+<mark style="color:blue;"></mark>[<mark style="color:blue;">Zenon Network Medium</mark>](https://medium.com/@zenon.network/paving-the-way-1332f61a66b2)<mark style="color:blue;"></mark>
 
-[https://twitter.com/Zenon\_Network](https://twitter.com/Zenon\_Network)
+<mark style="color:blue;"></mark>[<mark style="color:blue;">Zenon Network Twitter</mark>](https://twitter.com/Zenon\_Network)<mark style="color:blue;"></mark>
 
-[https://zenon.network](https://zenon.network)
+<mark style="color:blue;"></mark>[<mark style="color:blue;">Zenon Network Website</mark>](https://zenon.network)<mark style="color:blue;"></mark>

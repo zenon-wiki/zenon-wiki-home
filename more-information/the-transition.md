@@ -16,13 +16,11 @@ At the Big Swap you will be able to permanently swap your Legacy Zennies for the
 
 Once the NoM is live as the Alphanet, you will be able to swap the Legacy ZNN for Nom ZNN using the Legacy Wallet ONLY. You will not be able to do the swap via a CEX where you bought your PIVX ZNN. So everyone who has Legacy ZNN will need to fire up version 1.6.5 ( or later ) of the Legacy Zenon wallet, move your Legacy ZNN off an exchange to the Legacy Wallet before November 19 2021 and swap from there to the NoM Syrius Wallet. This means you will need to run the latest versions of BOTH the Legacy ZNN wallet and the Syrius Wallet ( so you have a Syrius address to send to )
 
-You can access the latest versions of both the Zenon Core Legacy Wallet and the S Y R I U S Network of Momentum Wallet at the bottom of the official Zenon Network page.&#x20;
+You can access the latest versions of both the Zenon Core Legacy Wallet and the S Y R I U S Network of Momentum Wallet at the bottom of the official [Zenon Network page. ](https://zenon.network)
 
-[https://zenon.network](https://zenon.network)
+The swap will be similar in process to the testnet swap, which went well.&#x20;
 
-The swap will be similar in process to the testnet swap, which went well. Here’s the how-to for the test swap.&#x20;
-
-[https://medium.com/@zenon.network/swapdrop-event-october-1st-bd99964589aa](https://medium.com/@zenon.network/swapdrop-event-october-1st-bd99964589aa)
+[Here’s the how-to for the test swap. ](https://medium.com/@zenon.network/swapdrop-event-october-1st-bd99964589aa)
 
 #### If I am delayed in swapping my coins over to Alphanet can I leave the coins in the Legacy Wallet without an issue? <a href="q-is-there-an-issue-if-i-am-delayed-in-swapping-my-coins-over-to-alphanet-can-i-leave-the-coins-in-t" id="q-is-there-an-issue-if-i-am-delayed-in-swapping-my-coins-over-to-alphanet-can-i-leave-the-coins-in-t"></a>
 
@@ -36,9 +34,7 @@ This will be a forced swap - you have 1 year to move your Legacy ZNN to NoM ZNN,
 
 The first swap cycle will last for 3 months with a Swap Ratio of 1:1. The next cycles until the end of the swap process will last 1 month each. Beginning with Swap Cycle 2, the Swap Ratio will progressively decrease each cycle by 10% until it reaches 0: after the last swap cycle is completed, it won’t be possible to swap coins from the Legacy Network anymore. We decided to triple the period for the first cycle compared to the other cycles in order to give our participants sufficient time to complete the swap without any penalties.
 
-More info from Zenon.
-
-https://medium.com/@zenon.network/alphanet-swap-cycles-658981a9d8bd
+[More info from Zenon.](https://medium.com/@zenon.network/alphanet-swap-cycles-658981a9d8bd)
 
 #### My ZNN was still on an Exchange after the transition to NoM. What happens now?
 
@@ -52,16 +48,6 @@ If you’re not willing to take that risk it is safer to buy wZNN.
 
 **Option to bridge “old” ZNN to wZNN on Binance Smart Chain.**
 
-The Zenon team created the option to buy and trade a version of ZNN on Pancakeswap on the Binance Smart Chain ( wZNN on BSC ) using a Web.3 wallet like Metamask. You can swap ZNN from your Legacy Wallet on the PIVX chain for wZNN on Binance Smart Chain through a one-way bridge at a cost of 1 ZNN per 100 ZNN swapped. ( Send 100 ZNN, receive 99 wZNN ).&#x20;
-
-wZNN will remain active into the future as a cross-chain version of ZNN.
-
-More info from Zenon. [https://medium.com/@zenon.network/zenon-building-bridges-272538cde1a7](https://medium.com/@zenon.network/zenon-building-bridges-272538cde1a7)
-
-The wZNN token contract. [https://bscscan.com/token/0x8a7ca49f42e5196c26bb00fa014352e5d065db4d](https://bscscan.com/token/0x8a7ca49f42e5196c26bb00fa014352e5d065db4d)
-
-Step by step - Swap Legacy ZNN for wZNN. [https://medium.com/@rufusizthebezt/how-to-swap-znn-wznn-5d97ce4d1a0f](https://medium.com/@rufusizthebezt/how-to-swap-znn-wznn-5d97ce4d1a0f)
-
-Once you have wZNN you will be able to bridge those wZNN ( wrapped ZNN ) on Binance Smart Chain back to NoM ZNN in Syrius. That bridge will be two-way.
+The Zenon team created the option to buy and trade a version of ZNN on Pancakeswap on the Binance Smart Chain ( wZNN on BSC ) using a Web.3 wallet like Metamask. **This bridge from Legacy ZNN to BSC is currently closed.**&#x20;
 
 #### &#x20;<a href="q-can-i-still-participate-in-swapdrop-and-receive-pp-rewards" id="q-can-i-still-participate-in-swapdrop-and-receive-pp-rewards"></a>

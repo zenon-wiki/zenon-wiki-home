@@ -22,4 +22,4 @@ Plasma is created by ‘fusing’ the second coin of the NoM, Quasar, in your Sy
 
 So in a way you do have to pay for transactions by buying and fusing Quasar, but that Quasar can be unfused at any time after an initial short lock time and is not depleted through the action of creating Plasma. The Quasar/QSR you put in to fuse is what you get back when you un-fuse. The Plasma generated through fusing is algorithmically determined to ensure the network stays stable and cannot be spammed - there will never be enough plasma in the network to congest it. Everyone only gets a portion of the throughput depending on how much QSR is staked.
 
-, and the PoW is apparently very difficult so its effects are negligible. "
+The PoW is apparently very difficult so its effects are negligible. "

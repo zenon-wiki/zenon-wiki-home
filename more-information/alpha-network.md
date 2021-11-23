@@ -20,21 +20,19 @@ Other than that the Network of Momentum is fee-less.
 
 The Network of Momentum has been in development and refinement since 2018. Due for launch towards the end of 2021. That launch will be called “The Big Bang” and at that time the “Alphanet” will go live.
 
-More info from Zenon.&#x20;
-
-[https://medium.com/@zenon.network/paving-the-way-1332f61a66b2](https://medium.com/@zenon.network/paving-the-way-1332f61a66b2)
+[More info from Zenon. ](https://medium.com/@zenon.network/paving-the-way-1332f61a66b2)
 
 #### Where are some good sources of information to familiarize myself with the project? <a href="q-where-are-some-good-sources-of-information-to-familiarize-myself-with-the-project" id="q-where-are-some-good-sources-of-information-to-familiarize-myself-with-the-project"></a>
 
 A community member compiled a lot of info from other articles into one big article; “The Ape’s Guide to the Galaxy”. This is a great initial read to familiarize yourself with the project. Then you can dig into more details via the team’s medium articles or asking specific questions of the community in the official Telegram channel. Links are provided below:
 
-https://shazzamazzash.medium.com/zenon-network-an-apes-guide-to-the-galaxy-7aad7dacdfef https://medium.com/@zenon.network
+[The Ape’s Guide to the Galaxy](https://shazzamazzash.medium.com/zenon-network-an-apes-guide-to-the-galaxy-7aad7dacdfef)
+
+[Zenon Medium Page](https://medium.com/@zenon.network)
 
 #### What are the Coinmetrics for Zenon Network of Momentum?
 
-You can find that information here
-
-[https://medium.com/@zenon.network/znn-x-qsr-alphanet-specifications-83d27c005c09](https://medium.com/@zenon.network/znn-x-qsr-alphanet-specifications-83d27c005c09)
+You can find that information [here](https://medium.com/@zenon.network/znn-x-qsr-alphanet-specifications-83d27c005c09).
 
 #### Testnet & Syrius wallet.
 
@@ -51,6 +49,6 @@ Yes. Initially only the embedded smart contract layer will be available at Alpha
 
 #### I am interested in running a node on the Alphanet. Are there requirements or specifications for what is required in terms of hardware capabilities? <a href="q-i-am-interested-in-running-a-node-on-the-alphanet-are-there-requirements-or-specifications-for-wha" id="q-i-am-interested-in-running-a-node-on-the-alphanet-are-there-requirements-or-specifications-for-wha"></a>
 
-Yes the node hardware requirements have already been published for the Testnet. It doesn’t mean Alphanet’s will be the same, but you could imagine these as minimum requirements. You can easily achieve these requirements with a cloud vps.&#x20;
+Yes the node hardware requirements have already been published for the Testnet. It doesn’t mean Alphanet’s will be the same, but you could imagine these as minimum requirements. You can easily achieve these requirements with a cloud vps.
 
-https://testnet.znn.space/#!requirements.md
+[Alphanet Node Requirments.](https://testnet.znn.space/#!requirements.md)
