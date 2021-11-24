@@ -32,11 +32,9 @@ The wZNN Liquidity Pool contract ( Updated November 22nd 2021 ):
 
 On 19th November 2021 the Liquidity Pool on the wZNN / BNB Pancakeswap pair was drained by a hacker. In the 24 hours following that the team burnt all wZNN and replaced them with a new contract.
 
-This means that the contract linked on Coingecko and CoinMarketCap with the address **0x8a7ca49f42e5196c26bb00fa014352e5d065db4d** IS NO LONGER VALID and your Metamask web3 wallet will show a zero balance for wZNN
+This means that the contract linked on Coingecko and CoinMarketCap with the address **0x8a7ca49f42e5196c26bb00fa014352e5d065db4d** is no longer valid and your Metamask web3 wallet will show a zero balance for wZNN.
 
-All wZNN has been replaced with a new contract at [this contract address](https://bscscan.com/address/0x84b174628911896a3b87fa6980d05dbc2ee74836).
-
-**Find your replaced wZNN**&#x20;
+**Add the new contract for wZNN.**
 
 Click “Add new token” at the bottom of your Metamask BSC token list and add the new token address to find your replaced wZNN.
 
@@ -47,10 +45,6 @@ New Liquidity Pool contract address:    0xE6B03fCB16dAf3462DdfB8B0AFb3F0E87d38d8
 #### Can I swap wZNN for ZNN? <a href="can-i-swap-wznn-for-znn" id="can-i-swap-wznn-for-znn"></a>
 
 Once the Zenon Network of Momentum is out of it’s Testnet phase and active ( Alphanet ), you will be able to swap wZNN coins on BSC for ZNN on the Network of Momentum ( NoM ) through a two-way bridge, meaning you can go from ZNN on NoM to wZNN on Binance Smart Chain and back again if you find liquidity is better on Pancakeswap, or want to hold your ZNN as wZNN in Metamask. We don’t yet know what the fees will be to cross that bridge.
-
-#### What is the new wZNN token address on BSC? <a href="q-what-is-the-wznn-token-address-on-bsc" id="q-what-is-the-wznn-token-address-on-bsc"></a>
-
-[https://bscscan.com/token/0x84b174628911896a3b87fa6980d05dbc2ee74836](https://bscscan.com/token/0x84b174628911896a3b87fa6980d05dbc2ee74836)
 
 #### Can I store wZNN in Metamask? <a href="q-can-i-store-wznn-in-metamask" id="q-can-i-store-wznn-in-metamask"></a>
 

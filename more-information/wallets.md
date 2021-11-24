@@ -32,11 +32,11 @@ Go to Syrius ( make sure it's version 5.0 or later ) Go to the settings tab. Scr
 
 #### Zenon Network guide for the Legacy Wallet is here.
 
-https://zenon.network/howto
+[Legacy wallet How-to](https://zenon.network/howto)&#x20;
 
 #### Community Member guide for the Legacy Wallet is here.
 
-https://crypto-iverson.medium.com/so-you-bought-znn-de91d97a2bcb
+[Crypto Iverson Guide ](https://crypto-iverson.medium.com/so-you-bought-znn-de91d97a2bcb)
 
 #### I downloaded the Legacy wallet but it didn’t make me create a recovery phrase, why? <a href="q-i-downloaded-the-legacy-wallet-but-it-didnt-make-me-create-a-recovery-phrase-why" id="q-i-downloaded-the-legacy-wallet-but-it-didnt-make-me-create-a-recovery-phrase-why"></a>
 
@@ -56,7 +56,7 @@ There’s a backup of your wallet in c:/users/**your username**/appdata/roaming/
 
 #### How do you get the private keys from legacy wallet? Is there a command?
 
-Yes - Go to tools >> click on 'debug console'&#x20;
+Go to tools >> click on 'debug console'&#x20;
 
 type: walletpassphrase "your walletpassphrase here"&#x20;
 

@@ -28,7 +28,7 @@ NoM 0 is the first stage of the Network of Momentum. It will last approximately 
 
 Network of Momentum ZNN can be stored in the Syrius Wallet. Wrapped ZNN can be stored in any Web.3 wallet like Metamask. Legacy ZNN can ONLY be stored in the Legacy wallet.
 
-Wallet’s linked at the bottom of this page [Zenon. Network](https://zenon.network)
+Wallet’s linked at the bottom of this page [Zenon.Network](https://zenon.network)
 
 **Is there a mobile wallet for Zenon? **
 
@@ -52,7 +52,7 @@ ZNN can be swapped for QSR within the Syrius Wallet. That QSR can be sent to any
 
 **Is Zenon Network really Fee-less? **
 
-Yes. You do however need to fuse QSR to the transaction address to drive zero fee transactions. That QSR can be un-fused at anytime with no loss of QSR.
+Yes. You do however need to fuse QSR to the transaction address to drive zero-fee transactions. That QSR can be un-fused at any time with no loss of QSR.
 
 **How can I support the Network? **
 
@@ -68,7 +68,7 @@ Legacy ZNN are safe in the Legacy Wallet but need to be swapped over to the NoM.
 
 **I left my ZNN on an exchange, what will happen to them? **
 
-It is entirely up to the Exchanges to honour your purchase of Legacy ZNN and swap them out for NoM ZNN. More info here.
+It is entirely up to the Exchanges to honour your purchase of Legacy ZNN and swap them out for NoM ZNN.
 
 **Must I do something to swap to the new Network? **
 
@@ -102,7 +102,7 @@ Yes. wZNN is a BSC token that can be stored in any compatible Web.3 wallet.
 
 **Can I store wZNN in a hardware wallet? **
 
-Yes wZNN is BSC token and as such can be stored in a Ledger or Trezor wallet.
+Yes, wZNN is a BSC token and as such can be stored in a Ledger or Trezor wallet.
 
 **What is the new wZNN contract address? **
 

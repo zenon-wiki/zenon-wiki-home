@@ -16,7 +16,7 @@ While that has been in development the Zenon team put in place a temporary **Leg
 
 The **Testnet** of the Network of Momentum was launched in early 2021, with it's own wallet, called S Y R I U S. A faucet was created on Telegram to request tZNN and tQSR so that anyone could launch a wallet and begin testing all functions. To drive participation in the Testnet it was incentivised so that people could receive real rewards for completing tasks and testing functions.
 
-Wrapped ZNN was created ( wZNN ) on the Binance Smart Chain to ensure access to a tradeable and liquid version of ZNN as the Network transitioned across Legacy into Testnet and then on to Alphanet. See "Coins and Tokens" in the FAQ for more info.
+Wrapped ZNN was created ( wZNN ) on the Binance Smart Chain to ensure access to a tradeable and liquid version of ZNN as the Network transitioned across Legacy into Testnet and then on to Alphanet. See [wZNN](faq.md#wznn-wrapped-znn) in the FAQ for more info.
 
 ### 2021 -&#x20;
 
