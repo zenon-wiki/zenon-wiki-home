@@ -6,7 +6,7 @@ description: A community driven resource for Zenon Network
 
 **Has there been a private sale? **
 
-No - ZNN was distributed through a lockdrop to those who staked BTC and ran a node for a year. The BTC was returned.
+No - ZNN was distributed through a lockdrop to those who staked BTC and ran a node for a year or longer. The BTC was returned.
 
 **What is the initial circulating supply? **
 
