@@ -16,7 +16,7 @@ description: A community managed wiki for Zenon Network.
 
 <mark style="color:blue;"></mark>[<mark style="color:blue;">discord</mark>](https://discord.gg/XDDjECy)<mark style="color:blue;"></mark>
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">github</mark>](https://github.com/zenonnetwork)<mark style="color:blue;"></mark>
+<mark style="color:blue;"></mark>[<mark style="color:blue;">github</mark>](https://github.com/zenon-network)<mark style="color:blue;">,</mark> [<mark style="color:blue;">github</mark>](https://github.com/zenonnetwork) <mark style="color:blue;">(legacy)</mark>
 
 <mark style="color:blue;"></mark>[<mark style="color:blue;">bitcoin talk</mark>](https://bitcointalk.org/index.php?topic=5279643.msg55303681#msg55303681)<mark style="color:blue;"></mark>
 
