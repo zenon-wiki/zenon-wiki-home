@@ -2,7 +2,9 @@
 description: A community managed wiki for Zenon Network.
 ---
 
-# ZENON wiki
+# ZENON WIKI
+
+![](.gitbook/assets/zenon-wiki-logo.jpg)
 
 ### **Official Zenon Network Resources:**
 
