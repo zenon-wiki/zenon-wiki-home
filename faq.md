@@ -14,7 +14,9 @@ Total supply of ZNN after 1 year is 8 052 917. More info [here](https://medium.c
 
 #### I want to swap my ZNN to the New Network.
 
-A community member made a simple walk through video [here](https://youtu.be/Ge9BMVHC5JA?t=34).
+Community member simple quick walk-through video [here](https://youtu.be/Ge9BMVHC5JA?t=34).
+
+Community member more detailed walk-through for newbies [here](https://youtu.be/XtA\_HgiEnoY).
 
 **Is there an explorer for the NoM? **
 

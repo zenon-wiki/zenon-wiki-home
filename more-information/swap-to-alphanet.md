@@ -6,7 +6,9 @@ description: Information related to moving from Zenon Legacy Network to the Alph
 
 #### I want to swap my ZNN to the New Network.
 
-A community member made a simple walk through video [here](https://youtu.be/Ge9BMVHC5JA?t=34).
+Community member simple quick walk-through video [here](https://youtu.be/Ge9BMVHC5JA?t=34).
+
+Community member more detailed walk-through for newbies [here](https://youtu.be/XtA\_HgiEnoY).
 
 #### I have the “old” ZNN, what happens with them? <a href="i-have-the-old-znn-what-happens-with-them" id="i-have-the-old-znn-what-happens-with-them"></a>
 
