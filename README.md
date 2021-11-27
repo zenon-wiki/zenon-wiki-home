@@ -1,10 +1,10 @@
 ---
 description: A community managed wiki for Zenon Network.
+cover: .gitbook/assets/zenon-wiki-banner.jpg
+coverY: 0
 ---
 
 # ZENON WIKI
-
-![](.gitbook/assets/zenon-wiki-logo.jpg)
 
 ### **Official Zenon Network Resources:**
 
