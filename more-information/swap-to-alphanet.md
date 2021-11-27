@@ -2,7 +2,11 @@
 description: Information related to moving from Zenon Legacy Network to the Alpha Network
 ---
 
-# The Transition
+# Swap to Alphanet
+
+#### I want to swap my ZNN to the New Network.
+
+A community member made a simple walk through video [here](https://youtu.be/Ge9BMVHC5JA?t=34).
 
 #### I have the “old” ZNN, what happens with them? <a href="i-have-the-old-znn-what-happens-with-them" id="i-have-the-old-znn-what-happens-with-them"></a>
 

@@ -7,7 +7,7 @@
 * [More Information](more-information/README.md)
   * [Alpha Network](more-information/alpha-network.md)
   * [Legacy Network](more-information/legacy-network.md)
-  * [The Transition](more-information/the-transition.md)
+  * [Swap to Alphanet](more-information/swap-to-alphanet.md)
   * [Coins & Tokens](more-information/coins-and-tokens.md)
   * [Wallets](more-information/wallets.md)
   * [Fees & Plasma](more-information/fees-and-plasma.md)
