@@ -4,7 +4,7 @@ description: Information related to moving from Zenon Legacy Network to the Alph
 
 # Swap to Alphanet
 
-#### How do I swap my Legacy ZNN to the Alphanet?
+#### **How do I swap my Legacy ZNN to the Alphanet?**
 
 Community member simple quick walk-through video [here](https://youtu.be/Ge9BMVHC5JA?t=34).
 

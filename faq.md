@@ -12,7 +12,7 @@ No - ZNN was distributed through a lockdrop to those who staked BTC and ran a no
 
 Total supply of ZNN after 1 year is 8 052 917. More info [here](https://medium.com/@zenon.network/znn-x-qsr-alphanet-specifications-83d27c005c09).
 
-#### How do I swap my Legacy ZNN to the Alphanet?
+#### **How do I swap my Legacy ZNN to the Alphanet?**
 
 Community member simple quick walk-through video [here](https://youtu.be/Ge9BMVHC5JA?t=34).
 
