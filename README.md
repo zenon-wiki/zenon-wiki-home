@@ -32,11 +32,11 @@ coverY: 0
 
 _Note: These resources are provided by the community and are not thoroughly vetted by zenon.wiki. Information may be inaccurate, speculative, or out of date._
 
-#### Community Telegrams&#x20;
+#### **Community Telegrams **
 
 [english](https://t.me/Zenon\_Community), [français](https://t.me/ZenonFR), [русский](https://t.me/Zenonnetwork\_Ru), [nederlands](https://t.me/ZenonNL), [indonesian](https://t.me/zenonnetwork\_ind),&#x20;
 
-#### Community Articles
+#### **Community Articles**
 
 <mark style="color:blue;"></mark>[<mark style="color:blue;">Crypto Academy - Lets Explore Zenon Network</mark>](https://knowledgeiskey2017.medium.com/lets-explore-zenon-network-cf46d6a8d1ee)<mark style="color:blue;"></mark>
 
@@ -52,6 +52,6 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 <mark style="color:blue;"></mark>[<mark style="color:blue;">Shaimo - The Zenon Enigma</mark>](https://medium.com/@shaimo/the-zenon-enigma-782f8b293bd6)<mark style="color:blue;"></mark>
 
-#### Tools
+#### **Tools**
 
 <mark style="color:blue;"></mark>[<mark style="color:blue;">community legacy explorer</mark>](https://explorer.zenon.community)<mark style="color:blue;"></mark>
