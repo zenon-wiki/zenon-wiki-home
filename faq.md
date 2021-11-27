@@ -56,7 +56,7 @@ Yes. You do however need to fuse QSR to the transaction address to drive zero-fe
 
 **How can I support the Network? **
 
-The Network of Momentum is supported by Pillars, Sentinels and Sentries. These are Nodes each with their own commitment levels and rewards. See [here](more-information/pillars-and-sentinels.md) for more information.
+The Network of Momentum is supported by Pillars, Sentinels and Sentries. These are Nodes each with their own commitment levels and rewards. See [here](more-information/nodes-pillars-and-sentinels.md) for more information.
 
 **What are some good sources of information to familiarise myself with the project? **
 

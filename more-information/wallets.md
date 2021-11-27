@@ -16,6 +16,10 @@ The first public tests of the Network of Momentum began in 2021. These public te
 
 The Syrius Wallet will be the go-to wallet on the Network of Momentum once it transitions from the Testnet to the Alphanet.
 
+#### I would like to change the Node my Syrius wallet points to, how do I do that?
+
+In the Syrius wallet go to the Settings tab. Scroll down >> Bottom left /Node Management >> Add Node >> and put in the address of your new Node aggregator, an example is '  ws://peers.zenon.wiki:35998  ' then click 'Confirm Node'.
+
 #### When will cold wallet support be available? <a href="q-when-will-cold-wallet-support-be-available" id="q-when-will-cold-wallet-support-be-available"></a>
 
 The implementation for cold wallet support is possible and can be developed after Alphanet launch.
@@ -23,10 +27,6 @@ The implementation for cold wallet support is possible and can be developed afte
 #### Is there a Mobile Wallet for Zenon Network of Momentum?
 
 There will be a mobile version of Syrius as well as community-built mobile wallets, which are in test phase. Nothing is released yet.
-
-#### I would like to change the Node my Syrius wallet points to, how do I do that?
-
-Go to Syrius ( make sure it's version 5.0 or later ) Go to the settings tab. Scroll down >> Bottom left /Node Management >> Add Node >> and put in the address of your new Node aggregator, an example is ' peers.zenon.wiki ' then click 'Confirm Node'.
 
 ### Legacy wallet
 

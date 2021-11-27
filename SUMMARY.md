@@ -13,6 +13,6 @@
   * [Fees & Plasma](more-information/fees-and-plasma.md)
   * [Staking & Incentives](more-information/staking-and-incentives.md)
   * [Bridging](more-information/bridging.md)
-  * [Pillars & Sentinels](more-information/pillars-and-sentinels.md)
+  * [Nodes: Pillars & Sentinels](more-information/nodes-pillars-and-sentinels.md)
   * [Security](more-information/security.md)
 * [Developer Resources](https://app.gitbook.com/o/WjZkdKfxKcBlqofAEh6T/s/fm0t4BmyDNLJv2QIc12T/)

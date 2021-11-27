@@ -8,19 +8,19 @@ description: A community managed wiki for Zenon Network.
 
 ### **Official Zenon Network Resources:**
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">website</mark>](https://zenon.network)<mark style="color:blue;"></mark>
+<mark style="color:blue;"></mark>[<mark style="color:blue;">Zenon Network website</mark>](https://zenon.network)<mark style="color:blue;"></mark>
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">twitter</mark>](https://twitter.com/Zenon\_Network)
+<mark style="color:blue;"></mark>[<mark style="color:blue;">Zenon Network medium</mark>](https://medium.com/@zenon.network) <mark style="color:blue;">articles</mark>
 
-[<mark style="color:blue;">telegram</mark>](https://t.me/joinchat/MLyPehLIbJj1nw1XOOOltg)<mark style="color:blue;"></mark>
+[Zenon Network t<mark style="color:blue;">witter</mark> ](https://twitter.com/Zenon\_Network)
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">discord</mark>](https://discord.gg/XDDjECy)<mark style="color:blue;"></mark>
+[Zenon Network <mark style="color:blue;">telegram</mark>](https://t.me/joinchat/MLyPehLIbJj1nw1XOOOltg)<mark style="color:blue;"></mark>
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">github</mark>](https://github.com/zenon-network)<mark style="color:blue;">,</mark> [<mark style="color:blue;">github (legacy)</mark>](https://github.com/zenonnetwork)<mark style="color:blue;"></mark>
+<mark style="color:blue;"></mark>[<mark style="color:blue;">Zenon Network discord</mark>](https://discord.gg/XDDjECy)<mark style="color:blue;"></mark>
+
+<mark style="color:blue;">Zenon Network Alphanet</mark> [<mark style="color:blue;">github</mark>](https://github.com/zenon-network)<mark style="color:blue;">, Legacy Network</mark> [<mark style="color:blue;">github</mark>](https://github.com/zenonnetwork)<mark style="color:blue;">.</mark>
 
 <mark style="color:blue;"></mark>[<mark style="color:blue;">bitcoin talk</mark>](https://bitcointalk.org/index.php?topic=5279643.msg55303681#msg55303681)<mark style="color:blue;"></mark>
-
-<mark style="color:blue;"></mark>[<mark style="color:blue;">medium</mark>](https://medium.com/@zenon.network)<mark style="color:blue;"></mark>
 
 <mark style="color:blue;"></mark>[<mark style="color:blue;">youtube</mark>](https://www.youtube.com/channel/UCDb8ZtqBt6l5l4HugCnJwhQ)<mark style="color:blue;"></mark>
 
@@ -32,13 +32,11 @@ description: A community managed wiki for Zenon Network.
 
 _Note: These resources are provided by the community and are not thoroughly vetted by zenon.wiki. Information may be inaccurate, speculative, or out of date._
 
-__
+#### Community Telegrams&#x20;
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">community legacy explorer</mark>](https://explorer.zenon.community)<mark style="color:blue;"></mark>
+[english](https://t.me/Zenon\_Community), [français](https://t.me/ZenonFR), [русский](https://t.me/Zenonnetwork\_Ru), [nederlands](https://t.me/ZenonNL), [indonesian](https://t.me/zenonnetwork\_ind),&#x20;
 
-community telegrams - [english](https://t.me/Zenon\_Community), [français](https://t.me/ZenonFR), [русский](https://t.me/Zenonnetwork\_Ru), [nederlands](https://t.me/ZenonNL), [indonesian](https://t.me/zenonnetwork\_ind),&#x20;
-
-
+#### Community Articles
 
 <mark style="color:blue;"></mark>[<mark style="color:blue;">Crypto Academy - Lets Explore Zenon Network</mark>](https://knowledgeiskey2017.medium.com/lets-explore-zenon-network-cf46d6a8d1ee)<mark style="color:blue;"></mark>
 
@@ -53,3 +51,7 @@ community telegrams - [english](https://t.me/Zenon\_Community), [français](http
 <mark style="color:blue;"></mark>[<mark style="color:blue;">Georgez Georgez - A Message to Humans - An Aliens Guide to Lightning and Beyond</mark>](https://medium.com/@georgezgeorgez/a-message-to-humans-an-aliens-guide-to-lightning-network-watchtower-limitations-and-beyond-96138967fa9b)<mark style="color:blue;"></mark>
 
 <mark style="color:blue;"></mark>[<mark style="color:blue;">Shaimo - The Zenon Enigma</mark>](https://medium.com/@shaimo/the-zenon-enigma-782f8b293bd6)<mark style="color:blue;"></mark>
+
+#### Tools
+
+<mark style="color:blue;"></mark>[<mark style="color:blue;">community legacy explorer</mark>](https://explorer.zenon.community)<mark style="color:blue;"></mark>

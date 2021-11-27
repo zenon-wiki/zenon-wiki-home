@@ -51,4 +51,4 @@ Yes. Initially only the embedded smart contract layer will be available at Alpha
 
 Yes the node hardware requirements have already been published for the Testnet. It doesn’t mean Alphanet’s will be the same, but you could imagine these as minimum requirements. You can easily achieve these requirements with a cloud vps.
 
-[Alphanet Node Requirments.](https://testnet.znn.space/#!requirements.md)
+[Alphanet Node Requirements.](https://testnet.znn.space/#!requirements.md)

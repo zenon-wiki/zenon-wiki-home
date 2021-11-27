@@ -2,7 +2,11 @@
 description: Information on Funding, Launching and Maintaining Pillars
 ---
 
-# Pillars & Sentinels
+# Nodes: Pillars & Sentinels
+
+#### I would like to change the Node my Syrius wallet points to, how do I do that?
+
+In the Syrius wallet go to the Settings tab. Scroll down >> Bottom left /Node Management >> Add Node >> and put in the address of your new Node aggregator, an example is '  ws://peers.zenon.wiki:35998  ' then click 'Confirm Node'.
 
 #### I am interested in running a node on the Alphanet. Are there requirements or specifications for what is required in terms of hardware capabilities? <a href="q-i-am-interested-in-running-a-node-on-the-alphanet-are-there-requirements-or-specifications-for-wha" id="q-i-am-interested-in-running-a-node-on-the-alphanet-are-there-requirements-or-specifications-for-wha"></a>
 
