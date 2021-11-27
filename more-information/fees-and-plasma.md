@@ -4,7 +4,7 @@ description: Information on fees and bonding QSR for Plasma
 
 # Fees & Plasma
 
-#### How do I get Plasma for sending fee-less transactions?
+#### **How do I get Plasma for sending fee-less transactions?**
 
 Once the Alphanet is live ZNN can be swapped for QSR within the Syrius Wallet. In turn that QSR can be sent to any address you are using for transactions and fused to that Address in the Plasma tab of the Syrius wallet. A sum of 10 QSR should be fine to normal activity.&#x20;
 

@@ -4,21 +4,21 @@ description: Information on Funding, Launching and Maintaining Pillars
 
 # Nodes: Pillars & Sentinels
 
-#### I would like to change the Node my Syrius wallet points to, how do I do that?
+#### **I would like to change the Node my Syrius wallet points to, how do I do that?**
 
 In the Syrius wallet go to the Settings tab. Scroll down >> Bottom left /Node Management >> Add Node >> and put in the address of your new Node aggregator, an example is '  ws://peers.zenon.wiki:35998  ' then click 'Confirm Node'.
 
-#### I am interested in running a node on the Alphanet. Are there requirements or specifications for what is required in terms of hardware capabilities? <a href="q-i-am-interested-in-running-a-node-on-the-alphanet-are-there-requirements-or-specifications-for-wha" id="q-i-am-interested-in-running-a-node-on-the-alphanet-are-there-requirements-or-specifications-for-wha"></a>
+#### I** am interested in running a node on the Alphanet. Are there requirements or specifications for what is required in terms of hardware capabilities?** <a href="q-i-am-interested-in-running-a-node-on-the-alphanet-are-there-requirements-or-specifications-for-wha" id="q-i-am-interested-in-running-a-node-on-the-alphanet-are-there-requirements-or-specifications-for-wha"></a>
 
 Yes the node hardware requirements have already been published for the Testnet. It doesn’t mean Alphanet’s will be the same, but you could imagine these as minimum requirements. You can easily achieve these requirements with a cloud vps.
 
 [Alphanet Node Requirments.](https://testnet.znn.space/#!requirements.md)
 
-#### Are there any guides for deploying Nodes on the Network of Momentum?
+#### **Are there any guides for deploying Nodes on the Network of Momentum?**
 
 Yes Community Member SultanOfStaking has created some [here:](https://github.com/sultanofstaking)
 
-#### Why are Pillars and Sentinels so expensive?
+#### **Why are Pillars and Sentinels so expensive?**
 
 The Network of Momentum probably wouldn’t perform very well if nodes didn’t have stable uptimes and could join/leave at will. This is currently an issue with Lightning and why it ends up being more centralized than we would like. High collateral is skin in the game to prevent that. The high price of buy-in also constitutes as COLLATERAL, meaning possible punitive actions for bad behaviour. Especially when we start talking about BTC interoperability.
 
@@ -26,7 +26,7 @@ Having a stable set of nodes is important for each step of a transaction. Every 
 
 The NoM is not like BTC where we can randomly send to any node and receive blocks every 10 minutes. Momentums are much faster.
 
-#### How do I reclaim ZNN & QSR from a spawned, but undeployed Sentinel?
+#### **How do I reclaim ZNN & QSR from a spawned, but undeployed Sentinel?**
 
 Make sure you have downloaded the Syrius Bundle and that znnd and znn-cli are in the same folder as your Syrius Wallet. Then go to the folder they are in and hold the shift key and right click your mouse. Select "Open Powershell Window Here" Then type: ./znn-cli start znnd
 

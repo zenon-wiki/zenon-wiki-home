@@ -4,7 +4,7 @@ description: Information about the integrity of the NoM
 
 # Security
 
-#### Why are Pillars and Sentinels so expensive?
+#### **Why are Pillars and Sentinels so expensive?**
 
 The Network of Momentum probably wouldn’t perform very well if nodes didn’t have stable uptimes and could join/leave at will. This is currently an issue with Lightning and why it ends up being more centralized than we would like. High collateral is skin in the game to prevent that. The high price of buy-in also constitutes as COLLATERAL, meaning possible punitive actions for bad behaviour. Especially when we start talking about BTC interoperability.
 
@@ -12,11 +12,11 @@ Having a stable set of nodes is important for each step of a transaction. Every 
 
 The NoM is not like BTC where we can randomly send to any node and receive blocks every 10 minutes. Momentums are much faster.
 
-#### What is a Momentum?
+#### **What is a Momentum?**
 
 A Momentum on the Network of Momentum is similar to a block in a regular blockchain, but due to the Dual-layer design of the NoM, each published ‘block’ is in fact a collection of blocks of information; some from the DAG layer, and some from the Block-lattice transaction layer. This published package of information from the two layers of the NoM is called a Momentum and like a block in the Bitcoin chain, it is tamper-proof and irreversible once published.
 
-#### How does Plasma secure the network and make transactions Fee-less?
+#### **How does Plasma secure the network and make transactions Fee-less?**
 
 Plasma is created by ‘fusing’ the second coin of the NoM, Quasar, in your Syrius wallet under the ‘Plasma’ tab. You fuse Quasar for Plasma for each address you will be transacting from. ( They have to be done individually with Quasar sent to each address. ) This locks the Quasar to the address and forms a Proof of Stake, at the same time creating the energy to fuel transactions.
 

@@ -10,7 +10,7 @@ Community member simple quick walk-through video [here](https://youtu.be/Ge9BMVH
 
 Community member more detailed walk-through for newbies [here](https://youtu.be/XtA\_HgiEnoY).
 
-#### I have the “old” ZNN, what happens with them? <a href="i-have-the-old-znn-what-happens-with-them" id="i-have-the-old-znn-what-happens-with-them"></a>
+#### **I have the “old” ZNN, what happens with them?** <a href="i-have-the-old-znn-what-happens-with-them" id="i-have-the-old-znn-what-happens-with-them"></a>
 
 You may safely store you PIVX ZNN in the Legacy wallet during the transition to the Network of Momentum and transfer at will to the new network once it launches. You have a 3 month time window to transfer without penalty, after that penalties begin to apply.
 
@@ -28,11 +28,11 @@ The swap will be similar in process to the testnet swap, which went well.&#x20;
 
 [Here’s the how-to for the test swap. ](https://medium.com/@zenon.network/swapdrop-event-october-1st-bd99964589aa)
 
-#### If I am delayed in swapping my coins over to Alphanet can I leave the coins in the Legacy Wallet without an issue? <a href="q-is-there-an-issue-if-i-am-delayed-in-swapping-my-coins-over-to-alphanet-can-i-leave-the-coins-in-t" id="q-is-there-an-issue-if-i-am-delayed-in-swapping-my-coins-over-to-alphanet-can-i-leave-the-coins-in-t"></a>
+#### **If I am delayed in swapping my coins over to Alphanet can I leave the coins in the Legacy Wallet without an issue?** <a href="q-is-there-an-issue-if-i-am-delayed-in-swapping-my-coins-over-to-alphanet-can-i-leave-the-coins-in-t" id="q-is-there-an-issue-if-i-am-delayed-in-swapping-my-coins-over-to-alphanet-can-i-leave-the-coins-in-t"></a>
 
 You theoretically can leave your coins in the legacy wallet, but there is a decay mechanism built into the Alphanet swap which penalizes you for delaying swapping over to the new network. Eventually the legacy network will be unsupported by most network participants, so everyone is encouraged to swap over as soon as it becomes possible.
 
-#### How much time do I have to swap my legacy ZNN to Syrius / Alphanet?
+#### **How much time do I have to swap my legacy ZNN to Syrius / Alphanet?**
 
 This will be a forced swap - you have 1 year to move your Legacy ZNN to NoM ZNN, receiving all of your swapped ZNN within the first 3 months of Alphanet launch on the 19th November 2021 and less and less as time goes after that.
 
@@ -42,7 +42,7 @@ The first swap cycle will last for 3 months with a Swap Ratio of 1:1. The next c
 
 [More info from Zenon.](https://medium.com/@zenon.network/alphanet-swap-cycles-658981a9d8bd)
 
-#### My ZNN was still on an Exchange after the transition to NoM. What happens now?
+#### **My ZNN was still on an Exchange after the transition to NoM. What happens now?**
 
 For all those who have bought legacy ZNN on the CEX’s ( Central Exchanges ) and who did not move them into their own Legacy Wallet for the snapshot in November 2021, or who trade and buy Legacy ZNN on an exchange after the Snapshot:
 
@@ -50,7 +50,7 @@ It is entirely up to the Exchanges ( who are part of the snapshot ) to honour yo
 
 If you’re not willing to take that risk it is safer to buy wZNN.
 
-#### Is there another way to swap?
+#### **Is there another way to swap?**
 
 **Option to bridge “old” ZNN to wZNN on Binance Smart Chain.**
 
