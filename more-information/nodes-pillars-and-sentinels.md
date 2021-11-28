@@ -8,7 +8,11 @@ description: Information on Funding, Launching and Maintaining Pillars
 
 In the Syrius wallet go to the Settings tab. Scroll down >> Bottom left /Node Management >> Add Node >> and put in the address of your new Node aggregator, an example is '  ws://node1.zenon.wiki:35998  ' then click 'Confirm Node'.
 
-#### I** am interested in running a node on the Alphanet. Are there requirements or specifications for what is required in terms of hardware capabilities?** <a href="q-i-am-interested-in-running-a-node-on-the-alphanet-are-there-requirements-or-specifications-for-wha" id="q-i-am-interested-in-running-a-node-on-the-alphanet-are-there-requirements-or-specifications-for-wha"></a>
+#### **I want to run a node locally on my own machine to speed up the network. How can I do that?**
+
+Community created tutorials for both Mac OSX and Windows are available in the guides section [here](../#community-resources).
+
+**I am interested in running a node on the Alphanet. Are there requirements or specifications for what is required in terms of hardware capabilities?**
 
 Yes the node hardware requirements have already been published for the Testnet. It doesn’t mean Alphanet’s will be the same, but you could imagine these as minimum requirements. You can easily achieve these requirements with a cloud vps.
 

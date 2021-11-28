@@ -64,6 +64,10 @@ Yes. You do however need to fuse QSR to the transaction address to drive zero-fe
 
 The Network of Momentum is supported by Pillars, Sentinels and Sentries. These are Nodes each with their own commitment levels and rewards. See [here](more-information/nodes-pillars-and-sentinels.md) for more information.
 
+**You can also run a node on your own machine to speed up the network. **
+
+Guides for doing that are found [here](./#community-resources).
+
 **What are some good sources of information to familiarise myself with the project? **
 
 Both Community Articles and Official articles are linked [here](./).
