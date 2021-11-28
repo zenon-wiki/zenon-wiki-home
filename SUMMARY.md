@@ -16,4 +16,4 @@
   * [Nodes: Pillars & Sentinels](more-information/nodes-pillars-and-sentinels.md)
   * [Security](more-information/security.md)
 * [Developer Resources](https://app.gitbook.com/o/WjZkdKfxKcBlqofAEh6T/s/fm0t4BmyDNLJv2QIc12T/)
-* [How to run a node](how-to-run-a-node.md)
+* [How to run a Linux node](how-to-run-a-linux-node.md)

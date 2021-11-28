@@ -58,7 +58,7 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 [Instructions to setup a local node on Windows](https://pastebin.com/eJp7L0rw)
 
-Note: For Linux, you can setup a local node via the Controller.
+[Instructions to setup a node on Linux](https://docs.zenon.wiki/home/how-to-run-a-node)
 
 #### **Tools**
 
