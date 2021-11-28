@@ -52,7 +52,7 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 <mark style="color:blue;"></mark>[<mark style="color:blue;">Shaimo - The Zenon Enigma</mark>](https://medium.com/@shaimo/the-zenon-enigma-782f8b293bd6)<mark style="color:blue;"></mark>
 
-#### Guides
+#### **Guides**
 
 [Instructions to setup a local node on Mac](https://pastebin.com/tfgN4d79)
 
