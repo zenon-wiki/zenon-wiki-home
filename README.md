@@ -52,6 +52,14 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 <mark style="color:blue;"></mark>[<mark style="color:blue;">Shaimo - The Zenon Enigma</mark>](https://medium.com/@shaimo/the-zenon-enigma-782f8b293bd6)<mark style="color:blue;"></mark>
 
+#### Guides
+
+[Instructions to setup a local node on Mac](https://pastebin.com/tfgN4d79)
+
+[Instructions to setup a local node on Windows](https://pastebin.com/eJp7L0rw)
+
+Note: For Linux, you can setup a local node via the Controller.
+
 #### **Tools**
 
 <mark style="color:blue;"></mark>[<mark style="color:blue;">community legacy explorer</mark>](https://explorer.zenon.community)<mark style="color:blue;"></mark>
