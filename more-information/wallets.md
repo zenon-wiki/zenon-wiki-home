@@ -4,7 +4,7 @@ description: Information about the Wallets of Zenon Network
 
 # Wallets
 
-You can access the latest versions of both the Zenon Core Legacy Wallet and the S Y R I U S Network of Momentum Wallet at the bottom of the official Zenon Network page.&#x20;
+You can access the latest version of the S Y R I U S Network of Momentum Wallet at the bottom of the official Zenon Network page.&#x20;
 
 [Zenon Network Official Wallets download](https://zenon.network/#downloads)
 
@@ -19,6 +19,14 @@ The Syrius Wallet will be the go-to wallet on the Network of Momentum once it tr
 #### **I would like to change the Node my Syrius wallet points to, how do I do that?**
 
 In the Syrius wallet go to the Settings tab. Scroll down >> Bottom left /Node Management >> Add Node >> and put in the address of your new Node aggregator, an example is '  ws://peers.zenon.wiki:35998  ' then click 'Confirm Node'.
+
+#### **How do I delegate for rewards in the Syrius wallet?**
+
+In the Pillar tab of Syrius you will find a list of active Pillars on the Network and their voting weight. You can select any of those by simply tapping 'delegate'. The entire balance of the address you're currently in is then delegated to that Pillar.&#x20;
+
+If you want to delegate to other Pillars at the same time you need to move a portion of your funds across to another address within your wallet. Move to that address ( select it in the settings tab ) and then delegate those funds in that address to another Pillar. This is a good way to discover which Pillars are yielding greater returns.
+
+You can find up-to-date information on the rewards Pillars are offering in [this Telegram chat by Zenon Tools.](https://t.me/pillar\_tracker)
 
 #### **When will cold wallet support be available?** <a href="q-when-will-cold-wallet-support-be-available" id="q-when-will-cold-wallet-support-be-available"></a>
 

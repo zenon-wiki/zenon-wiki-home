@@ -64,4 +64,6 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 #### **Tools**
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">community legacy explorer</mark>](https://explorer.zenon.community)<mark style="color:blue;"></mark>
+<mark style="color:blue;"></mark>[<mark style="color:blue;">Community legacy explorer</mark>](https://explorer.zenon.community)<mark style="color:blue;"></mark>
+
+<mark style="color:blue;"></mark>[<mark style="color:blue;">Zenon Tools TG to track pillar rewards</mark>](https://t.me/pillar\_tracker)<mark style="color:blue;"></mark>

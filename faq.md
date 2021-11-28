@@ -44,6 +44,10 @@ Not as yet. Zenon Network will release a mobile wallet and Community developed m
 
 ZNN is a new protocol and as such is not yet supported in hardware wallets. You can however store wZNN in a hardware wallet.
 
+#### **How do I delegate to a Pillar and receive rewards in Syrius?**
+
+You do that within the Pillars tab of the Syrius wallet. More info [here](more-information/wallets.md#alphanet-wallets)
+
 **What is the staking return? **
 
 In the SYRIUS wallet staking ZNN for QSR has an APY of up to 26%. Delegating to a Node has an APY of up to 72% These figures are dependent on fluctuating conditions. Figures shown are from the [Zenon.Network](https://zenon.network/#downloads) page.
