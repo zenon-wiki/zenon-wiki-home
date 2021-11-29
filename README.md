@@ -54,11 +54,11 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 #### **Guides**
 
+[Instructions to setup a local node on Windows](https://frankthezalien.medium.com/how-to-create-a-node-and-connect-to-syrius-a5ad26d8a9b9) (by Frank The ZAlien)
+
 [Instructions to setup a local node on Mac](https://pastebin.com/tfgN4d79) (by Rex)
 
 [Instructions to setup a local node on Mac](https://twitter.com/zenonorg/status/1464852904037265412?s=21) (by OG Zenon)
-
-[Instructions to setup a local node on Windows](https://pastebin.com/eJp7L0rw) (by Rex)
 
 [Instructions to setup a node on Linux](https://docs.zenon.wiki/home/how-to-run-a-node) (By Sam)
 
