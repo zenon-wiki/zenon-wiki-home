@@ -6,64 +6,66 @@ coverY: 0
 
 # ZENON WIKI
 
-### **Official Zenon Network Resources:**
+### Official Zenon Network Resources
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Zenon Network website</mark>](https://zenon.network)<mark style="color:blue;"></mark>
+​[Zenon Network website](https://zenon.network)​
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Zenon Network medium</mark>](https://medium.com/@zenon.network) <mark style="color:blue;">articles</mark>
+​[Zenon Network medium articles](https://medium.com/@zenon.network)​
 
-[Zenon Network t<mark style="color:blue;">witter</mark> ](https://twitter.com/Zenon\_Network)
+​[Zenon Network twitter ](https://twitter.com/Zenon\_Network)​
 
-[Zenon Network <mark style="color:blue;">telegram</mark>](https://t.me/joinchat/MLyPehLIbJj1nw1XOOOltg)<mark style="color:blue;"></mark>
+​[Zenon Network telegram](https://t.me/joinchat/MLyPehLIbJj1nw1XOOOltg)​
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Zenon Network discord</mark>](https://discord.gg/XDDjECy)<mark style="color:blue;"></mark>
+​[Zenon Network discord](https://discord.gg/XDDjECy)​
 
-<mark style="color:blue;">Zenon Network Alphanet</mark> [<mark style="color:blue;">github</mark>](https://github.com/zenon-network)<mark style="color:blue;">, Legacy Network</mark> [<mark style="color:blue;">github</mark>](https://github.com/zenonnetwork)<mark style="color:blue;">.</mark>
+​[Zenon Network Alphanet github](https://github.com/zenon-network)​
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">bitcoin talk</mark>](https://bitcointalk.org/index.php?topic=5279643.msg55303681#msg55303681)<mark style="color:blue;"></mark>
+​[Legacy Network github](https://github.com/zenonnetwork)​
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">youtube</mark>](https://www.youtube.com/channel/UCDb8ZtqBt6l5l4HugCnJwhQ)<mark style="color:blue;"></mark>
+​[Bitcointalk](https://bitcointalk.org/index.php?topic=5279643.msg55303681#msg55303681)​
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">legacy explorer</mark>](https://explore.zenon.network)<mark style="color:blue;"></mark>
+​[Youtube](https://www.youtube.com/channel/UCDb8ZtqBt6l5l4HugCnJwhQ)​
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">testnet explorer</mark>](https://explorer.znn.space)<mark style="color:blue;"></mark>
+​[Legacy explorer](https://explore.zenon.network)​
 
-### **Community Resources:**
+​[Testnet explorer](https://explorer.znn.space)​
+
+### Community Resources
 
 _Note: These resources are provided by the community and are not thoroughly vetted by zenon.wiki. Information may be inaccurate, speculative, or out of date._
 
-#### **Community Telegrams **
+#### Community Telegrams
 
-[english](https://t.me/Zenon\_Community), [français](https://t.me/ZenonFR), [русский](https://t.me/Zenonnetwork\_Ru), [nederlands](https://t.me/ZenonNL), [indonesian](https://t.me/zenonnetwork\_ind),&#x20;
+​[english](https://t.me/Zenon\_Community)​    ​[français](https://t.me/ZenonFR)​    ​[русский](https://t.me/Zenonnetwork\_Ru)​    ​[nederlands](https://t.me/ZenonNL)​    ​[indonesian](https://t.me/zenonnetwork\_ind)​
 
-#### **Community Articles**
+#### Community Articles
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Crypto Academy - Lets Explore Zenon Network</mark>](https://knowledgeiskey2017.medium.com/lets-explore-zenon-network-cf46d6a8d1ee)<mark style="color:blue;"></mark>
+​[Crypto Academy - Lets Explore Zenon Network](https://knowledgeiskey2017.medium.com/lets-explore-zenon-network-cf46d6a8d1ee)​
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Shazz - Fundamental Analyses based on Investment Principles</mark>](https://shazzamazzash.medium.com/fundamental-analysis-of-zenon-network-based-on-charlie-mungers-investment-principles-9097db0fa1bd)<mark style="color:blue;"></mark>
+​[Shazz - Fundamental Analyses based on Investment Principles](https://shazzamazzash.medium.com/fundamental-analysis-of-zenon-network-based-on-charlie-mungers-investment-principles-9097db0fa1bd)​
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Yen Howell - 10 FAQ Investment Questions on Zenon</mark>](https://yenhowell.medium.com/zenon-101-10-frequently-asked-questions-when-investing-in-zenon-b7eb0cd1a7de)<mark style="color:blue;"></mark>
+​[Yen Howell - 10 FAQ Investment Questions on Zenon](https://yenhowell.medium.com/zenon-101-10-frequently-asked-questions-when-investing-in-zenon-b7eb0cd1a7de)​
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Hackernoon - How to not fracture a Layer 1 chain</mark>](https://hackernoon.com/how-not-to-fracture-a-layer-1-chain-qgi530g3)<mark style="color:blue;"></mark>
+​[Hackernoon - How to not fracture a Layer 1 chain](https://hackernoon.com/how-not-to-fracture-a-layer-1-chain-qgi530g3)​
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Shazz - Zenon Network - An Apes Guide to the Galaxy</mark>](https://shazzamazzash.medium.com/zenon-network-an-apes-guide-to-the-galaxy-7aad7dacdfef)<mark style="color:blue;"></mark>
+​[Shazz - Zenon Network - An Apes Guide to the Galaxy](https://shazzamazzash.medium.com/zenon-network-an-apes-guide-to-the-galaxy-7aad7dacdfef)​
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Georgez Georgez - A Message to Humans - An Aliens Guide to Lightning and Beyond</mark>](https://medium.com/@georgezgeorgez/a-message-to-humans-an-aliens-guide-to-lightning-network-watchtower-limitations-and-beyond-96138967fa9b)<mark style="color:blue;"></mark>
+​[Georgez Georgez - An Aliens Guide to Lightning and Beyond](https://medium.com/@georgezgeorgez/a-message-to-humans-an-aliens-guide-to-lightning-network-watchtower-limitations-and-beyond-96138967fa9b)​
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Shaimo - The Zenon Enigma</mark>](https://medium.com/@shaimo/the-zenon-enigma-782f8b293bd6)<mark style="color:blue;"></mark>
+​[Shaimo - The Zenon Enigma](https://medium.com/@shaimo/the-zenon-enigma-782f8b293bd6)​
 
-#### **Guides**
+#### Community Guides
 
-[Instructions to setup a local node on Windows](https://frankthezalien.medium.com/how-to-create-a-node-and-connect-to-syrius-a5ad26d8a9b9) (by Frank The ZAlien)
+​[Instructions to setup a local node on Mac](https://pastebin.com/tfgN4d79) (by Rex)​
 
-[Instructions to setup a local node on Mac](https://pastebin.com/tfgN4d79) (by Rex)
+​[Instructions to setup a local node on Mac](https://twitter.com/zenonorg/status/1464852904037265412?s=21) (by OG Zenon)​
 
-[Instructions to setup a local node on Mac](https://twitter.com/zenonorg/status/1464852904037265412?s=21) (by OG Zenon)
+​[Instructions to setup a local node on Windows](https://pastebin.com/eJp7L0rw) (by Rex)​
 
-[Instructions to setup a node on Linux](https://docs.zenon.wiki/home/how-to-run-a-node) (By Sam)
+​[Instructions to setup a node on Linux](https://docs.zenon.wiki/home/how-to-run-a-node) (By Sam)​
 
-#### **Tools**
+#### Community Tools
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Community legacy explorer</mark>](https://explorer.zenon.community)<mark style="color:blue;"></mark>
+​[Zenon Tools Pillar Tracker on Telegram](https://t.me/pillar\_tracker)​
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Zenon Tools TG to track pillar rewards</mark>](https://t.me/pillar\_tracker)<mark style="color:blue;"></mark>
+​[Community legacy explorer](https://explorer.zenon.community)​
