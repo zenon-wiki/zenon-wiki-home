@@ -70,7 +70,7 @@ ZNN is a new protocol and as such is not yet supported in hardware wallets. You 
 
 **My wallet keeps disconnecting, why?**
 
-The new network is running on a small number of nodes and they get congested. You can change the node your wallet is using to a faster one. More info [here](getting-started.md). Also consider [creating your own node](./#community-resources).
+The new network is running on a small number of nodes and they get congested. You can change the node your wallet is using to a faster one. [More info here](more-information/nodes-pillars-and-sentinels.md). Also consider [creating your own node](./#community-resources).
 
 **How do I swap my Legacy ZNN to Syrius?**
 
