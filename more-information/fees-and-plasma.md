@@ -13,3 +13,5 @@ When you fuse the QSR to the Address a small PoW is done to fuel that action. Th
 You need to fuse QSR to each address you transact from.
 
 The QSR can be released if required and no QSR is lost through fusing.
+
+You need QSR to generate Plasma. In the Plasma tab in Syrius select the address you want to generate Plasma for, select the amount of QSR you want to fuse to that address ( minimum of 20 QSR recommended ) and click 'Fuse'. If you have no Plasma yet a PoW is done to fuel the process. The QSR can be unfused at any time with no loss.

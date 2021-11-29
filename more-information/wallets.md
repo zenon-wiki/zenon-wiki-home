@@ -8,9 +8,13 @@ You can access the latest version of the S Y R I U S Network of Momentum Wallet 
 
 [Zenon Network Official Wallets download](https://zenon.network/#downloads)
 
-### Alphanet Wallets
+### Syrius Wallet functions
 
-#### **What is the Syrius Wallet ?** <a href="what-is-the-syrius-wallet" id="what-is-the-syrius-wallet"></a>
+**How do I get Plasma for sending fee-less transactions?**&#x20;
+
+You need QSR to generate Plasma. In the Plasma tab in Syrius select the address you want to generate Plasma for, select the amount of QSR you want to fuse to that address ( minimum of 20 QSR recommended ) and click 'Fuse'. If you have no Plasma yet a PoW is done to fuel the process. The QSR can be unfused at any time with no loss.
+
+**What is the Syrius Wallet ?**
 
 The first public tests of the Network of Momentum began in 2021. These public tests were signalled with the release of the Syrius wallet. These initial versions of Syrius are fully functioning Beta versions of the Network of Momentum wallet where you can do everything you will be able to do on the Network of Momentum, but in a test phase. All the Zenon ZNN and Quasar QSR coins on Syrius wallet are test versions of the actual NoM coins and are not redeemable for real ZNN or QSR.
 
@@ -28,7 +32,7 @@ If you want to delegate to other Pillars at the same time you need to move a por
 
 You can find up-to-date information on the rewards Pillars are offering in [this Telegram chat by Zenon Tools.](https://t.me/pillar\_tracker)
 
-#### **When will cold wallet support be available?** <a href="q-when-will-cold-wallet-support-be-available" id="q-when-will-cold-wallet-support-be-available"></a>
+#### **When will cold wallet support be available?** <a href="#q-when-will-cold-wallet-support-be-available" id="q-when-will-cold-wallet-support-be-available"></a>
 
 The implementation for cold wallet support is possible and can be developed after Alphanet launch.
 
@@ -46,11 +50,11 @@ There will be a mobile version of Syrius as well as community-built mobile walle
 
 [Crypto Iverson Guide ](https://crypto-iverson.medium.com/so-you-bought-znn-de91d97a2bcb)
 
-#### **I downloaded the Legacy wallet but it didn’t make me create a recovery phrase, why?** <a href="q-i-downloaded-the-legacy-wallet-but-it-didnt-make-me-create-a-recovery-phrase-why" id="q-i-downloaded-the-legacy-wallet-but-it-didnt-make-me-create-a-recovery-phrase-why"></a>
+#### **I downloaded the Legacy wallet but it didn’t make me create a recovery phrase, why?** <a href="#q-i-downloaded-the-legacy-wallet-but-it-didnt-make-me-create-a-recovery-phrase-why" id="q-i-downloaded-the-legacy-wallet-but-it-didnt-make-me-create-a-recovery-phrase-why"></a>
 
 The legacy wallet doesn’t use recovery phases, if you back up a copy of your wallet.dat file ( File >> Backup Wallet>>Save As) it contains your private key.
 
-#### **I downloaded the Legacy wallet but it's taking a long time to sync, why?** <a href="q-i-downloaded-the-legacy-wallet-but-it-didnt-make-me-create-a-recovery-phrase-why" id="q-i-downloaded-the-legacy-wallet-but-it-didnt-make-me-create-a-recovery-phrase-why"></a>
+#### **I downloaded the Legacy wallet but it's taking a long time to sync, why?** <a href="#q-i-downloaded-the-legacy-wallet-but-it-didnt-make-me-create-a-recovery-phrase-why" id="q-i-downloaded-the-legacy-wallet-but-it-didnt-make-me-create-a-recovery-phrase-why"></a>
 
 The Legacy wallet ( make sure it's version 1.6.5 ) is picking up over 2 years of blockchain data from other nodes - that's over 3GB of info. It should take a couple of hours depending on your connection and the Nodes. The green bar at the bottom disappears when it's done.
 
