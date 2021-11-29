@@ -34,7 +34,7 @@ Yes. You do however need to fuse QSR to the transaction address to drive zero-fe
 
 The most direct way is to run your own node. The node is very light and uses about 10% of the cpu power of Syrius. More info [here.](more-information/nodes-pillars-and-sentinels.md)
 
-**I want run a node, where do I start?**&#x20;
+**I want to run a node, where do I start?**&#x20;
 
 Guides for doing that are found [here](./#community-resources).
 
@@ -54,7 +54,7 @@ The code is written in Go, but SDKs will be provided for the most popular progra
 
 **Where can I download a wallet?**
 
-Wallet’s are linked at the bottom of [Zenon.Network](https://zenon.network)
+Wallet’s downloads are linked on the official website [here.](https://zenon.network/#downloads)
 
 **In which wallets can I store ZNN?**&#x20;
 
@@ -94,7 +94,7 @@ In staking you stake for QSR, your ZNN is locked for a minimum of 1 month and yo
 
 **How do I delegate to a Pillar and receive rewards in Syrius?**
 
-You do that within the Pillars tab of the Syrius wallet. More info [here](more-information/staking-and-incentives.md#legacy-wallet-staking)
+You do that within the Pillars tab of the Syrius wallet. More info [here.](more-information/staking-and-incentives.md)
 
 **What is the staking return?**&#x20;
 
