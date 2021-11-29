@@ -2,7 +2,7 @@
 description: Information for the 2018 - 2022 Legacy Zenon Network.
 ---
 
-# Legacy Network
+# Legacy Info
 
 #### **Where are some good sources of information to familiarize myself with the project?** <a href="q-where-are-some-good-sources-of-information-to-familiarize-myself-with-the-project" id="q-where-are-some-good-sources-of-information-to-familiarize-myself-with-the-project"></a>
 
@@ -20,7 +20,7 @@ The legacy network is a placeholder chain that allowed the network to decentrali
 
 You may safely store you PIVX ZNN in the Legacy wallet during the transition to the Network of Momentum and transfer at will to the new network once it launches. You have a 3 month time window to transfer without penalty, after that penalties begin to apply.
 
-More information on swapping Legacy ZNN for the NoM ZNN is available [here.](swap-to-alphanet.md)
+More information on swapping Legacy ZNN for the NoM ZNN is available [here.](../more-information/swap-to-alphanet.md)
 
 #### **Legacy ZNN on Exchanges after the transition to NoM.**
 

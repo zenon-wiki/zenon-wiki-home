@@ -34,11 +34,11 @@ coverY: 0
 
 _Note: These resources are provided by the community and are not thoroughly vetted by zenon.wiki. Information may be inaccurate, speculative, or out of date._
 
-#### Community Telegrams
+**Community Telegrams**
 
 ​[english](https://t.me/Zenon\_Community)​    ​[français](https://t.me/ZenonFR)​    ​[русский](https://t.me/Zenonnetwork\_Ru)​    ​[nederlands](https://t.me/ZenonNL)​    ​[indonesian](https://t.me/zenonnetwork\_ind)​
 
-#### Community Articles
+**Community Articles**
 
 ​[Crypto Academy - Lets Explore Zenon Network](https://knowledgeiskey2017.medium.com/lets-explore-zenon-network-cf46d6a8d1ee)​
 
@@ -54,7 +54,7 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 ​[Shaimo - The Zenon Enigma](https://medium.com/@shaimo/the-zenon-enigma-782f8b293bd6)​
 
-#### Community Guides
+**Community Guides**
 
 ​[Instructions to setup a local node on Mac](https://pastebin.com/tfgN4d79) (by Rex)​
 
@@ -64,7 +64,7 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 ​[Instructions to setup a node on Linux](https://docs.zenon.wiki/home/how-to-run-a-node) (By Sam)​
 
-#### Community Tools
+**Community Tools**
 
 ​[Zenon Tools Pillar Tracker on Telegram](https://t.me/pillar\_tracker)​
 

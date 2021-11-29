@@ -7,7 +7,6 @@
 * [FAQ](faq.md)
 * [More Information](more-information/README.md)
   * [Alpha Network](more-information/alpha-network.md)
-  * [Legacy Network](more-information/legacy-network.md)
   * [Swap to Alphanet](more-information/swap-to-alphanet.md)
   * [Coins & Tokens](more-information/coins-and-tokens.md)
   * [Wallets](more-information/wallets.md)
@@ -16,5 +15,12 @@
   * [Bridging](more-information/bridging.md)
   * [Nodes: Pillars & Sentinels](more-information/nodes-pillars-and-sentinels.md)
   * [Security](more-information/security.md)
+* [Legacy Network](legacy-network/README.md)
+  * [FAQ](legacy-network/faq.md)
+  * [Legacy Info](legacy-network/legacy-info.md)
 * [Developer Resources](https://app.gitbook.com/o/WjZkdKfxKcBlqofAEh6T/s/fm0t4BmyDNLJv2QIc12T/)
 * [How to run a Linux node](how-to-run-a-linux-node.md)
+
+## Group 1
+
+* [Legacy Network](group-1/legacy-network.md)
