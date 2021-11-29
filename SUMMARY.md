@@ -15,12 +15,6 @@
   * [Bridging](more-information/bridging.md)
   * [Nodes: Pillars & Sentinels](more-information/nodes-pillars-and-sentinels.md)
   * [Security](more-information/security.md)
-* [Legacy Network](legacy-network/README.md)
-  * [FAQ](legacy-network/faq.md)
-  * [Legacy Info](legacy-network/legacy-info.md)
+  * [Legacy Info](more-information/legacy-info.md)
 * [Developer Resources](https://app.gitbook.com/o/WjZkdKfxKcBlqofAEh6T/s/fm0t4BmyDNLJv2QIc12T/)
 * [How to run a Linux node](how-to-run-a-linux-node.md)
-
-## Group 1
-
-* [Legacy Network](group-1/legacy-network.md)
