@@ -36,11 +36,11 @@ The most direct way is to run your own node. The node is very light and uses abo
 
 **I want to run a node, where do I start?**&#x20;
 
-Guides for doing that are found [here](./#community-resources).
+Guides for doing that are found [here](broken-reference).
 
 **What are some good sources of information to familiarise myself with the project?**&#x20;
 
-Both Community Articles and Official articles are linked [here](./).
+Both Community Articles and Official articles are linked [here](broken-reference).
 
 **Will Zenon bridge with chains like Fantom, ETH or AVAX, similar to the current BSC Bridge?**&#x20;
 
@@ -70,7 +70,7 @@ ZNN is a new protocol and as such is not yet supported in hardware wallets. You 
 
 **My wallet keeps disconnecting, why?**
 
-The new network is running on a small number of nodes and they get congested. You can change the node your wallet is using to a faster one. [More info here](more-information/nodes-pillars-and-sentinels.md). Also consider [creating your own node](./#community-resources).
+There is a bottleneck at the RPC nodes which relay info between Syrius and the Network. You can change the RPC node your wallet is using to a less congested one. More info here. Also consider creating your own lightweight RPC node. [More info here](more-information/nodes-pillars-and-sentinels.md). Also consider [creating your own node.](./#community-resources)
 
 **How do I swap my Legacy ZNN to Syrius?**
 
