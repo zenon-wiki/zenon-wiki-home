@@ -52,8 +52,7 @@ Community created tutorials for both Mac OSX and Windows are available in the gu
 
 ### **Pillars and Sentinels**
 
-**Are there any guides for deploying Pillars and Sentinels on the Network of Momentum?**\
-
+**Are there any guides for deploying Pillars and Sentinels on the Network of Momentum?**
 
 Community Member SultanOfStaking has a Github focussed on this [here:](https://github.com/sultanofstaking)​
 
