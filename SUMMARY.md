@@ -12,7 +12,7 @@
   * [Fees & Plasma](more-information/fees-and-plasma.md)
   * [Coins & Tokens](more-information/coins-and-tokens.md)
   * [Staking & Incentives](more-information/staking-and-incentives.md)
-  * [Nodes: Pillars & Sentinels](more-information/nodes-pillars-and-sentinels.md)
+  * [Nodes Pillars & Sentinels](more-information/nodes-pillars-and-sentinels.md)
   * [Bridging](more-information/bridging.md)
   * [Security](more-information/security.md)
   * [Legacy Info](more-information/legacy-info.md)

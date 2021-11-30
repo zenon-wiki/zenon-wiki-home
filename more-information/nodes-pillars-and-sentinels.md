@@ -1,8 +1,26 @@
 ---
-description: Information on Funding, Launching and Maintaining Pillars
+description: Information on launching and running Nodes Pillars and Sentinels.
 ---
 
-# Nodes: Pillars & Sentinels
+# Nodes Pillars & Sentinels
+
+### **A quick overview of the network structure**
+
+The Network of Momentum runs on Validators called Pillars and Sentinels. **Pillars** are the strongest, most stable validators and require considerable investment to launch, ensuring they are run by teams that are serious about the protocol. **Sentinels** require decent investment but are easier to dismantle so they can be run by a broader base of actors. **Nodes** are communication clients that relay information between wallets and the network of Pillars and Sentinels and require no investment to launch personally, but public nodes that serve many wallets need to be beefier to handle the load.
+
+### **Nodes, Syrius and the Network.**
+
+**The Syrius wallet is not a node**
+
+This means that Syrius needs to link up to a node to find out what is happening on the Network. The node your Syrius wallet is linked up to is shown in the Settings tab, bottom left, under ‘Node Management’.
+
+Your experience on the Network is directly linked to the speed of the node you’re connected to. Much like how your wifi connection dictates the Internet experience you're having on your phone.
+
+If you’re piggy-backing off your neighbours wifi you’re sharing their bandwidth and at their mercy.&#x20;
+
+If you find another neighbour's wifi with a better router your experience will improve.
+
+If you have your own router connected to the network those contraints are removed.
 
 **I would like to change the Node my Syrius wallet points to, how do I do that?**
 
@@ -14,23 +32,30 @@ ws://108.61.157.84:35998
 
 ws://node1.zenon.wiki:35998
 
+**If the node is so congested you can't log in to Syrius try this:**
+
+If you're stuck on the login screen in Syrius, hit the tab key a few times to get to the Settings tab. Then scroll down and change the node. After it changes, quit Syrius, reopen and login again.
+
+**Running your own node improves the Network.**&#x20;
+
+If fewer people rely on the centralised public nodes / routers then there will be less congestion and bottlenecks at those shared nodes. So starting up your own router improves your experience and then relieves congestion, improving others experience. A node is light on resources and requires little CPU power to run. It’s worth doing.
+
+**What are the hardware requirements to run a node on my computer?**
+
+Here are the requirements from the team for Alphanet. They seem to still be valid.
+
+​[Alphanet Node Requirements.​](https://testnet.znn.space/#!requirements.md)
+
 **I want to run a node locally on my own machine to speed up the network. How can I do that?**
 
-Community created tutorials for both Mac OSX and Windows are available in the guides section [here](../#community-resources).
+Community created tutorials for both Mac OSX and Windows are available in the guides section [here.](../#community-resources)
 
-**How can I support the Network?**&#x20;
+### **Pillars and Sentinels**
 
-The Network of Momentum is supported by Pillars, Sentinels and Sentries. These are Nodes each with their own commitment levels and rewards. See [here](nodes-pillars-and-sentinels.md) for more information.
+**Are there any guides for deploying Pillars and Sentinels on the Network of Momentum?**\
 
-**I am interested in running a node on the Alphanet. Are there requirements or specifications for what is required in terms of hardware capabilities?**
 
-Yes the node hardware requirements have already been published for the Testnet. It doesn’t mean Alphanet’s will be the same, but you could imagine these as minimum requirements. You can easily achieve these requirements with a cloud vps.
-
-[Alphanet Node Requirments.](https://testnet.znn.space/#!requirements.md)
-
-**Are there any guides for deploying Nodes on the Network of Momentum?**
-
-Yes Community Member SultanOfStaking has created some [here:](https://github.com/sultanofstaking)
+Community Member SultanOfStaking has a Github focussed on this [here:](https://github.com/sultanofstaking)​
 
 **Why are Pillars and Sentinels so expensive?**
 
@@ -52,7 +77,7 @@ then type: ./znn-cli start znnd
 
 then type: ./znn-cli frontierMomentum
 
-keep doing this every few minutes until it catches up to momentum on Exploror
+keep doing this every few minutes until it catches up to momentum on Explorer
 
 when its caught up type: ./znn-cli sentinel.list --keyStore z1qz8tylu88et6ffy227pw8gak5qvn5awg35l96x --passphrase yourComplexPassphrase
 
