@@ -36,7 +36,7 @@ The most direct way is to run your own node. The node is very light and uses abo
 
 **I want to run a node, where do I start?**&#x20;
 
-Guides for doing that are found [here](broken-reference).
+Guides for doing that are found [here.](./#community-resources)
 
 **What are some good sources of information to familiarise myself with the project?**&#x20;
 
