@@ -36,7 +36,7 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 **Community Telegrams**
 
-​[english](https://t.me/Zenon\_Community)​    ​[français](https://t.me/ZenonFR)​    ​[русский](https://t.me/Zenonnetwork\_Ru)​    ​[nederlands](https://t.me/ZenonNL)​    ​[indonesian](https://t.me/zenonnetwork\_ind)​
+​[english](https://t.me/Zenon\_Community)​ ​[français](https://t.me/ZenonFR)​ ​[русский](https://t.me/Zenonnetwork\_Ru)​ ​[nederlands](https://t.me/ZenonNL)​ ​[indonesian](https://t.me/zenonnetwork\_ind)​
 
 **Community Articles**
 
@@ -58,11 +58,13 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 ​[Instructions to setup a local node on Windows](https://frankthezalien.medium.com/how-to-create-a-node-and-connect-to-syrius-a5ad26d8a9b9) (by Frank The ZAlien)​
 
+[Instructions to setup a local node on Windows](https://shazzamazzash.medium.com/an-apes-guide-to-run-a-full-node-for-zenon-on-windows-10-910adc2cf8ea) (by Shazz)
+
 ​[Instructions to setup a local node on Mac](https://pastebin.com/tfgN4d79) (by Rex)​
 
 ​[Instructions to setup a local node on Mac](https://twitter.com/zenonorg/status/1464852904037265412?s=21) (by OG Zenon)​
 
-​[Instructions to setup a node on Linux](https://docs.zenon.wiki/home/how-to-run-a-node) (By Sam)​
+​[Instructions to setup a node on Linux](https://docs.zenon.wiki/home/how-to-run-a-node) (by Sam)​
 
 **Community Tools**
 
