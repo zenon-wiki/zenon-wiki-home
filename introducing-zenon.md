@@ -2,7 +2,7 @@
 
 Zenon Network is a Dual Layer, Dual Coin, zero fee protocol in development since early 2018. The protocol itself is called the Network of Momentum ( NoM ) and the coins built into that protocol are Zenon/ZNN and Quasar/QSR.
 
-#### The Network of Momentum
+#### **The Network of Momentum**
 
 The Zenon Network of Momentum is an evolutionary layer 1 blockchain with  a Dual Layer Structure; a DAG ( Directed Acyclic Graph ) base layer, and a Block Lattice transaction layer.&#x20;
 
