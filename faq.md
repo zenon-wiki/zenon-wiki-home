@@ -36,7 +36,7 @@ The most direct way is to run your own node. The node is very light and uses abo
 
 **I want to run a node, where do I start?**&#x20;
 
-Guides for doing that are found [here.](./#community-resources)
+Guides by Zenon Network and the Community are found [here.](./)
 
 **What are some good sources of information to familiarise myself with the project?**&#x20;
 
@@ -70,7 +70,13 @@ ZNN is a new protocol and as such is not yet supported in hardware wallets. You 
 
 **My wallet keeps disconnecting, why?**
 
-There is a bottleneck at the RPC nodes which relay info between Syrius and the Network. You can change the RPC node your wallet is using to a less congested one. More info here. Also consider creating your own lightweight RPC node. [More info here](more-information/nodes-pillars-and-sentinels.md). Also consider [creating your own node.](./#community-resources)
+There is a bottleneck at the RPC nodes which relay info between Syrius and the Network. You can change the RPC node your wallet is using to a less congested one. More info here. Also consider creating your own lightweight RPC node. [More info here](more-information/nodes-pillars-and-sentinels.md). Also consider [creating your own node.](getting-started.md#run-your-own-node-if-you-can)
+
+**I have no Plasma for transactions, what now?**
+
+You can do slow transactions using PoW; just do the transaction and your computer will do some work to get the transaction through.
+
+You are also able to request that a friend fuses QSR to your transacting address from their wallet. Just ask them to input your address into their Plasma tab when they fuse.
 
 **How do I swap my Legacy ZNN to Syrius?**
 
@@ -83,6 +89,8 @@ Community member detailed walk-through for newbies [here](https://youtu.be/XtA\_
 **How do I get Plasma for sending fee-less transactions?**&#x20;
 
 You need at least 20 QSR to generate Plasma. 120 QSR gives full Plasma power. Fuse the QSR in the Plasma tab of the Syrius wallet. The QSR can be unfused at any time with no loss. More [here.](more-information/fees-and-plasma.md)
+
+You are also able to request that a friend fuses QSR to your transacting address from their wallet. Just ask them to input your address into their Plasma tab when they fuse.
 
 ### Staking & Delegating
 

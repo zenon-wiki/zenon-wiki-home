@@ -6,7 +6,9 @@
 
 ### Run your own node if you can
 
-[https://docs.zenon.wiki/home/#guides](https://docs.zenon.wiki/home/#guides)
+[Zenon Network Official guides](https://github.com/zenon-network/znn-bundle)
+
+[Community written guides](./#community-resources)
 
 ### Or connect to a public RPC Node
 

@@ -8,7 +8,7 @@ description: Information on launching and running Nodes Pillars and Sentinels.
 
 The Network of Momentum runs on Validators called Pillars and Sentinels. **Pillars** are the strongest, most stable validators and require considerable investment to launch, ensuring they are run by teams that are serious about the protocol. **Sentinels** require decent investment but are easier to dismantle so they can be run by a broader base of actors. **Nodes** are communication clients that relay information between wallets and the network of Pillars and Sentinels and require no investment to launch personally, but public nodes that serve many wallets need to be beefier to handle the load.
 
-### **Nodes, Syrius and the Network.**
+### **Nodes, Syrius and the Network**
 
 **The Syrius wallet is not a node**
 
@@ -48,13 +48,17 @@ Here are the requirements from the team for Alphanet. They seem to still be vali
 
 **I want to run a node locally on my own machine to speed up the network. How can I do that?**
 
-Community created tutorials for both Mac OSX and Windows are available in the guides section [here.](../#community-resources)
+There are official Zenon Network guides linked [here.](../#official-zenon-network-resources)
+
+Community created guides are linked [here.](../#community-resources)
 
 ### **Pillars and Sentinels**
 
 **Are there any guides for deploying Pillars and Sentinels on the Network of Momentum?**
 
-Community Member SultanOfStaking has a Github focussed on this [here:](https://github.com/sultanofstaking)​
+Zenon Network has added a Pillar deployment tutorial [here](https://github.com/zenon-network/znn-bundle).
+
+Community Member SultanOfStaking has a Github focussed on this [here](https://github.com/sultanofstaking).
 
 **Why are Pillars and Sentinels so expensive?**
 
