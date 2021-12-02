@@ -4,7 +4,7 @@ description: A community driven resource for Zenon Network
 
 # FAQ
 
-### General
+General
 
 **Has there been a private sale?**&#x20;
 
@@ -70,7 +70,7 @@ ZNN is a new protocol and as such is not yet supported in hardware wallets. You 
 
 **My wallet keeps disconnecting, why?**
 
-There is a bottleneck at the RPC nodes which relay info between Syrius and the Network. You can change the RPC node your wallet is using to a less congested one. More info here. Also consider creating your own lightweight RPC node. [More info here](more-information/nodes-pillars-and-sentinels.md). Also consider [creating your own node.](getting-started.md#run-your-own-node-if-you-can)
+The RPC node your Syrius wallet is connected to is congested. You can change the RPC node your wallet is using. [More info here](more-information/nodes-pillars-and-sentinels.md). Also consider [creating your own node.](getting-started.md#run-your-own-node-if-you-can)
 
 **I have the Error "Wallet Unlock Failed" what can I do?**
 
@@ -78,9 +78,9 @@ Community members have linked to fixes[ here.](./#community-resources)
 
 **I have no Plasma for transactions, what now?**
 
-You can do slow transactions using PoW; just do the transaction and your computer will do some work to get the transaction through.
+You can do slow transactions using PoW; your computer will do some work to get the transaction through.
 
-You are also able to request that a friend fuses QSR to your transacting address from their wallet. Just ask them to input your address into their Plasma tab when they fuse.
+You can request that a friend fuses QSR to your transacting address from their wallet; ask them to input your address into their Plasma tab when they fuse. ( Right click in the address field to paste an address )
 
 **How do I swap my Legacy ZNN to Syrius?**
 
@@ -94,7 +94,7 @@ Community member detailed walk-through for newbies [here](https://youtu.be/XtA\_
 
 You need at least 20 QSR to generate Plasma. 120 QSR gives full Plasma power. Fuse the QSR in the Plasma tab of the Syrius wallet. The QSR can be unfused at any time with no loss. More [here.](more-information/fees-and-plasma.md)
 
-You are also able to request that a friend fuses QSR to your transacting address from their wallet. Just ask them to input your address into their Plasma tab when they fuse.
+You can request that a friend fuses QSR to your transacting address from their wallet; ask them to input your address into their Plasma tab when they fuse.
 
 ### Staking & Delegating
 

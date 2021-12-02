@@ -30,7 +30,7 @@ coverY: 0
 
 ​[Testnet explorer](https://explorer.znn.space)​
 
-#### Zenon Network Guides
+#### **Zenon Network Guides**
 
 [Zenon Network Node building guides](https://github.com/zenon-network/znn-bundle)
 

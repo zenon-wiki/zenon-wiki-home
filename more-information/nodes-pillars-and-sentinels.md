@@ -54,7 +54,7 @@ If fewer people rely on the centralised public nodes / routers then there will b
 
 **What are the hardware requirements to run a node on my computer?**
 
-Here are the requirements from the team for Alphanet. They seem to still be valid.
+Here are the requirements from the team to run a public node on the Alphanet. Private nodes do not require the high bandwidth.
 
 ​[Alphanet Node Requirements.​](https://testnet.znn.space/#!requirements.md)
 

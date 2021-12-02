@@ -4,11 +4,11 @@ description: Information for the Zenon Network of Momentum - November 2021 Onwar
 
 # Alpha Network
 
-#### **What is the Alphanet?** <a href="what-is-the-alphanet" id="what-is-the-alphanet"></a>
+**What is the Alphanet?**
 
 The launch of the fully functioning first version of the Network of Momentum is called “The Big Bang” by the Zenon team. At that time the Syrius wallet will be updated and that update will run on the live Network of Momentum, not the testnet. That live initial network is called the Alphanet. Due for launch towards the end of 2021.
 
-#### **What is the Network of Momentum?** <a href="what-is-zenon-network-of-momentum" id="what-is-zenon-network-of-momentum"></a>
+**What is the Network of Momentum?**
 
 The Zenon Network of Momentum ( NoM ) is an evolutionary “Blockchain” 3.0. It has a Dual Layer Structure with a DAG ( Directed Acyclic Graph ) base layer, and a Block Lattice transaction layer. The Network is secured through both Proof of Work ( POW ) and Proof of Stake ( POS ). It is powered by two coins; Zenon/ZNN is the fundamental transactional coin and Quasar/QSR the fuel coin which secures the Network through Proof of Stake.
 
@@ -22,7 +22,7 @@ The Network of Momentum has been in development and refinement since 2018. Due f
 
 [More info from Zenon. ](https://medium.com/@zenon.network/paving-the-way-1332f61a66b2)
 
-#### **Where are some good sources of information to familiarize myself with the project?** <a href="q-where-are-some-good-sources-of-information-to-familiarize-myself-with-the-project" id="q-where-are-some-good-sources-of-information-to-familiarize-myself-with-the-project"></a>
+**Where are some good sources of information to familiarize myself with the project?**
 
 A community member compiled a lot of info from other articles into one big article; “The Ape’s Guide to the Galaxy”. This is a great initial read to familiarize yourself with the project. Then you can dig into more details via the team’s medium articles or asking specific questions of the community in the official Telegram channel. Links are provided below:
 
@@ -30,24 +30,24 @@ A community member compiled a lot of info from other articles into one big artic
 
 [Zenon Medium Page](https://medium.com/@zenon.network)
 
-#### **What are the Coinmetrics for Zenon Network of Momentum?**
+**What are the Coinmetrics for Zenon Network of Momentum?**
 
 You can find that information [here](https://medium.com/@zenon.network/znn-x-qsr-alphanet-specifications-83d27c005c09).
 
-#### **Testnet & Syrius wallet.**
+**Testnet & Syrius wallet.**
 
 The first public tests of the Network of Momentum began in early 2021.\
 These public tests were signalled with the release of the Syrius wallet. These initial versions of Syrius were fully functioning Beta versions of the Network of Momentum wallet where you can do everything you will be able to do on the Network of Momentum, but in a test phase. All the Zenon ZNN and Quasar QSR coins on Syrius wallet are test versions of the actual NoM coins and are not redeemable for real ZNN or QSR.
 
-#### **I have the “old” ZNN, what happens with them?** <a href="i-have-the-old-znn-what-happens-with-them" id="i-have-the-old-znn-what-happens-with-them"></a>
+**I have the “old” ZNN, what happens with them?**
 
-**The Big Swap.** You will be able to permanently swap your Legacy Zennies for the NoM Zennies, which will be held in your updated Syrius wallet once the Network of Momentum goes live as the Alphanet. See the "Transition" tab for more info.
+You are able to permanently swap your Legacy Zennies for the NoM Zennies, which will be held in the Alphanet Syrius. See the "Swap to Alphanet" tab for more info.
 
-#### **Will smart contracts be part of Alphanet?** <a href="q-will-smart-contracts-be-part-of-alphanet" id="q-will-smart-contracts-be-part-of-alphanet"></a>
+**Will smart contracts be part of Alphanet?**
 
 Yes. Initially only the embedded smart contract layer will be available at Alphanet launch.
 
-#### **I am interested in running a node on the Alphanet. Are there requirements or specifications for what is required in terms of hardware capabilities?** <a href="q-i-am-interested-in-running-a-node-on-the-alphanet-are-there-requirements-or-specifications-for-wha" id="q-i-am-interested-in-running-a-node-on-the-alphanet-are-there-requirements-or-specifications-for-wha"></a>
+**I am interested in running a node on the Alphanet. Are there requirements or specifications for what is required in terms of hardware capabilities?**
 
 Yes the node hardware requirements have already been published for the Testnet. It doesn’t mean Alphanet’s will be the same, but you could imagine these as minimum requirements. You can easily achieve these requirements with a cloud vps.
 

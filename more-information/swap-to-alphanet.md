@@ -1,40 +1,40 @@
 ---
-description: Information related to moving from Zenon Legacy Network to the Alpha Network
+description: Information related to moving your Legacy ZNN to Syrius
 ---
 
 # Swap to Alphanet
 
-#### **How do I swap my Legacy ZNN to the Alphanet?**
+**Best practice:**
+
+Open your Legacy wallet version 1.6.4 or 1.6.5 and create a fresh wallet.dat backup on your desktop. File > Backup > Save as
+
+Download the [Alphanet Syrius](https://zenon.network/#downloads) wallet to a new folder and extract all the files before launching it. Check that it is called ' s y r i u s '  and not ' syrius '.
+
+Use your 12 or 24 word Mnemonic from testnet Syrius (if you have one) to launch the new wallet.
+
+Make sure the Syrius wallet points to a fast node. Info on that [here](../getting-started.md#or-connect-to-a-public-rpc-node)&#x20;
+
+Fuel your wallet with Plasma to ensure a smooth transfer from Legacy into Syrius. Info on that [here](fees-and-plasma.md)
+
+In Syrius > Settings Tab > Wallet Options  > Swap Wallet.
+
+Recommended to send each Legacy address to 'Address 1' in Syrius.
+
+In the swap wallet process make sure to click the transfer arrows next to each address in Syrius and receive a confirmation tick next to that address before you tap 'Finish'
+
+Follow the video tutorials for reassurance.
+
+The balance of your Legacy wallet will not change, but you will receive your funds in your Syrius wallet. In Syrius go to the Settings tab > add addresses to show the list of all addresses.
+
+**Video tutorials for swapping Legacy ZNN to the Alphanet:**
 
 Community member simple quick walk-through video [here](https://youtu.be/Ge9BMVHC5JA?t=34).
 
 Community member more detailed walk-through for newbies [here](https://youtu.be/XtA\_HgiEnoY).
 
-#### **I have the “old” ZNN, what happens with them?** <a href="i-have-the-old-znn-what-happens-with-them" id="i-have-the-old-znn-what-happens-with-them"></a>
+**I have the “old” ZNN, are they safe in the Legacy wallet?**
 
-You may safely store you PIVX ZNN in the Legacy wallet during the transition to the Network of Momentum and transfer at will to the new network once it launches. You have a 3 month time window to transfer without penalty, after that penalties begin to apply.
-
-**The Big Swap.**&#x20;
-
-At the Big Swap you will be able to permanently swap your Legacy Zennies for the NoM Zennies, which will be held in your updated Syrius wallet once the Network of Momentum goes live as the Alphanet.
-
-**How will The Big Swap happen?**&#x20;
-
-Once the NoM is live as the Alphanet, you will be able to swap the Legacy ZNN for Nom ZNN using the Legacy Wallet ONLY. You will not be able to do the swap via a CEX where you bought your PIVX ZNN. So everyone who has Legacy ZNN will need to fire up version 1.6.5 ( or later ) of the Legacy Zenon wallet, move your Legacy ZNN off an exchange to the Legacy Wallet before November 19 2021 and swap from there to the NoM Syrius Wallet. This means you will need to run the latest versions of BOTH the Legacy ZNN wallet and the Syrius Wallet ( so you have a Syrius address to send to )
-
-You can access the latest versions of both the Zenon Core Legacy Wallet and the S Y R I U S Network of Momentum Wallet at the bottom of the official [Zenon Network page. ](https://zenon.network)
-
-The swap will be similar in process to the testnet swap, which went well.&#x20;
-
-[Here’s the how-to for the test swap. ](https://medium.com/@zenon.network/swapdrop-event-october-1st-bd99964589aa)
-
-#### **If I am delayed in swapping my coins over to Alphanet can I leave the coins in the Legacy Wallet without an issue?** <a href="q-is-there-an-issue-if-i-am-delayed-in-swapping-my-coins-over-to-alphanet-can-i-leave-the-coins-in-t" id="q-is-there-an-issue-if-i-am-delayed-in-swapping-my-coins-over-to-alphanet-can-i-leave-the-coins-in-t"></a>
-
-You theoretically can leave your coins in the legacy wallet, but there is a decay mechanism built into the Alphanet swap which penalizes you for delaying swapping over to the new network. Eventually the legacy network will be unsupported by most network participants, so everyone is encouraged to swap over as soon as it becomes possible.
-
-#### **How much time do I have to swap my legacy ZNN to Syrius / Alphanet?**
-
-This will be a forced swap - you have 1 year to move your Legacy ZNN to NoM ZNN, receiving all of your swapped ZNN within the first 3 months of Alphanet launch on the 19th November 2021 and less and less as time goes after that.
+You may safely store you PIVX ZNN in the Legacy wallet during the transition to the Network of Momentum and transfer at will to the Alphanet. You have a 3 month time window after Alphanet launch to transfer without penalty, after that penalties begin to apply. The Syrius wallet dashboard shows you how many days left before swap penalities occur.
 
 **Swap Decay.**
 
@@ -42,18 +42,10 @@ The first swap cycle will last for 3 months with a Swap Ratio of 1:1. The next c
 
 [More info from Zenon.](https://medium.com/@zenon.network/alphanet-swap-cycles-658981a9d8bd)
 
-#### **My ZNN was still on an Exchange after the transition to NoM. What happens now?**
-
-For all those who have bought legacy ZNN on the CEX’s ( Central Exchanges ) and who did not move them into their own Legacy Wallet for the snapshot in November 2021, or who trade and buy Legacy ZNN on an exchange after the Snapshot:
+#### **My ZNN were still on an Exchange after the transition to NoM. What happens now?**
 
 It is entirely up to the Exchanges ( who are part of the snapshot ) to honour your purchase of Legacy ZNN and swap them out for NoM ZNN.
 
 If you’re not willing to take that risk it is safer to buy wZNN.
 
-#### **Is there another way to swap?**
-
-**Option to bridge “old” ZNN to wZNN on Binance Smart Chain.**
-
-The Zenon team created the option to buy and trade a version of ZNN on Pancakeswap on the Binance Smart Chain ( wZNN on BSC ) using a Web.3 wallet like Metamask. **This bridge from Legacy ZNN to BSC is currently closed.**&#x20;
-
-#### &#x20;<a href="q-can-i-still-participate-in-swapdrop-and-receive-pp-rewards" id="q-can-i-still-participate-in-swapdrop-and-receive-pp-rewards"></a>
+#### &#x20;<a href="#q-can-i-still-participate-in-swapdrop-and-receive-pp-rewards" id="q-can-i-still-participate-in-swapdrop-and-receive-pp-rewards"></a>
