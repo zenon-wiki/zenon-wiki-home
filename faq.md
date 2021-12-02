@@ -72,6 +72,10 @@ ZNN is a new protocol and as such is not yet supported in hardware wallets. You 
 
 There is a bottleneck at the RPC nodes which relay info between Syrius and the Network. You can change the RPC node your wallet is using to a less congested one. More info here. Also consider creating your own lightweight RPC node. [More info here](more-information/nodes-pillars-and-sentinels.md). Also consider [creating your own node.](getting-started.md#run-your-own-node-if-you-can)
 
+**I have the Error "Wallet Unlock Failed" what can I do?**
+
+Community members have linked to fixes[ here.](./#community-resources)
+
 **I have no Plasma for transactions, what now?**
 
 You can do slow transactions using PoW; just do the transaction and your computer will do some work to get the transaction through.

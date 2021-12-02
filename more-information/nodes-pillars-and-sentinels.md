@@ -26,15 +26,27 @@ If you have your own router connected to the network those contraints are remove
 
 In the Syrius wallet go to the Settings tab. Scroll down >> Bottom left >Node Management >> Add Node >> Enter the address of your new node (examples below) then click 'Confirm Node'. Make sure it's selected and exit.
 
-Tested RPC node addresses:
+**Community RPC Nodes:**
 
 ws://108.61.157.84:35998
 
 ws://node1.zenon.wiki:35998
 
-**If the node is so congested you can't log in to Syrius try this:**
+ws://45.32.148.36:35998&#x20;
 
-If you're stuck on the login screen in Syrius, hit the tab key a few times to get to the Settings tab. Then scroll down and change the node. After it changes, quit Syrius, reopen and login again.
+ws://45.32.146.167:35998&#x20;
+
+ws://140.82.52.157:35998&#x20;
+
+ws://199.247.11.50:35998&#x20;
+
+ws://95.179.213.154:35998
+
+#### **If you have the "Unlock Failed" problem in your Syrius wallet try these workarounds:**
+
+[https://medium.com/@sirajarab/syrius-wallet-error-unlock-failed-b7b9cc627574\
+\
+https://medium.com/@rufusizthebezt/how-to-get-around-the-error-unlock-failed-on-syrius-wallet-acf074d3e63e](https://medium.com/@sirajarab/syrius-wallet-error-unlock-failed-b7b9cc627574https://medium.com/@rufusizthebezt/how-to-get-around-the-error-unlock-failed-on-syrius-wallet-acf074d3e63e)
 
 **Running your own node improves the Network.**&#x20;
 

@@ -28,7 +28,7 @@ The Network of Momentum allows for:
 * Strongly incentivised decentralisation
 * Low energy consumption to maintain and secure the Network of Momentum
 
-The Network of Momentum launched with the Alphanet in November 2021.
+The Network of Momentum launched with the Alphanet in November 2021 and is live.
 
 **Legacy Network**
 
