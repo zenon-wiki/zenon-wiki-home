@@ -20,7 +20,6 @@ description: >-
 | @an0d3va         | SDK documentation                            | (wiki link missing)                                                                                                                                    |
 | @SultanofStaking | Troubleshooting and pillar deployment guides |                                                                                                                                                        |
 | @Byzentined      | ZENON Wiki                                   | [https://docs.zenon.wiki/home/](https://docs.zenon.wiki/home/)                                                                                         |
-| @dumeril         | Open source indexer                          |                                                                                                                                                        |
 | @georgezgeorgez  | Alphanet code review                         |                                                                                                                                                        |
 | @vibeznn         | Testnet stress tests                         |                                                                                                                                                        |
 | @legenddawg      | The Daily Alien newsletter                   |                                                                                                                                                        |
