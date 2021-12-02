@@ -14,7 +14,7 @@ Use your 12 or 24 word Mnemonic from testnet Syrius (if you have one) to launch 
 
 Make sure the Syrius wallet points to a fast node. Info on that [here](../getting-started.md#or-connect-to-a-public-rpc-node)&#x20;
 
-Fuel your wallet with Plasma to ensure a smooth transfer from Legacy into Syrius. Info on that [here](fees-and-plasma.md)
+Fuel your wallet with Plasma to ensure a smooth transfer from Legacy into Syrius, free Plasma is available. Info on that [here](fees-and-plasma.md). You can use PoW to do the transfer without Plasma, but it's not ideal.&#x20;
 
 In Syrius > Settings Tab > Wallet Options  > Swap Wallet.
 
