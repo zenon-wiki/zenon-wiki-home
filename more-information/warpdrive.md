@@ -25,4 +25,5 @@ description: >-
 | @vibeznn, @znnfrankb | Testnet stress tests                         |                                                                                                                                                        |
 | @legenddawg          | The Daily Alien                              |                                                                                                                                                        |
 | @itsilbarbiere       | Zenon Inu ZTS token project                  |                                                                                                                                                        |
+| @itsdyddy            | QSR logo design contest                      |                                                                                                                                                        |
 
