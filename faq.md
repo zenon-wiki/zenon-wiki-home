@@ -36,7 +36,7 @@ The most direct way is to run your own node. The node is very light and uses abo
 
 **I want to run a node, where do I start?**&#x20;
 
-Guides by Zenon Network and the Community are found [here.](./)
+The [Nodes Information page](more-information/nodes-pillars-and-sentinels.md) will get you going.
 
 **What are some good sources of information to familiarise myself with the project?**&#x20;
 
@@ -54,7 +54,7 @@ The code is written in Go, but SDKs will be provided for the most popular progra
 
 **Where can I download a wallet?**
 
-Wallet’s downloads are linked on the official website [here.](https://zenon.network/#downloads)
+Wallet downloads are linked on the official website [here.](https://zenon.network/#downloads)
 
 **In which wallets can I store ZNN?**&#x20;
 
@@ -80,13 +80,11 @@ Community members have linked to fixes[ here.](./#community-resources)
 
 You can do slow transactions using PoW; your computer will do some work to get the transaction through.
 
-You can request that a friend fuses QSR to your transacting address from their wallet; ask them to input your address into their Plasma tab when they fuse. ( Right click in the address field to paste an address )
+A friend can fuse QSR to your transacting address from their wallet; ask them to input your address into their Plasma tab when they fuse. ( Right click in the address field to paste an address )
 
 **How do I swap my Legacy ZNN to Syrius?**
 
-Community member quick walk-through video [here](https://youtu.be/Ge9BMVHC5JA?t=34).
-
-Community member detailed walk-through for newbies [here](https://youtu.be/XtA\_HgiEnoY).
+The [Swap to Alphanet page](more-information/swap-to-alphanet.md) has all that information.
 
 ### Feeless transacting
 
