@@ -23,10 +23,7 @@ description: >-
 | @georgezgeorgez  | Alphanet code review                         |                                                                                                                                                        |
 | @vibeznn         | Testnet stress tests                         |                                                                                                                                                        |
 | @legenddawg      | The Daily Alien newsletter                   |                                                                                                                                                        |
-| @itsilbarbiere   | Zenon Inu ZTS token project                  |                                                                                                                                                        |
 | @itsdyddy        | QSR logo design contest                      |                                                                                                                                                        |
 | @ButthurtCapital | public and development nodes                 |                                                                                                                                                        |
-| @itsDyddy        | CryptoHales                                  |                                                                                                                                                        |
-| @legenddawg      | Sigliasasymbol                               |                                                                                                                                                        |
 | @crypto\_culture | Zenon awareness marketing                    |                                                                                                                                                        |
 
