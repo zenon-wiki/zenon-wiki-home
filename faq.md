@@ -20,7 +20,7 @@ NoM 0 is the first stage of the Network of Momentum. It will last approximately 
 
 **Is there an explorer for the NoM?**&#x20;
 
-Yes - [Zenon Network Explorer](https://explorer.znn.space)&#x20;
+The Testnet explorer has not been ported over to the Mainnet as yet.
 
 **What is a Momentum?**&#x20;
 
@@ -70,7 +70,7 @@ ZNN is a new protocol and as such is not yet supported in hardware wallets. You 
 
 **My wallet keeps disconnecting, why?**
 
-The RPC node your Syrius wallet is connected to is congested. You can change the RPC node your wallet is using. [More info here](more-information/nodes-pillars-and-sentinels.md). Also consider [creating your own node.](getting-started.md#run-your-own-node-if-you-can)
+The RPC node your Syrius wallet is connected to is congested. You can change the RPC node your wallet is using. [More info here.](more-information/nodes-pillars-and-sentinels.md#nodes-syrius-and-the-network) Also consider [creating your own node.](getting-started.md#run-your-own-node-if-you-can)
 
 **I have the Error "Wallet Unlock Failed" what can I do?**
 
@@ -80,7 +80,7 @@ Community members have linked to fixes[ here.](./#community-resources)
 
 You can do slow transactions using PoW; your computer will do some work to get the transaction through.
 
-A friend can fuse QSR to your transacting address from their wallet; ask them to input your address into their Plasma tab when they fuse. ( Right click in the address field to paste an address )
+There are ways to get free Plasma for the short term. [Info here.](more-information/fees-and-plasma.md)
 
 **How do I swap my Legacy ZNN to Syrius?**
 
@@ -90,17 +90,17 @@ The [Swap to Alphanet page](more-information/swap-to-alphanet.md) has all that i
 
 **How do I get Plasma for sending fee-less transactions?**&#x20;
 
-You need at least 20 QSR to generate Plasma. 120 QSR gives full Plasma power. Fuse the QSR in the Plasma tab of the Syrius wallet. The QSR can be unfused at any time with no loss. More [here.](more-information/fees-and-plasma.md)
+You need at least 20 QSR to generate Plasma. 120 QSR gives full Plasma power. 50 QSR is recommended for the Legacy swap from the old network to the new. Fuse the QSR in the Plasma tab of the Syrius wallet. The QSR can be unfused at any time with no loss.
 
-You can request that a friend fuses QSR to your transacting address from their wallet; ask them to input your address into their Plasma tab when they fuse.
+There are ways to get free Plasma for the short term. [Info here.](more-information/fees-and-plasma.md)
 
 ### Staking & Delegating
 
 **What is the difference between staking and delegating?**
 
-In delegating you add voting weight to a Pillar and receive rewards in ZNN. You can undelegate at any time.
+In delegating you add ZNN voting weight to a Pillar and receive rewards in ZNN. You can undelegate at any time.
 
-In staking you stake for QSR, your ZNN is locked for a minimum of 1 month and you can claim your QSR daily.
+In staking you stake ZNN for QSR, your ZNN are locked for a minimum of 1 month and you can claim your QSR daily.
 
 **How do I delegate to a Pillar and receive rewards in Syrius?**
 
