@@ -6,35 +6,22 @@ description: Information related to moving your Legacy ZNN to Syrius
 
 **Tips for a smooth swap**
 
-The Syrius wallet dashboard indicates how many days are left before swap penalties occur.
-
-You can use Legacy wallet version 1.6.4 or 1.6.5.
-
-Create a fresh wallet.dat backup on your desktop. File > Backup > Save as
-
-You need a clean installation of the latest Syrius wallet.
-
-Download the [Alphanet Syrius](https://zenon.network/#downloads) wallet to a new folder and extract all the files before launching it. Check that it is called ' s y r i u s ' and not ' syrius '.
-
-Use your 12 or 24 word Mnemonic from testnet Syrius (if you have one) to launch the new wallet.
-
-Make sure the Syrius wallet points to a fast node. Info on that [here](nodes-pillars-and-sentinels.md#nodes-syrius-and-the-network)
-
-You can use PoW to do the transfer without Plasma, but it's not ideal.
-
-Fuel your wallet with Plasma to ensure a smooth transfer from Legacy into Syrius, free Plasma is available. Info on that [here.](fees-and-plasma.md)
-
-The swap function is in Syrius > Settings Tab > Wallet Options > Swap Wallet.
-
-It is recommended to send each Legacy address to 'Address 1' in Syrius.
-
-In the swap wallet process make sure to click the transfer arrows next to each address in Syrius and receive a confirmation tick next to that address before you tap 'Finish'
-
-Follow the video tutorials for reassurance.
-
-The balance of your Legacy wallet will not change, but you will receive your funds in your Syrius wallet.&#x20;
-
-In Syrius go to the Settings tab > add addresses to show the list of all addresses.
+* The Syrius wallet dashboard indicates how many days are left before swap penalties occur.
+* You can use Legacy wallet version 1.6.4 or 1.6.5.
+* Create a fresh wallet.dat backup on your desktop. File > Backup > Save as
+* You need a clean installation of the latest Syrius wallet.
+* Download the [Alphanet Syrius](https://zenon.network/#downloads) wallet to a new folder and extract all the files before launching it. Check that it is called ' s y r i u s ' and not ' syrius '.
+* Use your 12 or 24 word Mnemonic from testnet Syrius (if you have one) to launch the new wallet.
+* You can get your Syrius Mnemonic in Settings. Scroll down > Backup > Dump Mnemonic
+* Make sure the Syrius wallet points to a fast node. Info on that [here](nodes-pillars-and-sentinels.md#nodes-syrius-and-the-network)
+* You can use PoW to do the transfer without Plasma, but it's not ideal.
+* Fuel your wallet with Plasma to ensure a smooth transfer from Legacy into Syrius, free Plasma is available. Info on that [here.](fees-and-plasma.md)
+* The swap function is in Syrius > Settings Tab > Wallet Options > Swap Wallet.
+* It is recommended to send each Legacy address to 'Address 1' in Syrius.
+* In the swap wallet process make sure to click the transfer arrows next to each address in Syrius and receive a confirmation tick next to that address before you tap 'Finish'
+* Follow the video tutorials for reassurance.
+* The balance of your Legacy wallet will not change, but you will receive your funds in your Syrius wallet.
+* In Syrius go to the Settings tab > add addresses to show the list of all addresses.
 
 **Video tutorials for swapping Legacy ZNN to the Alphanet:**
 

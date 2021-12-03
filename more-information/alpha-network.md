@@ -4,8 +4,6 @@ description: Information for the Zenon Network of Momentum - Alphanet
 
 # Alphanet NoM
 
-****
-
 **The Alphanet is Live.**
 
 The fully functioning first version of the Network of Momentum: **NoM 0** or **Alphanet**, is live with validators being deployed by the community daily to secure the network as it expands and as holders of Legacy ZNN swap over to the NoM. The central wallet for the NoM is the Syrius wallet. More info [here](wallets.md). Delegation and Staking within the Syrius wallet are active, and zero fee transactions through Plasma are also active.&#x20;
