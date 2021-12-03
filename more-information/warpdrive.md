@@ -31,6 +31,10 @@ description: >-
 
 (alphabetical)
 
+### Apu (Non-Voting Honorary Counsel)
+
+When allo? [@ZNNapu](https://twitter.com/ZNNapu)
+
 ### Crypto Nut
 
 Crypto Nut is a crypto investor and well-known personality on crypto Twitter. He discovered Zenon in 2019 and has been a member of the community ever since. As a potential member of the WarpDrive judging panel, he brings his experience in evaluating crypto projects for the past several years, which has resulted in an overall 58000% portfolio gain so far.
