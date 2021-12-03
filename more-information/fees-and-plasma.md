@@ -16,11 +16,11 @@ In the Plasma tab in Syrius select the address you want to generate Plasma for, 
 
 You need to fuse QSR to each address you transact from. You can do that from your main address Plasma Tab and select any other address in the address field ( right click to paste an address copied to your clipboard )
 
-A minimum of 20 QSR is recommended and 120 QSR fused gives you full Plasma power you need at least 50QSR fused to transfer from Legacy wallet to Syrius.
+A minimum of 20 QSR is recommended and 120 QSR fused gives you full Plasma power. You need at least 50 QSR fused to [do the swap](swap-to-alphanet.md) from Legacy wallet to Syrius.
 
 **You are also able to request that a friend fuses QSR to your transacting address from their wallet.**&#x20;
 
-Just ask them to input your address into their Plasma tab when they fuse.
+Just ask them to input your address into their Plasma tab when they fuse. ( right click in the address field to paste from clipboard )
 
 **Where can I get QSR?**
 
