@@ -168,7 +168,7 @@ It is entirely up to the Exchanges to honour your purchase of Legacy ZNN and swa
 
 **Must I do something to swap to the new Network?**&#x20;
 
-Yes - you will have to swap the Legacy ZNN over to your Syrius Wallet yourself. Tutorials are [here](more-information/swap-to-alphanet.md).
+Yes - you will have to swap the Legacy ZNN over to your Syrius Wallet yourself. [More info here.](more-information/swap-to-alphanet.md)
 
 **I have more questions - who can I ask?**
 
