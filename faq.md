@@ -74,7 +74,7 @@ The RPC node your Syrius wallet is connected to is congested. You can change the
 
 **I have the Error "Wallet Unlock Failed" what can I do?**
 
-Community members have linked to fixes[ here.](./#community-resources)
+Community members have linked to fixes[ ](./#community-resources)[here.](./#community-resources)
 
 **I have no Plasma for transactions, what now?**
 

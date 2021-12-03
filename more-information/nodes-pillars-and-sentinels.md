@@ -44,9 +44,9 @@ ws://95.179.213.154:35998
 
 #### **If you have the "Unlock Failed" problem in your Syrius wallet try these workarounds:**
 
-[https://medium.com/@sirajarab/syrius-wallet-error-unlock-failed-b7b9cc627574\
-\
-https://medium.com/@rufusizthebezt/how-to-get-around-the-error-unlock-failed-on-syrius-wallet-acf074d3e63e](https://medium.com/@sirajarab/syrius-wallet-error-unlock-failed-b7b9cc627574https://medium.com/@rufusizthebezt/how-to-get-around-the-error-unlock-failed-on-syrius-wallet-acf074d3e63e)
+["Error Unlock Failed"](https://medium.com/@sirajarab/syrius-wallet-error-unlock-failed-b7b9cc627574) Syrius wallet fix by Siraj
+
+["Error Unlock Failed"](https://medium.com/@rufusizthebezt/how-to-get-around-the-error-unlock-failed-on-syrius-wallet-acf074d3e63e) Syrius wallet fix by Rufus
 
 **Running your own node improves the Network.**&#x20;
 
