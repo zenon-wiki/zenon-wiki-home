@@ -26,9 +26,9 @@ description: Information related to moving your Legacy ZNN to Syrius
 
 **Video tutorials for swapping Legacy ZNN to the Alphanet:**
 
-Community member simple quick walk-through video [here](https://youtu.be/Ge9BMVHC5JA?t=34).
+Community member Dyddy quick walk-through video [here](https://youtu.be/Ge9BMVHC5JA?t=34).
 
-Community member more detailed walk-through for newbies [here](https://youtu.be/XtA\_HgiEnoY).
+Community member Muzzo detailed walk-through [here](https://youtu.be/XtA\_HgiEnoY).
 
 **I have the “old” ZNN, are they safe in the Legacy wallet?**
 
