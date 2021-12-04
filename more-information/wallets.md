@@ -4,21 +4,17 @@ description: Information about the Wallets of Zenon Network
 
 # Wallets
 
-You can access the latest version of the S Y R I U S Network of Momentum Wallet at the bottom of the official Zenon Network page.&#x20;
+Get the latest version of the S Y R I U S wallet here:
 
-[Zenon Network Official Wallets download](https://zenon.network/#downloads)
+[Zenon Network Wallets download](https://zenon.network/#downloads)
 
-### Syrius Wallet functions
+### Syrius Wallet
+
+The Syrius Wallet is the go-to wallet on the Network of Momentum. It's the command center for Delegating, Staking, Managing Tokens and Transacting.
 
 **How do I get Plasma for sending fee-less transactions?**&#x20;
 
-You need QSR to generate Plasma. In the Plasma tab in Syrius select the address you want to generate Plasma for, select the amount of QSR you want to fuse to that address ( minimum of 20 QSR recommended ) and click 'Fuse'. If you have no Plasma yet a PoW is done to fuel the process. The QSR can be unfused at any time with no loss.
-
-**What is the Syrius Wallet ?**
-
-The first public tests of the Network of Momentum began in 2021. These public tests were signalled with the release of the Syrius wallet. These initial versions of Syrius are fully functioning Beta versions of the Network of Momentum wallet where you can do everything you will be able to do on the Network of Momentum, but in a test phase. All the Zenon ZNN and Quasar QSR coins on Syrius wallet are test versions of the actual NoM coins and are not redeemable for real ZNN or QSR.
-
-The Syrius Wallet will be the go-to wallet on the Network of Momentum once it transitions from the Testnet to the Alphanet.
+You need QSR to generate Plasma. In the Plasma tab in Syrius select the address you want to generate Plasma for, select the amount of QSR you want to fuse to that address ( minimum of 20 QSR recommended ) and click 'Fuse'. If you have no Plasma yet a PoW is done to fuel the process. The QSR can be unfused at any time with no loss. [More info here.](fees-and-plasma.md)
 
 #### **I would like to change the Node my Syrius wallet points to, how do I do that?**
 
@@ -30,7 +26,23 @@ In the Pillar tab of Syrius you will find a list of active Pillars on the Networ
 
 If you want to delegate to other Pillars at the same time you need to move a portion of your funds across to another address within your wallet. Move to that address ( select it in the settings tab ) and then delegate those funds in that address to another Pillar. This is a good way to discover which Pillars are yielding greater returns.
 
-You can find up-to-date information on the rewards Pillars are offering in [this Telegram chat by Zenon Tools.](https://t.me/pillar\_tracker)
+You can find more info on Delegating and Staking [here.](staking-and-incentives.md)
+
+**I'm creating a new Syrius wallet but can't make a password.**
+
+Syrius requires that passwords contain the following.
+
+A small letter&#x20;
+
+A capital letter
+
+A symbol like @#$¢
+
+A number
+
+**How do I backup my Syrius wallet?**
+
+You do that in the Settings tab. Scroll down > bottom right 'Backup'
 
 #### **When will cold wallet support be available?** <a href="#q-when-will-cold-wallet-support-be-available" id="q-when-will-cold-wallet-support-be-available"></a>
 
@@ -42,11 +54,9 @@ There will be a mobile version of Syrius as well as community-built mobile walle
 
 ### Legacy wallet
 
-#### **Zenon Network guide for the Legacy Wallet is here.**
+#### **Guides for the Legacy Wallet are here.**
 
 [Legacy wallet How-to](https://zenon.network/howto)&#x20;
-
-#### **Community Member guide for the Legacy Wallet is here.**
 
 [Crypto Iverson Guide ](https://crypto-iverson.medium.com/so-you-bought-znn-de91d97a2bcb)
 
