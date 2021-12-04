@@ -18,7 +18,13 @@ You need QSR to generate Plasma. In the Plasma tab in Syrius select the address 
 
 #### **I would like to change the Node my Syrius wallet points to, how do I do that?**
 
-In the Syrius wallet go to the Settings tab. Scroll down >> Bottom left /Node Management >> Add Node >> and put in the address of your new Node aggregator, an example is '  ws://peers.zenon.wiki:35998  ' then click 'Confirm Node'.
+In the Syrius wallet go to the Settings tab. Scroll down >> Bottom left /Node Management >> Add Node >> and put in the address of your new Node aggregator, select it and click 'Confirm Node'. [More info here.](nodes-pillars-and-sentinels.md#nodes-syrius-and-the-network)
+
+**Syrius is giving me an 'Unlock Failed' error.**
+
+This is related to the node your wallet is connected to. Try quitting Syrius, disconnecting your computer from the internet, relaunching & opening Syrius and changing the node.
+
+Community workarounds are linked [here.](../#community-resources)
 
 #### **How do I delegate for rewards in the Syrius wallet?**
 
