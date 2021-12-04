@@ -20,8 +20,10 @@ The **Testnet** of the Network of Momentum was launched in early 2021, with it's
 
 ### 2021 -&#x20;
 
-The launch of the functioning first version of the Network of Momentum ( NoM 0 ) occurred in November of 2021. At that time the Syrius wallet was updated and launched on the live first version of the Network of Momentum; NoM 0 or **Alphanet.** The Alphanet will run for 1 year after which NoM 1 begins.
+The Network of Momentum went live in November of 2021. At that time the Syrius wallet was updated and launched on the first version of the Network of Momentum; NoM 0 or **Alphanet.**
 
-At Alphanet launch all the functions of the Testnet rolled out onto the Mainnet using ZNN and QSR with real value. Delegating and Staking are active. Pillars and Sentinels are being launched and are active during NoM 0, while Sentries, which have a function in validating and securing the Network, only become possible at NoM 1.&#x20;
+At Alphanet launch all functions of the Testnet rolled out onto the Mainnet using ZNN and QSR with real value. Delegating and Staking are active. Pillars and Sentinels are being launched and are active during NoM 0, while Sentries, which have a function in validating and securing the Network, only become possible at NoM 1.&#x20;
+
+The Alphanet will run for 1 year after which NoM 1 begins.
 
 The wZNN version of ZNN will remain active on Binance Smart Chain with a bridge to and from the NoM via the Syrius Wallet. The Bridge is currently being built.
