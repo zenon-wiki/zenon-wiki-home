@@ -22,6 +22,7 @@ description: Information related to moving your Legacy ZNN to Syrius
 * Follow the video tutorials for reassurance.
 * The balance of your Legacy wallet will not change, but you will receive your funds in your Syrius wallet.
 * In Syrius go to the Settings tab > add addresses to show the list of all addresses.
+* Any rewards accrued in your Legacy wallet after the snapshot on November 22nd are not credited and will not show up in your Syrius wallet.
 
 **Video tutorials for swapping Legacy ZNN to the Alphanet:**
 

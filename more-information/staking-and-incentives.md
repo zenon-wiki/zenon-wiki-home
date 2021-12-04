@@ -2,48 +2,74 @@
 description: Information related to passive income from ZNN and wZNN
 ---
 
-# Staking & Incentives
+# Delegating Staking & Rewards
 
-### Testnet Syrius Rewards
+#### **Delegating and staking on the Network of Momentum**
 
-**What is the difference between staking and delegating?**
+Delegating and staking is done in the Syrius wallet.&#x20;
 
-In delegating you delegate the ZNN in an address towards the voting weight of a Pillar and receive rewards in exchange. You can undelegate at any time.
+You **delegate** the ZNN in an address through the Pillar tab in the wallet and receive **rewards in ZNN**. You can undelegate at any time.&#x20;
 
-In staking you stake your ZNN for rewards in QSR, your ZNN is locked for the entire staking period and you can claim your QSR daily.
+You **stake** the ZNN in an address through the Staking tab in the wallet and receive **rewards in QSR**. The ZNN are locked for the staking period you have chosen and you can claim your QSR daily.&#x20;
 
-**How do I delegate to a Pillar?**
+You can split your ZNN between delegating and staking. The ZNN you stake are subtracted from the ZNN delegated. You cannot delegate the ZNN you have already staked. You can transact as per normal - your delegated weight adjusts according to the balance of your wallet.
 
-You do that within the Pillars tab of the Syrius wallet.
+### Delegating
 
-#### **What are Plasma Points ( PP ) ?** <a href="#what-are-plasma-points-pp" id="what-are-plasma-points-pp"></a>
+**Delegating is part of Governance on the NoM**&#x20;
 
-To drive interest in the project and get people involved a Testnet Syrius wallet was released with an “Incentivization” tab. You were challenged to complete quests and tasks and received Plasma Points ( PP ), the first official token on the Network of Momentum, as reward.
+Giving voting weight to a Pillar in exchange for rewards is one of the fundamental governance mechanisms on the NoM. In the future you will be able to vote for things on the Network by shifting your ZNN to a Pillar who’s proposal you like.&#x20;
 
-All the PP accrued in your Syrius wallet as rewards have real value. Once the Network of Momentum is launched ( The Big Bang ) You will receive QSR in exchange for your PP at the rate of 1 QSR for every 1000 PP.
+Pillars receive rewards for running the Network and being core validators. Those rewards come in the form of Delegator rewards and Momentum rewards. The Pillar can choose how much of those rewards they pass on to their delegators and can entice delegators to move to their PIllar by increasing rewards. This incentivised decentralisation creates a dynamic play between the Pillars and the delegators, and helps create a healthy, sustainable economy.
 
-All Testnet rewards in the form of PP are now complete.
+#### Tips for **delegating**.&#x20;
 
-### BSC wZNN Rewards
+* Rewards arrive once every 24 hr epoch at approx 2pm UTC.&#x20;
+* You can change your delegation during an epoch without losing rewards.
+* You can delegate to more pillars by moving funds to another address and delegating from that address. Shift focus to the new address by highlighting it in the Settings tab.
+* It is easier to collect rewards with Plasma available. [More info here.](fees-and-plasma.md)
+* You can turn off your computer once you have delegated.
+* If you claim your delegating rewards each day they compound.
+* A pillar can change rewards to zero, but they cannot touch your delegated ZNN.
 
-#### **Can I stake wZNN that I have bought on Pancakeswap?** <a href="#q-can-i-stake-wznn-that-i-have-bought-on-pancakeswap" id="q-can-i-stake-wznn-that-i-have-bought-on-pancakeswap"></a>
+#### **Pillar tracking tools**&#x20;
 
-No, you can only stake ZNN on the Legacy network, and either stake or delegate on Alphanet after it launches. wZNN can be bought, sold, or used for liquidity provision, but cannot be staked.
+The community is building tools to track Pillar rewards. Here are two:&#x20;
 
-**Can I earn rewards by participating in the liquidity pool for wZNN/BNB?**
+Vilkris has built a Pillar tracker channel on Telegram - https://t.me/pillar\_tracker
 
-Yes, QSR will be awarded daily to liquidity providers based on their share of the LP. This will commence after Alphanet launch. Details to come.
+Alien Valley Pillar have created a tool to figure out who to delegate to [here.](http://alien-valley.io/who-to-delegate.html)
 
-**Pancakeswap Liquidity rewards.**&#x20;
+### **Staking**
 
-To bump up the liquidity on the Pancakeswap wZNN / BNB pair a liquidity reward program will take place where you receive QSR tokens in your Syrius wallet for every day you add liquidity to the wZNN / BNB pool. Be aware that as ZNN begins to climb in value you run the risk of impermanent loss, which can be mitigated a little by only adding to the pool when ZNN is at it’s highest price and removing liquidity when it is at it’s lowest price.&#x20;
+Staking is Simple. In the Syrius wallet staking tab select how much ZNN you want to stake and for how long. **Your ZNN are locked** for the period you selected and cannot be spent or moved. Staking for longer than 6 months increases the rewards significantly.
 
-### Legacy Wallet Staking
+You cannot delegate the ZNN you have staked.
 
-If you chose to store the PIVX Zennies you bought through a CEX or OTC in the Legacy Wallet you were able to stake your coins for rewards, which arrived as 0.9 ZNN, at intervals depending on the size of your stake and the duration of your wallet being online. ( Hot staking ). Very broadly the rewards were about 0.9 ZNN per 1000 ZNN staked and online per day. This program is still running, but rewards seem to be slowing down. It will end when the Alphanet launches.
+You can turn off your computer once you have staked.
 
-#### **Once the Swap Cycle begins from Legacy to Syrius, would the staking continue on legacy wallet?** <a href="#q-once-the-swap-cycle-begins-from-legacy-to-syrius-would-the-staking-continue-on-legacy-wallet" id="q-once-the-swap-cycle-begins-from-legacy-to-syrius-would-the-staking-continue-on-legacy-wallet"></a>
+You stake ZNN so that you can receive QSR to bond to an address for Plasma and zero fee transactions. It will also be tradeable in the future.
 
-No, staking will commence on the Alphanet and cease on the legacy network. To continue staking, you will need to migrate your coins to the Alphanet via a swap mechanism (more details on this to be announced soon).
+#### **Zenon rewards calculator for Staking and Delegating.**
 
-### &#x20;<a href="#swapdrop" id="swapdrop"></a>
+There is a rewards slider on the Zenon website. Scroll up a bit from the downloads section to access it.
+
+[ZENON rewards slider](https://zenon.network/#downloads)
+
+### wZNN rewards on Binance Smart Chain.
+
+#### **Liquidity Pool rewards**
+
+To bump up the liquidity on the Pancakeswap wZNN / BNB pair a liquidity reward program will be activated soon where you receive QSR tokens in your Syrius wallet for every day you add liquidity to the wZNN / BNB pool.&#x20;
+
+Those who had linked their Syrius address to the previous reward program will retroactively be rewarded for providing liquidity. [More info here.](https://twitter.com/Zenon\_Network/status/1463265853328162820)
+
+Be aware that as ZNN begins to climb in value you run the risk of impermanent loss, which can be mitigated a little by only adding to the pool when ZNN is at it’s highest price and removing liquidity when it is at it’s lowest price. More info about wZNN here.
+
+**Can I stake wZNN that I have bought on Pancakeswap?**&#x20;
+
+No, you can only stake or delegate ZNN in the Syrius Wallet. wZNN can be bought, sold, or used for liquidity provision, but cannot be staked.
+
+### **Legacy Wallet Staking**&#x20;
+
+Staking on the Legacy wallet ended at the Snapshot taken November 22 2021. If you left your legacy wallet running after the snapshot those new rewards do not count and will not be transferred to Syrius when you swap.
