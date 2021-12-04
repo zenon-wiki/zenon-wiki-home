@@ -24,7 +24,9 @@ In the Syrius wallet go to the Settings tab. Scroll down >> Bottom left /Node Ma
 
 This is related to the node your wallet is connected to. Try quitting Syrius, disconnecting your computer from the internet, relaunching & opening Syrius and changing the node.
 
-Community workarounds are linked [here.](../#community-resources)
+Learn how to change the Syrius node [here](nodes-pillars-and-sentinels.md#nodes-syrius-and-the-network).
+
+Other community workarounds are linked [here.](../#community-resources)
 
 #### **How do I delegate for rewards in the Syrius wallet?**
 
