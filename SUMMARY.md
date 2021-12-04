@@ -17,5 +17,4 @@
   * [Security](more-information/security.md)
   * [Legacy Info](more-information/legacy-info.md)
   * [WarpDrive](more-information/warpdrive.md)
-* [Developer Resources](https://app.gitbook.com/o/WjZkdKfxKcBlqofAEh6T/s/fm0t4BmyDNLJv2QIc12T/)
 * [How to run a Linux node](how-to-run-a-linux-node.md)
