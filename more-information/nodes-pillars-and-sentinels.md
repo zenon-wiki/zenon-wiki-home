@@ -60,9 +60,9 @@ Here are the requirements from the team to run a public node on the Alphanet. Pr
 
 **I want to run a node locally on my own machine to speed up the network. How can I do that?**
 
-There are official Zenon Network guides linked [here.](../#official-zenon-network-resources)
+You do not need ZNN or QSR in your wallet to run a node.
 
-Community created guides are linked [here.](../#community-resources)
+Official and Community guides are linked[ here.](../getting-started.md#run-your-own-node-if-you-can)
 
 ### **Pillars and Sentinels**
 

@@ -4,7 +4,7 @@ description: A community driven resource for Zenon Network
 
 # FAQ
 
-General
+### General
 
 **Has there been a private sale?**&#x20;
 
@@ -40,15 +40,15 @@ The [Nodes Information page](more-information/nodes-pillars-and-sentinels.md) wi
 
 **What are some good sources of information to familiarise myself with the project?**&#x20;
 
-Both Community Articles and Official articles are linked [here](broken-reference).
+Official and Community articles on ZENON are linked [here.](./)
 
 **Will Zenon bridge with chains like Fantom, ETH or AVAX, similar to the current BSC Bridge?**&#x20;
 
 All EVM chains are compatible with the Zenon Bridge implementation and can be extended to work two-way after Alphanet launch.
 
-**What will be the program language for Alphanet? Will it be the same for both coins and the token?**&#x20;
+**What is the program language for the NoM? Will it be the same for both coins and the token?**&#x20;
 
-The code is written in Go, but SDKs will be provided for the most popular programming languages.
+The code is written in Go, but SDKs will be provided for the most popular programming languages. The ZENON Github for the Alphanet is [here.](https://github.com/zenon-network?tab=repositories)
 
 ### Wallets
 
@@ -74,7 +74,7 @@ The RPC node your Syrius wallet is connected to is congested. You can change the
 
 **I have the Error "Wallet Unlock Failed" what can I do?**
 
-Community members have linked to fixes[ ](./#community-resources)[here.](./#community-resources)
+Community members have linked to fixes [here.](more-information/wallets.md#syrius-wallet)
 
 **I have no Plasma for transactions, what now?**
 
@@ -106,9 +106,9 @@ In staking you stake ZNN for QSR, your ZNN are locked for a minimum of 1 month a
 
 You do that within the Pillars tab of the Syrius wallet. More info [here.](more-information/staking-and-incentives.md)
 
-**What is the staking return?**&#x20;
+**What returns can I expect?**&#x20;
 
-Delegating to a Node has an APY of up to 72% Staking ZNN for QSR has an APY of up to 26%.  These figures are dependent on fluctuating conditions. Figures shown are from the [Zenon.Network](https://zenon.network/#downloads) page.
+Delegating to a Pillar has an APY of up to 72% Staking ZNN for QSR has an APY of up to 26%.  These figures are dependent on fluctuating conditions. Figures shown are from the [Zenon.Network](https://zenon.network/#downloads) page.
 
 **I received Quasar QSR, what can I do with it?**&#x20;
 

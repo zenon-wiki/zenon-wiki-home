@@ -50,6 +50,10 @@ You can turn off your computer once you have staked.
 
 You stake ZNN so that you can receive QSR to bond to an address for Plasma and zero fee transactions. It will also be tradeable in the future.
 
+### **Expected returns**&#x20;
+
+Delegating to a Pillar has an APY of up to 72%. Staking ZNN for QSR has an APY of up to 26%.  These figures are dependent on fluctuating conditions. Figures shown are from the Zenon Network page.
+
 #### **Zenon rewards calculator for Staking and Delegating.**
 
 There is a rewards slider on the Zenon website. Scroll up a bit from the downloads section to access it.
