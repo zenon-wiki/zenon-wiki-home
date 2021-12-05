@@ -68,7 +68,7 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 ​[Instructions to setup a local node on Mac](https://twitter.com/zenonorg/status/1464852904037265412?s=21) (by OG Zenon)​
 
-​[Instructions to setup a node on Linux](https://docs.zenon.wiki/home/how-to-run-a-node) (by Sam)​
+​[Instructions to setup a local node on Linux](how-to-run-a-linux-node.md) (by Sam)​
 
 ["Error Unlock Failed"](https://medium.com/@sirajarab/syrius-wallet-error-unlock-failed-b7b9cc627574) Syrius wallet fix by Siraj
 
