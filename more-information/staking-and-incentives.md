@@ -64,13 +64,17 @@ There is a rewards slider on the Zenon website. Scroll up a bit from the downloa
 
 ### wZNN rewards on Binance Smart Chain.
 
-#### **Liquidity Pool rewards**
+**Liquidity Pool rewards**
 
 To bump up the liquidity on the Pancakeswap wZNN / BNB pair a liquidity reward program will be activated soon where you receive QSR tokens in your Syrius wallet for every day you add liquidity to the wZNN / BNB pool.&#x20;
 
 Those who had linked their Syrius address to the previous reward program will retroactively be rewarded for providing liquidity. [More info here.](https://twitter.com/Zenon\_Network/status/1463265853328162820)
 
 Be aware that as ZNN begins to climb in value you run the risk of impermanent loss, which can be mitigated a little by only adding to the pool when ZNN is at it’s highest price and removing liquidity when it is at it’s lowest price. More info about wZNN here.
+
+**How do I add liquidity to the wZNN / BNB pool on Pancakeswap?**
+
+Rufus has put together a guide [here.](https://medium.com/@rufusizthebezt/zenon-liquidity-program-how-to-add-liquidity-on-pancakeswap-75894da9949b)
 
 **Can I stake wZNN that I have bought on Pancakeswap?**&#x20;
 

@@ -136,6 +136,10 @@ Token contract address: 0x84b174628911896a3b87fa6980d05dbc2ee74836
 
 Liquidity Pool contract address: 0xE6B03fCB16dAf3462DdfB8B0AFb3F0E87d38d884
 
+**How do I add liquidity to the wZNN / BNB trading pair on Pancakeswap?**
+
+Rufus has created a [step-by-step](https://medium.com/@rufusizthebezt/zenon-liquidity-program-how-to-add-liquidity-on-pancakeswap-75894da9949b) to guide you.
+
 **Can I swap my ZNN for wZNN?**&#x20;
 
 A bridge between Syrius and BSC will be opened after Alphanet.

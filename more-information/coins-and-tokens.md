@@ -28,7 +28,7 @@ wZNN will remain as a cross-chain version of ZNN.&#x20;
 
 **The wZNN token contract** ( Updated November 22nd 2021 ): https://bscscan.com/token/0x84b174628911896a3b87fa6980d05dbc2ee74836&#x20;
 
-**The wZNN Liquidity Pool contract** ( Updated November 22nd 2021 ): https://bscscan.com/address/0xE6B03fCB16dAf3462DdfB8B0AFb3F0E87d38d884&#x20;
+**The wZNN Liquidity Pool contract** ( Updated November 22nd 2021 ): https://bscscan.com/address/0xE6B03fCB16dAf3462DdfB8B0AFb3F0E87d38d884
 
 **Can I swap wZNN on BSC for ZNN on Alphanet?**&#x20;
 
@@ -37,6 +37,10 @@ A two-way bridge is being constructed between Binance Smart Chain and Network of
 **Can I store wZNN in Metamask?**&#x20;
 
 Yes, you can send wZNN to any web3 compatible wallet in the same way you would send any other BSC token to it.&#x20;
+
+**Add liquidity to the wZNN / BNB pool on Pancakeswap.**
+
+Rufus has put together a guide [here.](https://medium.com/@rufusizthebezt/zenon-liquidity-program-how-to-add-liquidity-on-pancakeswap-75894da9949b)
 
 **What happened with the wZNN / BSC liquidity Pool?**&#x20;
 

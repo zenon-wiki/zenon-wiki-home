@@ -76,6 +76,8 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 ["Error Unlock Failed"](https://medium.com/@rufusizthebezt/how-to-get-around-the-error-unlock-failed-on-syrius-wallet-acf074d3e63e) Syrius wallet fix by Rufus
 
+[Add Liquidity to the wZNN / BNB pool on Pancakeswap](https://medium.com/@rufusizthebezt/zenon-liquidity-program-how-to-add-liquidity-on-pancakeswap-75894da9949b) ( by Rufus )
+
 **Community Tools**
 
 [Zenon Tools Staking toolbox](https://zenon.tools)
