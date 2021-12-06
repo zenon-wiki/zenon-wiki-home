@@ -70,11 +70,17 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 ​[Instructions to setup a local node on Linux](how-to-run-a-linux-node.md) (by Sam)​
 
+[Instructions to set up a full node on VPS](https://medium.com/@ChadassCapital/how-to-setup-your-own-full-zenon-network-node-on-a-vps-4eabad359453) ( by Chadass )
+
 ["Error Unlock Failed"](https://medium.com/@sirajarab/syrius-wallet-error-unlock-failed-b7b9cc627574) Syrius wallet fix by Siraj
 
 ["Error Unlock Failed"](https://medium.com/@rufusizthebezt/how-to-get-around-the-error-unlock-failed-on-syrius-wallet-acf074d3e63e) Syrius wallet fix by Rufus
 
 **Community Tools**
+
+[Zenon Tools Staking toolbox](https://zenon.tools)
+
+[Alien Valley Pillar Tracker](http://alien-valley.io/who-to-delegate.html)
 
 ​[Zenon Tools Pillar Tracker on Telegram](https://t.me/pillar\_tracker)​
 

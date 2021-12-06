@@ -34,11 +34,13 @@ Pillars receive rewards for running the Network and being core validators. Those
 
 #### **Pillar tracking tools**&#x20;
 
-The community is building tools to track Pillar rewards. Here are two:&#x20;
+The community is building tools to track Pillar rewards:&#x20;
 
-Vilkris has built a Pillar tracker channel on Telegram - https://t.me/pillar\_tracker
+Vilkris has built a [Pillar tracker channel on Telegram](https://t.me/pillar\_tracker).
 
-Alien Valley Pillar have created a tool to figure out who to delegate to [here.](http://alien-valley.io/who-to-delegate.html)
+Alien Valley Pillar have created a [Pillar Tracker.](http://alien-valley.io/who-to-delegate.html)
+
+Zenon Tools have created a [Staking toolbox](https://zenon.tools).
 
 ### **Staking**
 

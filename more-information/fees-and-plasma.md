@@ -18,6 +18,8 @@ You need to fuse QSR to each address you transact from. You can do that from you
 
 A minimum of 20 QSR is recommended and 120 QSR fused gives you full Plasma power. You need at least 50 QSR fused to [do the swap](swap-to-alphanet.md) from Legacy wallet to Syrius.
 
+Block lattice transactions do work at both the send and receive wallets, so Plasma is required for quick transactions at both the send address and the receive address.
+
 **You are also able to request that a friend fuses QSR to your transacting address from their wallet.**&#x20;
 
 Just ask them to input your address into their Plasma tab when they fuse. ( right click in the address field to paste from clipboard )

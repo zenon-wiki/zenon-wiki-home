@@ -100,11 +100,11 @@ There are ways to get free Plasma for the short term. [Info here.](more-informat
 
 In delegating you add ZNN voting weight to a Pillar and receive rewards in ZNN. You can undelegate at any time.
 
-In staking you stake ZNN for QSR, your ZNN are locked for a minimum of 1 month and you can claim your QSR daily.
+In staking you stake ZNN for QSR, your ZNN are locked for a minimum of 1 month and you can claim your QSR daily. [More info here.](more-information/staking-and-incentives.md)
 
 **How do I delegate to a Pillar and receive rewards in Syrius?**
 
-You do that within the Pillars tab of the Syrius wallet. More info [here.](more-information/staking-and-incentives.md)
+You do that within the Pillars tab of the Syrius wallet. [More info here.](more-information/staking-and-incentives.md)
 
 **What returns can I expect?**&#x20;
 
@@ -172,7 +172,7 @@ Yes - you will have to swap the Legacy ZNN over to your Syrius Wallet yourself. 
 
 **I have more questions - who can I ask?**
 
-You can join the Telegram Groups and learn from others in the Community.
+You can browse the [More Information](more-information/) section  and you can join the Telegram Groups and learn from others in the Community.
 
 [Official Telegram](https://t.me/joinchat/MLyPehLIbJj1nw1XOOOltg).
 
