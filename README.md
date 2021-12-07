@@ -4,9 +4,9 @@ cover: .gitbook/assets/zenon-wiki-banner-c.jpg
 coverY: 0
 ---
 
-# Untitled
+# The ZENON wiki
 
-A community managed wiki for Zenon Network.
+![A community managed wiki for Zenon Network.](.gitbook/assets/zenon-wiki-banner-c.jpg)
 
 ### Official Zenon Network Resources
 
