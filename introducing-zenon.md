@@ -36,8 +36,8 @@ While the NoM was in development the Zenon team put in place a temporary network
 
 More info from Zenon.&#x20;
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Zenon Network Medium</mark>](https://medium.com/@zenon.network/paving-the-way-1332f61a66b2)<mark style="color:blue;"></mark>
+[Zenon Network Medium](https://medium.com/@zenon.network/paving-the-way-1332f61a66b2)
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Zenon Network Twitter</mark>](https://twitter.com/Zenon\_Network)<mark style="color:blue;"></mark>
+[Zenon Network Twitter](https://twitter.com/Zenon\_Network)
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Zenon Network Website</mark>](https://zenon.network)<mark style="color:blue;"></mark>
+[Zenon Network Website](https://zenon.network)
