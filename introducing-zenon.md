@@ -30,14 +30,14 @@ The Network of Momentum allows for:
 
 The Network of Momentum launched with the Alphanet in November 2021 and is live. [More on the Alphanet here.](more-information/alpha-network.md)
 
-**Legacy Network**
-
-While the NoM was in development the Zenon team put in place a temporary network built on a fork of PIVX, with its own wallet. That wallet was called the Legacy Wallet and the ZNN coin you buy on CEX’s and in OTC channels is actually a PIVX coin which can be stored ONLY within the Legacy Zenon Wallet OR on the exchanges where you can buy ZNN.
-
 More info from Zenon.&#x20;
+
+[Zenon Network Website](https://zenon.network)
 
 [Zenon Network Medium](https://medium.com/@zenon.network/paving-the-way-1332f61a66b2)
 
 [Zenon Network Twitter](https://twitter.com/Zenon\_Network)
 
-[Zenon Network Website](https://zenon.network)
+**Legacy Network**
+
+While the NoM was in development the Zenon team put in place a temporary network built on a fork of PIVX, with its own wallet. That wallet was called the Legacy Wallet and the ZNN coin you buy on CEX’s and in OTC channels is actually a PIVX coin which can be stored ONLY within the Legacy Zenon Wallet OR on the exchanges where you can buy ZNN.
