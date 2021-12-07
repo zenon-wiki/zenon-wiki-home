@@ -6,7 +6,7 @@ coverY: 0
 
 # The ZENON wiki
 
-![A community managed wiki for Zenon Network.](.gitbook/assets/zenon-wiki-banner-c.jpg)
+![A community managed wiki for Zenon Network.](.gitbook/assets/zenon-wiki-banner-n.jpg)
 
 ### Official Zenon Network Resources
 
