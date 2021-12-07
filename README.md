@@ -4,7 +4,9 @@ cover: .gitbook/assets/zenon-wiki-banner-c.jpg
 coverY: 0
 ---
 
-# ZENON WIKI
+# Untitled
+
+A community managed wiki for Zenon Network.
 
 ### Official Zenon Network Resources
 
@@ -40,7 +42,7 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 #### **Community Telegrams**
 
-​[english](https://t.me/Zenon\_Community)​ ​[français](https://t.me/ZenonFR)​ ​[русский](https://t.me/Zenonnetwork\_Ru)​ ​[nederlands](https://t.me/ZenonNL)​ ​[indonesian](https://t.me/zenonnetwork\_ind)​ [español](https://t.me/+u-7WkKUPkGEzZjY0)
+​[english](https://t.me/Zenon\_Community)​ ​[français](https://t.me/ZenonFR)​ ​[русский](https://t.me/Zenonnetwork\_Ru)​ ​[nederlands](https://t.me/ZenonNL)​ ​[indonesian](https://t.me/zenonnetwork\_ind)​ [español](https://t.me/Zenon\_Spanish\_Community)
 
 #### **Community Articles**
 
