@@ -10,19 +10,17 @@ coverY: 0
 
 ### Official Zenon Network Resources
 
-​[Zenon Network website](https://zenon.network)​
+​[Website](https://zenon.network)
 
-​[Zenon Network medium articles](https://medium.com/@zenon.network)​
+[Twitter](https://twitter.com/Zenon\_Network?s=20)
 
-​[Zenon Network twitter ](https://twitter.com/Zenon\_Network)​
+[Medium Articles](https://medium.com/@zenon.network)
 
-​[Zenon Network telegram](https://t.me/joinchat/MLyPehLIbJj1nw1XOOOltg)​
+[Telegram](https://t.me/joinchat/MLyPehLIbJj1nw1XOOOltg)
 
-​[Zenon Network discord](https://discord.gg/XDDjECy)​
+[Discord](https://discord.com/invite/XDDjECy)
 
-​[Zenon Network Alphanet github](https://github.com/zenon-network)​
-
-​[Legacy Network github](https://github.com/zenonnetwork)​
+[Github](https://github.com/zenon-network)
 
 ​[Bitcointalk](https://bitcointalk.org/index.php?topic=5279643.msg55303681#msg55303681)​
 
@@ -34,7 +32,7 @@ coverY: 0
 
 #### **Zenon Network Guides**
 
-[Zenon Network Node building guides](https://github.com/zenon-network/znn-bundle)
+[Node & Pillar building guides](https://github.com/zenon-network/znn-bundle)
 
 ### Community Resources
 
@@ -62,23 +60,23 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 #### **Community Guides**
 
-​[Instructions to setup a local node on Windows](https://frankthezalien.medium.com/how-to-create-a-node-and-connect-to-syrius-a5ad26d8a9b9) (by Frank The ZAlien)​
+​[Setup Guide - Windows local node](https://frankthezalien.medium.com/how-to-create-a-node-and-connect-to-syrius-a5ad26d8a9b9) by Frank The ZAlien
 
-[Instructions to setup a local node on Windows](https://shazzamazzash.medium.com/an-apes-guide-to-run-a-full-node-for-zenon-on-windows-10-910adc2cf8ea) (by Shazz)
+[Setup Guide - Windows local node ](https://shazzamazzash.medium.com/an-apes-guide-to-run-a-full-node-for-zenon-on-windows-10-910adc2cf8ea)by Shazz
 
-​[Instructions to setup a local node on Mac](https://pastebin.com/tfgN4d79) (by Rex)​
+​[Setup Guide - Mac OSX local node](https://pastebin.com/tfgN4d79) by Rex
 
-​[Instructions to setup a local node on Mac](https://twitter.com/zenonorg/status/1464852904037265412?s=21) (by OG Zenon)​
+[​Setup Guide - Mac OSX local node](https://twitter.com/zenonorg/status/1464852904037265412?s=21) by OG Zenon
 
-​[Instructions to setup a local node on Linux](how-to-run-a-linux-node.md) (by Sam)​
+[Setup Guide - Linux node](how-to-run-a-linux-node.md) by Sam
 
-[Instructions to set up a full node on VPS](https://medium.com/@ChadassCapital/how-to-setup-your-own-full-zenon-network-node-on-a-vps-4eabad359453) ( by Chadass )
+[Setup Guide - Full node on VPS](https://medium.com/@ChadassCapital/how-to-setup-your-own-full-zenon-network-node-on-a-vps-4eabad359453) by Chadass
 
 ["Error Unlock Failed"](https://medium.com/@sirajarab/syrius-wallet-error-unlock-failed-b7b9cc627574) Syrius wallet fix by Siraj
 
 ["Error Unlock Failed"](https://medium.com/@rufusizthebezt/how-to-get-around-the-error-unlock-failed-on-syrius-wallet-acf074d3e63e) Syrius wallet fix by Rufus
 
-[Add Liquidity to the wZNN / BNB pool on Pancakeswap](https://medium.com/@rufusizthebezt/zenon-liquidity-program-how-to-add-liquidity-on-pancakeswap-75894da9949b) ( by Rufus )
+[Add Liquidity to the wZNN / BNB pool on Pancakeswap](https://medium.com/@rufusizthebezt/zenon-liquidity-program-how-to-add-liquidity-on-pancakeswap-75894da9949b) by Rufus
 
 **Community Tools**
 
