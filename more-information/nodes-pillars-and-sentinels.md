@@ -22,6 +22,22 @@ If you find another neighbour's wifi with a better router your experience will i
 
 If you have your own router connected to the network those contraints are removed.
 
+**Running your own node improves the Network.**&#x20;
+
+If fewer people rely on the centralised public nodes / routers then there will be less congestion and bottlenecks at those shared nodes. So starting up your own router improves your experience and then relieves congestion, improving others experience. A node is light on resources and requires little CPU power to run. It’s worth doing.
+
+**What are the hardware requirements to run a node on my computer?**
+
+Here are the requirements from the team to run a public node on the Alphanet. Private nodes do not require the high bandwidth.
+
+​[Alphanet Node Requirements.​](https://testnet.znn.space/#!requirements.md)
+
+**I want to run a node locally on my own machine to speed up the network. How can I do that?**
+
+You do not need ZNN or QSR in your wallet to run a node.
+
+Official and Community guides are linked[ here.](../getting-started.md#run-your-own-node-if-you-can)
+
 **I would like to change the Node my Syrius wallet points to, how do I do that?**
 
 In the Syrius wallet go to the Settings tab. Scroll down >> Bottom left >Node Management >> Add Node >> Enter the address of your new node (examples below) then click 'Confirm Node'. Make sure it's selected and exit.
@@ -47,22 +63,6 @@ ws://95.179.213.154:35998
 ["Error Unlock Failed"](https://medium.com/@sirajarab/syrius-wallet-error-unlock-failed-b7b9cc627574) Syrius wallet fix by Siraj
 
 ["Error Unlock Failed"](https://medium.com/@rufusizthebezt/how-to-get-around-the-error-unlock-failed-on-syrius-wallet-acf074d3e63e) Syrius wallet fix by Rufus
-
-**Running your own node improves the Network.**&#x20;
-
-If fewer people rely on the centralised public nodes / routers then there will be less congestion and bottlenecks at those shared nodes. So starting up your own router improves your experience and then relieves congestion, improving others experience. A node is light on resources and requires little CPU power to run. It’s worth doing.
-
-**What are the hardware requirements to run a node on my computer?**
-
-Here are the requirements from the team to run a public node on the Alphanet. Private nodes do not require the high bandwidth.
-
-​[Alphanet Node Requirements.​](https://testnet.znn.space/#!requirements.md)
-
-**I want to run a node locally on my own machine to speed up the network. How can I do that?**
-
-You do not need ZNN or QSR in your wallet to run a node.
-
-Official and Community guides are linked[ here.](../getting-started.md#run-your-own-node-if-you-can)
 
 ### **Pillars and Sentinels**
 
