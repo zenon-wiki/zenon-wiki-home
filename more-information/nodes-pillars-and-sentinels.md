@@ -30,11 +30,11 @@ In the Syrius wallet go to the Settings tab. Scroll down >> Bottom left >Node Ma
 
 ws://108.61.157.84:35998
 
-ws://node1.zenon.wiki:35998
-
 ws://45.32.148.36:35998&#x20;
 
 ws://45.32.146.167:35998&#x20;
+
+ws://node1.zenon.wiki:35998
 
 ws://140.82.52.157:35998&#x20;
 

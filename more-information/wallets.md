@@ -44,7 +44,7 @@ A small letter&#x20;
 
 A capital letter
 
-A symbol like @#$¢
+A symbol like @#$¢!%
 
 A number
 
