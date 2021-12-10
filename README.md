@@ -40,7 +40,7 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 #### **Community Telegrams**
 
-​[english](https://t.me/Zenon\_Community)​ ​[français](https://t.me/ZenonFR)​ ​[русский](https://t.me/Zenonnetwork\_Ru)​ ​[nederlands](https://t.me/ZenonNL)​ ​[indonesian](https://t.me/zenonnetwork\_ind)​ [español](https://t.me/Zenon\_Spanish\_Community)
+​[english](https://t.me/Zenon\_Community)​ ​[français](https://t.me/ZenonFR)​ ​[русский](https://t.me/Zenonnetwork\_Ru)​ ​[nederlands](https://t.me/ZenonNL)​ ​[indonesian](https://t.me/zenonnetwork\_ind)​ [español](https://t.me/Zenon\_Spanish\_Community) [العربية](https://t.me/zenon\_arabic\_community)
 
 #### **Community Articles**
 
