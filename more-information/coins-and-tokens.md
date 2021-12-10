@@ -19,7 +19,7 @@ There are currently 5.8 million ZNN in circulation. ( Max after 1 year \~ 8.1 mi
 * 1.6 million ZNN still need to swap from the Legacy chain.
 * 415 000 ZNN are wrapped and on the Binance Smart Chain.
 
-14 400 ZNN are issued daily during the first year.
+14 400 ZNN are issued daily during the first year, this reduces to \~3% per annum thereafter
 
 **QSR**
 
@@ -29,7 +29,7 @@ There are currently 26.4 million QSR in circulation. Currently:
 * 14% have been locked in the creation of Sentinels
 * 5% have been fused for Plasma and Zero-fee transactions.
 
-20 000 QSR are issued daily during the first year.
+20 000 QSR are issued daily during the first year, this reduces thereafter.
 
 #### **Legacy ZNN > NoM ZNN**
 
