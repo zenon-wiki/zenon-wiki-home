@@ -4,6 +4,33 @@ description: Information related to the Coins and Tokens of Zenon Network
 
 # Coins & Tokens
 
+Zenon Network runs on two coins. Zenon/ZNN for transactions and Quasar/QSR which is bonded to an address to create Plasma for zero-fee transactions, and burned or bonded in the creation of Pillars and Sentinels.
+
+It is possible to mint tokens on Zenon Network within the Syrius wallet with no coding knowledge. ZNN is burned in the process of creating a token. Note that there can be multiple tokens with the same name, but no token can copy ZNN or QSR. Watch out for Pillars and Communities creating tokens to incentivize participation and backing. All forms of value can be tokenized on Zenon Network and NFT’s will be offered at a later stage.
+
+### **Coin Metrics.**
+
+**ZNN**
+
+There are currently 5.8 million ZNN in circulation. ( Max after 1 year \~ 8.1 million ) Currently:
+
+* 35% is delegated to Pillars.
+* 27% is locked and staked.
+* 1.6 million ZNN still need to swap from the Legacy chain.
+* 415 000 ZNN are wrapped and on the Binance Smart Chain.
+
+14 400 ZNN are issued daily during the first year.
+
+**QSR**
+
+There are currently 26.4 million QSR in circulation. Currently:
+
+* 33% have been burned in the creation of Pillars
+* 14% have been locked in the creation of Sentinels
+* 5% have been fused for Plasma and Zero-fee transactions.
+
+20 000 QSR are issued daily during the first year.
+
 #### **Legacy ZNN > NoM ZNN**
 
 The Alphanet is live and Legacy ZNN are being swapped for ZNN on the Network of Momentum. All ZNN in the snapshot taken November 22nd can be swapped over to the Syrius wallet on the Network of Momentum. More info on the swap [here. ](swap-to-alphanet.md)
@@ -42,13 +69,9 @@ Yes, you can send wZNN to any web3 compatible wallet in the same way you would s
 
 Rufus has put together a guide [here.](https://medium.com/@rufusizthebezt/zenon-liquidity-program-how-to-add-liquidity-on-pancakeswap-75894da9949b)
 
-**What happened with the wZNN / BSC liquidity Pool?**&#x20;
+**The wZNN contract on BSC changed in November.**
 
-On 19th November 2021 the Liquidity Pool on the wZNN / BNB Pancakeswap pair was drained by a hacker. In the 24 hours following that the team burnt all wZNN and replaced them with a new contract.&#x20;
-
-This means that the contract with the address 0x8a7ca49f42e5196c26bb00fa014352e5d065db4d is no longer valid and your Metamask web3 wallet will show a zero balance for wZNN.&#x20;
-
-**Add the new contract for wZNN.**&#x20;
+If your Metamask wallet shows a zero balance for wZNN, update the contract:
 
 Click “Add new token” at the bottom of your Metamask BSC token list and add the new token address to find your replaced wZNN.&#x20;
 

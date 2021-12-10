@@ -12,7 +12,7 @@ No - ZNN was distributed through a lockdrop to those who staked BTC and ran a no
 
 **What is the initial circulating supply?**&#x20;
 
-Total supply of ZNN after 1 year is 8 052 917. More info [here](https://medium.com/@zenon.network/znn-x-qsr-alphanet-specifications-83d27c005c09).
+Total supply of ZNN after 1 year is 8 052 917. More info [here.](more-information/coins-and-tokens.md#coin-metrics.)
 
 **What is NoM 0 ?**&#x20;
 
