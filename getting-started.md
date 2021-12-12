@@ -18,6 +18,8 @@ Ideally run your own node, but you can try one of the following addresses. [Inst
 
 ws://108.61.157.84:35998
 
+ws://chadasscapital.com:35998
+
 ws://45.32.148.36:35998&#x20;
 
 ws://45.32.146.167:35998&#x20;
