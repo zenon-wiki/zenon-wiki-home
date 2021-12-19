@@ -32,6 +32,8 @@ Pillars receive rewards for running the Network and being core validators. Those
 * If you claim your delegating rewards each day they compound.
 * A pillar can change rewards to zero, but they cannot touch your delegated ZNN.
 
+Guide to Delegating by SultanofStaking [here.](https://medium.com/@SultanOfStaking/zenon-pillar-delegation-guide-4a1d56962873)
+
 #### **Pillar tracking tools**&#x20;
 
 The community is building tools to track Pillar rewards:&#x20;

@@ -34,9 +34,15 @@ coverY: 0
 
 [Node & Pillar building guides](https://github.com/zenon-network/znn-bundle)
 
+[ZENON Tech WIKI](https://wiki.zenon.network/#!index.md)
+
 ### Community Resources
 
 _Note: These resources are provided by the community and are not thoroughly vetted by zenon.wiki. Information may be inaccurate, speculative, or out of date._
+
+#### Community Discord
+
+[Zenon Community](https://discord.gg/CK8RpWKD)
 
 #### **Community Telegrams**
 
@@ -77,6 +83,14 @@ _Note: These resources are provided by the community and are not thoroughly vett
 ["Error Unlock Failed"](https://medium.com/@rufusizthebezt/how-to-get-around-the-error-unlock-failed-on-syrius-wallet-acf074d3e63e) Syrius wallet fix by Rufus
 
 [Add Liquidity to the wZNN / BNB pool on Pancakeswap](https://medium.com/@rufusizthebezt/zenon-liquidity-program-how-to-add-liquidity-on-pancakeswap-75894da9949b) by Rufus
+
+[Pillar and Sentinel Setup Resource](https://github.com/sultanofstaking?tab=repositories) by SultanofStaking
+
+[Delegating guide](https://medium.com/@SultanOfStaking/zenon-pillar-delegation-guide-4a1d56962873) by SultanofStaking
+
+[Senty Security for Pillars Guide](https://github.com/MoonBaZe/sentrify) by Moonbaze
+
+
 
 **Community Tools**
 

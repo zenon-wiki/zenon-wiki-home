@@ -48,17 +48,13 @@ ws://108.61.157.84:35998
 
 ws://chadasscapital.com:35998
 
-ws://45.32.148.36:35998&#x20;
+ws://nodes.zenon.place:35998
 
-ws://45.32.146.167:35998&#x20;
+ws://node01.nodez.space:35998&#x20;
 
-ws://node1.zenon.wiki:35998
+ws://node02.nodez.space:35998&#x20;
 
-ws://140.82.52.157:35998&#x20;
-
-ws://199.247.11.50:35998&#x20;
-
-ws://95.179.213.154:35998
+ws://node03.nodez.space:35998
 
 #### **If you have the "Unlock Failed" problem in your Syrius wallet try these workarounds:**
 
@@ -72,7 +68,7 @@ ws://95.179.213.154:35998
 
 Zenon Network has added a Pillar deployment tutorial [here](https://github.com/zenon-network/znn-bundle).
 
-Community Member SultanOfStaking has a Github focussed on this [here](https://github.com/sultanofstaking).
+Community Member SultanOfStaking has a Github focussed on this [here.](https://github.com/sultanofstaking?tab=repositories)
 
 **Why are Pillars and Sentinels so expensive?**
 

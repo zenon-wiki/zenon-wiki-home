@@ -20,16 +20,10 @@ ws://108.61.157.84:35998
 
 ws://chadasscapital.com:35998
 
-ws://45.32.148.36:35998&#x20;
+ws://nodes.zenon.place:35998
 
-ws://45.32.146.167:35998&#x20;
+ws://node01.nodez.space:35998&#x20;
 
-ws://140.82.52.157:35998&#x20;
+ws://node02.nodez.space:35998&#x20;
 
-ws://node1.zenon.wiki:35998
-
-ws://199.247.11.50:35998&#x20;
-
-ws://95.179.213.154:35998
-
-TODO need to enable wss, and possibly a load balancer in the future
+ws://node03.nodez.space:35998
