@@ -44,8 +44,6 @@ In the Syrius wallet go to the Settings tab. Scroll down >> Bottom left >Node Ma
 
 **Community RPC Nodes:**
 
-ws://108.61.157.84:35998
-
 ws://chadasscapital.com:35998
 
 ws://nodes.zenon.place:35998
