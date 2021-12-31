@@ -10,7 +10,7 @@ The Network is secured through both Proof of Stake ( PoS ) and Proof of Work ( P
 
 The validators on the Network are called Pillars and Sentinels. Pillars require high levels of commitment, both in value and resources, to ensure a strong foundation for the NoM, Sentinels require less commitment and allow a broader base to help secure the NoM. RPC nodes connect the wallets to the network.
 
-Zero fee transactions are achieved by ‘fusing’ QSR within the S Y R I U S wallet. Fusing bonds the QSR to the transaction address and generates ‘Plasma' to fuel transactions. The more transactions you do, the more Quasar you need to fuse to drive those transactions. QSR can be un-fused at any time after an initial 10 hour lock with no loss of QSR.
+Zero fee transactions are achieved by ‘fusing’ QSR in the Syrius wallet. Fusing bonds the QSR to the transaction address and generates ‘Plasma' to fuel transactions. The more transactions you do, the more Quasar you need to fuse to drive those transactions. QSR can be un-fused at any time after an initial 10 hour lock with no loss of QSR.
 
 If you do not have enough QSR fused for Plasma the transaction will fall back to PoW to drive it, ensuring that no transaction is ever ‘stuck’ in the Network; it will always get through somehow.
 

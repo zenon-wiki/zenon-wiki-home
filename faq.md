@@ -58,7 +58,7 @@ Wallet downloads are linked on the official website [here.](https://zenon.networ
 
 **In which wallets can I store ZNN?**&#x20;
 
-ZNN can be stored in the Syrius Wallet. Wrapped ZNN can be stored in any Web.3 wallet like Metamask.
+ZNN can be stored in the Syrius Wallet. Wrapped ZNN can be stored in any Web.3 wallet like Metamask or on a cold wallet.
 
 **Is there a mobile wallet for Zenon?**&#x20;
 
@@ -90,7 +90,7 @@ The [Swap to Alphanet page](more-information/swap-to-alphanet.md) has all that i
 
 **How do I get Plasma for sending fee-less transactions?**&#x20;
 
-You need at least 20 QSR to generate Plasma. 120 QSR gives full Plasma power. 50 QSR is recommended for the Legacy swap from the old network to the new. Fuse the QSR in the Plasma tab of the Syrius wallet. The QSR can be unfused at any time with no loss.
+You need at least 10 QSR to generate Plasma. 120 QSR gives full Plasma power. 50 QSR is recommended for the Legacy swap from the old network to the new. Fuse the QSR in the Plasma tab of the Syrius wallet. The QSR can be unfused at any time with no loss.
 
 There are ways to get free Plasma for the short term. [Info here.](more-information/fees-and-plasma.md)
 

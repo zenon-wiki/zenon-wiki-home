@@ -15,12 +15,12 @@ This means that transfer of funds, signing of smart contracts and collection of 
 * Scalability and speed through the block lattice transaction layer
 * Security and stability through the DAG layer
 * Fee-less transactions through Plasma
-* Delegating ZNN for rewards in ZNN ( apy is \~ 75% )
-* Staking ZNN for rewards in QSR ( apy is \~ 30% )
+* Delegating ZNN for rewards in ZNN (apy is \~ 75%)
+* Staking ZNN for rewards in QSR (apy is \~ 30%)
 * In-wallet creation of Tokens with zero coding knowledge
 * Creation of personal RPC nodes for security and decentralisation.
-* Creation of Pillars as core validators of the Network ( rewarded )
-* Creation of Sentinels as supporting validators of the network ( rewarded )
+* Creation of Pillars as core validators of the Network (rewarded)
+* Creation of Sentinels as supporting validators of the network (rewarded)
 * Strongly incentivised decentralisation.
 * Low energy consumption to maintain and secure the NoM
 
