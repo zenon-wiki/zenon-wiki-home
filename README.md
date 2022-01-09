@@ -52,7 +52,7 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 ​[Crypto Academy - Lets Explore Zenon Network](https://knowledgeiskey2017.medium.com/lets-explore-zenon-network-cf46d6a8d1ee)​
 
-​[Shazz - Fundamental Analyses based on Investment Principles](https://shazzamazzash.medium.com/fundamental-analysis-of-zenon-network-based-on-charlie-mungers-investment-principles-9097db0fa1bd)​
+​[Shazz - Fundamental Analysis of Zenon.Network, based on Charlie Munger's Investment Principles](https://shazzamazzash.medium.com/fundamental-analysis-of-zenon-network-based-on-charlie-mungers-investment-principles-9097db0fa1bd)​
 
 ​[Yen Howell - 10 FAQ Investment Questions on Zenon](https://yenhowell.medium.com/zenon-101-10-frequently-asked-questions-when-investing-in-zenon-b7eb0cd1a7de)​
 

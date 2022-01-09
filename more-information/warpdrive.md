@@ -7,25 +7,31 @@ description: >-
 
 # WarpDrive
 
+## Reward Structure
+
+To reduce the risk of unrealistic and amorphous projects, prizes will be released based on the validation of the following development phases, for each participating project.
+
+**PoC** = A proof of concept (POC) is an exercise in which work is focused on determining whether an idea can be turned into a reality. This can be seen as a prototype meant to determine the feasibility of the idea or to verify that the idea will function as envisioned.
+
+**10% of the total prize will be released after the PoC release**
+
+**MVP** = Minimum viable product (MVP) is a version of a product with just enough features to be usable by early customers who can then provide feedback for future product development.
+
+**20% of the total prize will be released after the MVP release**
+
+**RC** = Release candidate (RC) is a beta version released internally to check if any critical problems have gone undetected into the code during the previous development period. The RC comes with the potential to be a stable product, which is ready to release unless significant bugs emerge.
+
+**30% of the total prize will be released after the RC.**
+
+**Release / Going live** = is the sum of the stages of development above and implies that the software is done, up and running, and improved with feedback and bug fixes. This release is all set for usage by the end-users.
+
+**The remaining 40% of the total will be released after the Go live.**
+
+With the help of the panel members, I will release the prizes according to the progress of each project.
+
 ## Submissions
 
-| Submitter        | Project                                      | Link                                                                                                                                                   |
-| ---------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| @vilkris         | Zenon.tools                                  | https://zenon.tools                                                                                                                                    |
-| @vilarl          | Go SDK                                       |                                                                                                                                                        |
-| @nemoryoliver    | Cano mobile wallet                           | [https://github.com/Cano-Wallet/app/releases](https://github.com/Cano-Wallet/app/releases)                                                             |
-| @AiGENT          | Zenon theme song                             | [https://soundcloud.com/aigent/zenon-theme-song-unofficial-draft-version-1](https://soundcloud.com/aigent/zenon-theme-song-unofficial-draft-version-1) |
-| @PDFust          | Chrome extension wallet similar to Metamask  |                                                                                                                                                        |
-| @tobeonahill     | IAM-Z ecosystem                              | [https://medium.com/@2bonahill/iam-z-a0a9256813f8](https://medium.com/@2bonahill/iam-z-a0a9256813f8)                                                   |
-| @an0d3va         | SDK documentation                            | (wiki link missing)                                                                                                                                    |
-| @SultanofStaking | Troubleshooting and pillar deployment guides |                                                                                                                                                        |
-| @Byzentined      | ZENON Wiki                                   | [https://docs.zenon.wiki/home/](https://docs.zenon.wiki/home/)                                                                                         |
-| @georgezgeorgez  | Alphanet code review                         |                                                                                                                                                        |
-| @vibeznn         | Testnet stress tests                         |                                                                                                                                                        |
-| @legenddawg      | The Daily Alien newsletter                   |                                                                                                                                                        |
-| @itsdyddy        | QSR logo design contest                      |                                                                                                                                                        |
-| @ButthurtCapital | public and development nodes                 |                                                                                                                                                        |
-| @crypto\_culture | Zenon awareness marketing                    |                                                                                                                                                        |
+<table><thead><tr><th>Submitter</th><th>Project</th><th>Link</th><th data-type="number">QSR Prize</th></tr></thead><tbody><tr><td>@vilkris</td><td>Zenon.tools</td><td><a href="https://www.zenon.tools">Website</a></td><td>14583</td></tr><tr><td>@itsdiddy</td><td>QSR Logo Contest</td><td><a href="https://medium.com/@itsdyddy/znn-warp-drive-qsr-logo-contest-870d4cd1b45a">Medium</a></td><td>792</td></tr><tr><td>@itsdiddy</td><td>Hale DAO</td><td><a href="https://medium.com/@itsdyddy/znn-warp-drive-crypto-hales-submission-5b5ebeb48dd5">Medium</a></td><td>3167</td></tr><tr><td>@nemoryoliver</td><td>Cano Mobile Wallet</td><td><a href="https://canowallet.app/#/">Website</a></td><td>17292</td></tr><tr><td>@AiGENT</td><td>AiGENT Creative Community Pillar</td><td><a href="https://medium.com/@aigent?p=7e0bd7680fce">Medium</a></td><td>833</td></tr><tr><td>@AiGENT</td><td>Zenon Theme Song</td><td><a href="https://soundcloud.com/aigent/zenon-theme-song-unofficial-draft-version-1">Soundcloud</a></td><td>167</td></tr><tr><td>@PDFust</td><td>Zenon Browser Wallet</td><td><a href="https://github.com/znnpd/zenonbrowserwallet">Github</a></td><td>11167</td></tr><tr><td>@tobeonahill</td><td>IAM-Z Ecosystem</td><td><a href="https://medium.com/@2bonahill/iam-z-a0a9256813f8">Medium</a></td><td>10000</td></tr><tr><td>@an0d3va</td><td>Dart SDK Documentation</td><td><a href="https://an0d3va.github.io/zenon-wiki/">Github</a></td><td>7917</td></tr><tr><td>@SultanofStaking</td><td>Troubleshooting and Pillar Deployment Guides</td><td><a href="https://github.com/sultanofstaking">Github</a></td><td>83</td></tr><tr><td>@Byzentined</td><td>ZENON Wiki</td><td><a href="https://docs.zenon.wiki/home/">Wiki</a></td><td>4083</td></tr><tr><td>@vibeznn</td><td>Testnet Stress Tests</td><td>No submission</td><td>null</td></tr><tr><td>@legenddawg</td><td>The Daily Alien</td><td><a href="https://medium.com/@legenddawg123/the-daily-alien-89c97d50df4d">Medium</a></td><td>3125</td></tr><tr><td>@ButthurtCapital</td><td>Public and development nodes</td><td><a href="https://t.me/chaddasspillarnews">Telegram</a></td><td>6458</td></tr><tr><td>@isonar (discord)</td><td>DAO Framework</td><td><a href="https://isonar.notion.site/isonar/WarpDrive-Proposal-Zenon-DAO-02d7ad29b18640ac804469da7960edeb">Submission</a></td><td>0</td></tr><tr><td><a href="https://t.me/alienvalley">t.me/alienvalley</a></td><td>ZNN JavaScript SDK and POW to support JS</td><td><a href="https://t.me/alienvalley/1079">Submission</a></td><td>2917</td></tr><tr><td><a href="https://t.me/alienvalley">t.me/alienvalley</a></td><td>Valley Wallet</td><td><a href="https://t.me/alienvalley/1080">Submission</a></td><td>250</td></tr><tr><td><a href="https://t.me/alienvalley">t.me/alienvalley</a></td><td>Plasma Fuse Bot</td><td><a href="https://t.me/alienvalley/1078">Submission</a></td><td>null</td></tr><tr><td><a href="https://t.me/alienvalley">t.me/alienvalley</a></td><td>Plasma Marketplace</td><td><a href="https://t.me/alienvalley/1152">Submission</a></td><td>625</td></tr><tr><td>@Stark_Ent</td><td>Zenon Media Presskit</td><td><a href="https://t.me/Zenon_Community/238336">Submission</a></td><td>1083</td></tr><tr><td>@mark_h_atie</td><td>Zake AMM</td><td><a href="https://drive.google.com/file/d/1g_X82_T3mPEpl_WjZ-gyArgOHkwwO0g0/view">Whitepaper</a></td><td>3750</td></tr><tr><td>@unclear#0122 (discord)</td><td>Alphanet Explorer</td><td><a href="https://t.me/Zenon_Community/243437">Submission</a></td><td>11250</td></tr><tr><td>@vilarl</td><td>SDK Go</td><td>No submission (sick)</td><td>333</td></tr><tr><td>@neilzhaos</td><td>Typescript SDK &#x26; Web Browser Wallet</td><td>N/A</td><td>125</td></tr></tbody></table>
 
 ## Judge Nominees
 
@@ -60,10 +66,6 @@ I know it's difficult to define a project for warp drive without full knowledge 
 * Helping to coordinate WarpDrive voting and community dev efforts
 * Academic background in math and make computers go brrrrrrrrr for work
 * Zenon is a nascent ecosystem. As a judge, I will look for projects which can serve as the long term buildings blocks for others to create applications on top of
-
-### Kemal
-
-Derpy cat has been a Zenon maxi since 2019. People know him as Kemalitto, he likes to live off of his staking rewards. Doesn't know much technical stuff himself but can perfectly understand who does. Good gem hunter, capable of choosing what's best for NoM.
 
 ### Legenddawg
 
