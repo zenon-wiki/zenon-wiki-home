@@ -27,7 +27,7 @@ To reduce the risk of unrealistic and amorphous projects, prizes will be release
 
 **The remaining 40% of the total will be released after the Go live.**
 
-With the help of the panel members, I will release the prizes according to the progress of each project.
+With the help of the panel members, Sigli will release the prizes according to the progress of each project.
 
 ## Winners
 
