@@ -50,6 +50,8 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 #### **Community Articles**
 
+[Apu.znn - Network of Momentum - The decentralized self-evolving superorganism](https://medium.com/@ZNNApu/network-of-momentum-the-decentralized-self-evolving-superorganism-a96b81e57822)
+
 ​[Crypto Academy - Lets Explore Zenon Network](https://knowledgeiskey2017.medium.com/lets-explore-zenon-network-cf46d6a8d1ee)​
 
 ​[Shazz - Fundamental Analysis of Zenon.Network, based on Charlie Munger's Investment Principles](https://shazzamazzash.medium.com/fundamental-analysis-of-zenon-network-based-on-charlie-mungers-investment-principles-9097db0fa1bd)​
