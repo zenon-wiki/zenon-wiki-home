@@ -92,6 +92,8 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 [Senty Security for Pillars Guide](https://github.com/MoonBaZe/sentrify) by Moonbaze
 
+[Zenon & the Syrius wallet guide](https://drive.google.com/file/d/1Lc5PvyH6rYNRr6ODF2tf49NEg9PO3nIm/view) by Mexi\_finance
+
 
 
 **Community Tools**
