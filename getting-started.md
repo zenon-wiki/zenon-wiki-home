@@ -1,14 +1,16 @@
 # Getting Started
 
-### Download Syrius&#x20;
+### Download Syrius wallet & the znnd node.
 
-[https://zenon.network/#downloads](https://zenon.network/#downloads)
+[Syrius wallet - https://zenon.network/#downloads](https://zenon.network/#downloads)
 
-### Run your own node if you can
+[Znnd node - https://github.com/zenon-network/go-zenon/releases/tag/v0.0.2-alphanet](https://github.com/zenon-network/go-zenon/releases/tag/v0.0.2-alphanet)
 
-[Zenon Network Official guides](https://github.com/zenon-network/znn-bundle)
+### Launch Syrius and the znnd node and connect
 
-[Community written guides](./#community-resources)
+Guide for that by community member Muzzo here:
+
+[https://www.youtube.com/watch?v=YJ5sa\_2cGeM](https://www.youtube.com/watch?v=YJ5sa\_2cGeM)
 
 [More Information on Nodes](more-information/nodes-pillars-and-sentinels.md)
 

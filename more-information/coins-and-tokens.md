@@ -12,23 +12,23 @@ It is possible to mint tokens on Zenon Network within the Syrius wallet with no 
 
 **ZNN**
 
-There are currently 6.6 million ZNN in circulation. ( Max after 1 year \~ 8.1 million ) Currently:
+There are currently 6.8 million ZNN in circulation. ( Max after 1 year \~ 8.1 million ) Currently:
 
 * 36% is delegated to Pillars.
 * 25% is locked and staked.
-* 900 000 ZNN still need to swap from the Legacy chain.
+* 800 000 ZNN still need to swap from the Legacy chain.
 * 6% \~ 415 000 ZNN are wrapped and on the Binance Smart Chain.
-* 168 Pillars and Sentinels are validating the Network.
+* 195 Pillars and Sentinels are validating the Network.
 
-8 640 ZNN are currently being issued daily, this reduces to \~3% per annum at NoM 1.
+7 200 ZNN are currently being issued daily, this reduces to \~3% per annum at NoM 1.
 
 **QSR**
 
-There are currently 26.7 million QSR in circulation. Currently:
+There are currently 28 million QSR in circulation. Currently:
 
 * 37% have been burned in the creation of Pillars.
-* 17% have been locked in the creation of Sentinels.
-* 8% is circulating supply.
+* 20% have been locked in the creation of Sentinels.
+* 5% is circulating supply.
 * 36% is tied up in WarpDrive and wZNN Liquidity program.
 * 1% have been fused for Plasma and Zero-fee transactions.
 

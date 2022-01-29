@@ -10,6 +10,10 @@ The Network of Momentum runs on Validators called Pillars and Sentinels. **Pilla
 
 ### **Nodes, Syrius and the Network**
 
+**The next release of Syrius will include a built-in node**
+
+Check in with the [community](../) for that release, until then, the information below is valid.
+
 **The Syrius wallet is not a node**
 
 This means that Syrius needs to link up to a node to find out what is happening on the Network. The node your Syrius wallet is linked up to is shown in the Settings tab, bottom left, under ‘Node Management’.
@@ -28,15 +32,19 @@ If fewer people rely on the centralised public nodes / routers then there will b
 
 **What are the hardware requirements to run a node on my computer?**
 
-Here are the requirements from the team to run a public node on the Alphanet. Private nodes do not require the high bandwidth.
+The requirements to run the latest version of the Zenon node are minimal, requiring fewer resources than the Syrius wallet itself. Version v0.02 of the node is available for download here:
 
-​[Alphanet Node Requirements.​](https://testnet.znn.space/#!requirements.md)
+[https://github.com/zenon-network/go-zenon/releases/tag/v0.0.2-alphanet](https://github.com/zenon-network/go-zenon/releases/tag/v0.0.2-alphanet)
 
 **I want to run a node locally on my own machine to speed up the network. How can I do that?**
 
 You do not need ZNN or QSR in your wallet to run a node.
 
-Official and Community guides are linked[ here.](../getting-started.md#run-your-own-node-if-you-can)
+Download the latest version of the node [here](https://github.com/zenon-network/go-zenon/releases/tag/v0.0.2-alphanet)
+
+Link the node to your Syrius wallet. A quick guide is available here:
+
+[https://www.youtube.com/watch?v=YJ5sa\_2cGeM](https://www.youtube.com/watch?v=YJ5sa\_2cGeM)
 
 **I would like to change the Node my Syrius wallet points to, how do I do that?**
 
