@@ -98,6 +98,8 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 **Community Tools**
 
+[Zenon Alphanet Explorer](https://zenonscraper.com)
+
 [Zenon Tools Staking toolbox](https://zenon.tools)
 
 [Alien Valley Pillar Tracker](http://alien-valley.io/who-to-delegate.html)
