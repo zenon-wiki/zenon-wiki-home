@@ -10,6 +10,8 @@ The fully functioning first version of the Network of Momentum: **NoM 0** or **A
 
 This means that transfer of funds, signing of smart contracts and collection of Delegation and Staking rewards are all zero fee.
 
+Explore the Alphanet with [ZenonScraper.](https://zenonscraper.com)
+
 **These elements of the NoM are live:**
 
 * Scalability and speed through the block lattice transaction layer
