@@ -68,6 +68,14 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 #### **Community Guides**
 
+[Setup Guide - Node v.0.0.2 quick setup](https://www.youtube.com/watch?v=YJ5sa\_2cGeM) by Muzzo
+
+[Setup Guide - Raspberry Pi local node](https://medium.com/@jer0n/zenon-network-raspberry-pi-node-guide-1cd02d69e52e) by Jer0n
+
+[Setup Guide - Linux node](how-to-run-a-linux-node.md) by Sam
+
+[Setup Guide - Full node on VPS](https://medium.com/@ChadassCapital/how-to-setup-your-own-full-zenon-network-node-on-a-vps-4eabad359453) by Chadass
+
 ​[Setup Guide - Windows local node](https://frankthezalien.medium.com/how-to-create-a-node-and-connect-to-syrius-a5ad26d8a9b9) by Frank The ZAlien
 
 [Setup Guide - Windows local node ](https://shazzamazzash.medium.com/an-apes-guide-to-run-a-full-node-for-zenon-on-windows-10-910adc2cf8ea)by Shazz
@@ -75,10 +83,6 @@ _Note: These resources are provided by the community and are not thoroughly vett
 ​[Setup Guide - Mac OSX local node](https://pastebin.com/tfgN4d79) by Rex
 
 [​Setup Guide - Mac OSX local node](https://twitter.com/zenonorg/status/1464852904037265412?s=21) by OG Zenon
-
-[Setup Guide - Linux node](how-to-run-a-linux-node.md) by Sam
-
-[Setup Guide - Full node on VPS](https://medium.com/@ChadassCapital/how-to-setup-your-own-full-zenon-network-node-on-a-vps-4eabad359453) by Chadass
 
 ["Error Unlock Failed"](https://medium.com/@sirajarab/syrius-wallet-error-unlock-failed-b7b9cc627574) Syrius wallet fix by Siraj
 

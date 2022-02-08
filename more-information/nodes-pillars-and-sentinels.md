@@ -32,19 +32,19 @@ If fewer people rely on the centralised public nodes / routers then there will b
 
 **What are the hardware requirements to run a node on my computer?**
 
-The requirements to run the latest version of the Zenon node are minimal, requiring fewer resources than the Syrius wallet itself. Version v0.02 of the node is available for download here:
+The requirements to run the latest version of the Zenon node are minimal, requiring fewer resources than the Syrius wallet itself. Community member Jer0n has written a guide for launching and running a node on a Raspberry Pi. That guide is [here. ](https://medium.com/@jer0n/zenon-network-raspberry-pi-node-guide-1cd02d69e52e)
+
+Version v0.02 of the node is available for download here:
 
 [https://github.com/zenon-network/go-zenon/releases/tag/v0.0.2-alphanet](https://github.com/zenon-network/go-zenon/releases/tag/v0.0.2-alphanet)
 
 **I want to run a node locally on my own machine to speed up the network. How can I do that?**
 
-You do not need ZNN or QSR in your wallet to run a node.
-
-Download the latest version of the node [here](https://github.com/zenon-network/go-zenon/releases/tag/v0.0.2-alphanet)
-
-Link the node to your Syrius wallet. A quick guide is available here:
+You do not need ZNN or QSR in your wallet to run a node. Download the latest version of the node [here](https://github.com/zenon-network/go-zenon/releases/tag/v0.0.2-alphanet). Link the node to your Syrius wallet. A quick guide is available here:
 
 [https://www.youtube.com/watch?v=YJ5sa\_2cGeM](https://www.youtube.com/watch?v=YJ5sa\_2cGeM)
+
+All guides to launching and running nodes are linked [here.](../#community-guides)
 
 **I would like to change the Node my Syrius wallet points to, how do I do that?**
 
