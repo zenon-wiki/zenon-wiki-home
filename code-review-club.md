@@ -39,9 +39,8 @@ This week we'll discuss Zenon's addresses, its heritage, and its implications.
 * What dependencies does the code for zenon addresses have?
 * What character set do zenon addresses use? - Any interesting spellings you notice?
 * What relationship do zenon addresses have with bitcoin?
-*   What implications does this have?
-
-    What is the underlying type of an address?
+* What implications does this have?
+* What is the underlying type of an address?
 * How many bytes are zenon addresses?
 * What does the first byte of an address signify?
 * What kind of cryptographic primitives are used for zenon addresses?
