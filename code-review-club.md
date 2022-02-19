@@ -44,7 +44,7 @@ This week we'll discuss Zenon's addresses, its heritage, and its implications.
 * How many bytes are zenon addresses?
 * How length are zenon addresses and why?
 * What does the first byte of an address signify?
-* Why do all zenon addresses begin with z1q?
+* Why do all zenon addresses begin with z1q? What can the 4th character be and why?
 * What kind of cryptographic primitives are used for zenon addresses?
 
 ### Previous meetings
