@@ -1,6 +1,6 @@
 # Table of contents
 
-* [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_](README.md)
+* [wiki Introduction](README.md)
 * [Getting Started](getting-started.md)
 * [Introducing ZENON](introducing-zenon.md)
 * [Timeline](timeline.md)
