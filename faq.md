@@ -20,7 +20,7 @@ NoM 0 is the first stage of the Network of Momentum. It will last approximately 
 
 **Is there an explorer for the NoM?**&#x20;
 
-The Testnet explorer has not been ported over to the Mainnet as yet.
+There are two explorers for the Alphanet, linked [here.](getting-started.md#expore-the-network-of-momentum)
 
 **What is a Momentum?**&#x20;
 
@@ -32,11 +32,7 @@ Yes. You do however need to fuse QSR to the transaction address to drive zero-fe
 
 **How can I support the Network?**&#x20;
 
-The most direct way is to run your own node. The node is very light and uses about 10% of the cpu power of Syrius. More info [here.](more-information/nodes-pillars-and-sentinels.md)
-
-**I want to run a node, where do I start?**&#x20;
-
-The [Nodes Information page](more-information/nodes-pillars-and-sentinels.md) will get you going.
+Investing in Pillars and Sentinels as validators of the Network of Momentum is an option. More info [here](more-information/nodes-pillars-and-sentinels.md#pillars-and-sentinels).
 
 **What are some good sources of information to familiarise myself with the project?**&#x20;
 
@@ -62,7 +58,7 @@ ZNN can be stored in the Syrius Wallet. Wrapped ZNN can be stored in any Web.3 w
 
 **Is there a mobile wallet for Zenon?**&#x20;
 
-Not as yet. Zenon Network will release a mobile wallet and Community developed mobile wallets are being built.
+Not as yet. The Community developed CANO mobile wallet is in test phase. Zenon Network will also release a mobile wallet.
 
 **Can I store ZNN in a hardware wallet?**
 
@@ -70,19 +66,15 @@ ZNN is a new protocol and as such is not yet supported in hardware wallets. You 
 
 **My wallet keeps disconnecting, why?**
 
-The RPC node your Syrius wallet is connected to is congested. You can change the RPC node your wallet is using. [More info here.](more-information/nodes-pillars-and-sentinels.md#nodes-syrius-and-the-network) Also consider [creating your own node.](getting-started.md#run-your-own-node-if-you-can)
-
-**I have the Error "Wallet Unlock Failed" what can I do?**
-
-Community members have linked to fixes [here.](more-information/wallets.md#syrius-wallet)
+The RPC node your Syrius wallet is connected to is congested. Ensure you are using the latest version of Syrius with the embedded node selected and active. [More info here.](getting-started.md)
 
 **I have no Plasma for transactions, what now?**
 
-You can do slow transactions using PoW; your computer will do some work to get the transaction through.
+You can do slow transactions using PoW; your computer will do some work to get the transaction through. (You will hear the fans spinning up )
 
 There are ways to get free Plasma for the short term. [Info here.](more-information/fees-and-plasma.md)
 
-**How do I swap my Legacy ZNN to Syrius?**
+**How do I swap my Legacy ZNN to the Alphanet and Syrius?**
 
 The [Swap to Alphanet page](more-information/swap-to-alphanet.md) has all that information.
 
@@ -108,11 +100,15 @@ You do that within the Pillars tab of the Syrius wallet. [More info here.](more-
 
 **What returns can I expect?**&#x20;
 
-Delegating to a Pillar has an APY of up to 72% Staking ZNN for QSR has an APY of up to 26%.  These figures are dependent on fluctuating conditions. Figures shown are from the [Zenon.Network](https://zenon.network/#downloads) page.
+Delegating to a Pillar has an APY of up to 52% , Staking ZNN for QSR has an APY of up to 76%.  These figures are dependent on fluctuating conditions. Figures shown are from the [Zenon.Network](https://zenon.network/#downloads) page.
+
+Also check the community [ZENON Tools](https://zenon.tools) page for more info on returns.
 
 **I received Quasar QSR, what can I do with it?**&#x20;
 
-It will be possible to swap QSR for ZNN within the Syrius Wallet soon. It can also be used to generate Plasma for zero fee transactions.
+It will be possible to swap QSR for ZNN within the Syrius Wallet soon.&#x20;
+
+QSR is used to generate Plasma for zero fee transactions and is required as 50% of the investment into setting up Pillars and Sentinels as validators on the NoM.
 
 ### **wZNN ( wrapped ZNN )**
 
@@ -128,7 +124,7 @@ Yes. wZNN is a BSC token that can be stored in any compatible Web.3 wallet.
 
 Yes, wZNN is a BSC token and as such can be stored in a Ledger or Trezor wallet.
 
-**What is the new wZNN contract address?**&#x20;
+**What is the wZNN contract address on Binance Smart Chain?**
 
 Token contract address: 0x84b174628911896a3b87fa6980d05dbc2ee74836
 
@@ -142,7 +138,7 @@ Rufus has created a [step-by-step](https://medium.com/@rufusizthebezt/zenon-liqu
 
 **Can I swap my ZNN for wZNN?**&#x20;
 
-A bridge between Syrius and BSC will be opened after Alphanet.
+A two-way bridge is available between Syrius and BSC. [More info here.](more-information/bridging.md)
 
 **Can I stake wZNN that I bought on Pancakeswap?**&#x20;
 
@@ -184,6 +180,4 @@ You can browse the [More Information](more-information/) section  and you can jo
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-This FAQ directory has been submitted to the WarpDrive program. Anyone from the Zenon Community may contribute a Question and Answer which may be eligible for QSR rewards.&#x20;
-
-See [https://github.com/zenon-wiki/zenon-wiki/issues/1](https://github.com/zenon-wiki/zenon-wiki/issues/1) for details.
+The Community Wiki was a benefactor of the ZENON Warpdrive program. Our gratitude to the team at ZENON and the community for their vote.

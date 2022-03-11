@@ -30,4 +30,6 @@ The wZNN version of ZNN will remain active on Binance Smart Chain with a bridge 
 
 ### 2022
 
-NoM 0, the **Alphanet,** is live with 157 Pillars and Sentries currently validating the Network and 85% of Legacy ZNN swapped over onto the NoM. A two-way bridge between the NoM and Binance Smart Chain is being finalised and community projects are being submitted to the Warp Drive funding campaign.
+NoM 0, the **Alphanet,** is live with 208 Pillars and Sentries currently validating the Network and 95% of Legacy ZNN swapped over to the NoM. A two-way bridge between the NoM and Binance Smart Chain is active and community projects are being submitted to the Warp Drive funding campaign.
+
+'Accelerator Z' and 'Orbital' and two initiatives in place to fuel development and investment in the ZENON Network of Momentum.
