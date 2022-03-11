@@ -4,9 +4,11 @@ cover: .gitbook/assets/zenon-wiki-banner-c.jpg
 coverY: 0
 ---
 
-# The ZENON wiki
+# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ![A community managed wiki for Zenon Network.](.gitbook/assets/zenon-wiki-banner-n.jpg)
+
+The Community Wiki was a benefactor of the ZENON Warpdrive program. Our gratitude to the team at ZENON and the community for their vote.
 
 ### Official Zenon Network Resources
 
