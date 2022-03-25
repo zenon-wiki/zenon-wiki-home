@@ -6,13 +6,13 @@ description: Information about bridging coins from Zenon Network to other chains
 
 #### **Can I bridge from the Legacy Wallet to Binance Smart Chain?**
 
-This is no longer possible. The Legacy chain has ended and all ZNN in the snapshot at block 1.405.000 which occured on 22nd November 2021 are eligible to swap across to the Alphanet.
+This is no longer possible. The Legacy chain has ended and all ZNN in the snapshot at block 1.405.000 which occurred on 22nd November 2021 are eligible to swap across to the Alphanet.
 
 #### Can I bridge from the Zenon Alphanet to Binance Smart Chain?
 
 Yes, you are able to swap wZNN coins on BSC for ZNN on the Network of Momentum and vice versa using the latest version of the Syrius Wallet. Swapping ZNN to wZNN allows you to store your wrapped ZNN on a cold wallet via Metamask if you so desire. There is a fee to transfer from ZNN to wZNN, but no fee the other way. Transfer times from Binance Smart Chain to Syrius are about an hour due to requiring substantial validations from the BSC Network.
 
-The official Zenon article for the two-way brdige is [here](https://medium.com/@zenon.network/zenon-building-bridges-272538cde1a7).
+The official Zenon article for the two-way bridge is [here](https://medium.com/@zenon.network/zenon-building-bridges-272538cde1a7).
 
 There is a random bug where the BNB fee for the transfer is too high - a video to fix this is available [here](https://www.youtube.com/watch?v=R9R7lxBoh6Y).
 

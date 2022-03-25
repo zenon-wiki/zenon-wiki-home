@@ -68,7 +68,7 @@ There is a rewards slider on the Zenon website. Scroll up a bit from the downloa
 
 **Liquidity Pool rewards**
 
-To bump up the liquidity on the Pancakeswap wZNN / BNB pair a liquidity reward program will be activated soon where you receive QSR tokens in your Syrius wallet for every day you add liquidity to the wZNN / BNB pool.&#x20;
+To bump up the liquidity on the Pancakeswap wZNN / BNB pair a liquidity reward program is active where you receive QSR tokens in your Syrius wallet for every day you add liquidity to the wZNN / BNB pool.&#x20;
 
 Those who had linked their Syrius address to the previous reward program will retroactively be rewarded for providing liquidity. [More info here.](https://twitter.com/Zenon\_Network/status/1463265853328162820)
 
