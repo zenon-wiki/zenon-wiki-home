@@ -1,10 +1,6 @@
----
-description: A community managed wiki for Zenon Network.
-cover: .gitbook/assets/zenon-wiki-banner-c.jpg
-coverY: 0
----
+# wiki Introduction
 
-# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 
 ![A community managed wiki for Zenon Network.](.gitbook/assets/zenon-wiki-banner-n.jpg)
 
@@ -68,21 +64,19 @@ _Note: These resources are provided by the community and are not thoroughly vett
 
 #### **Community Guides**
 
-[Setup Guide - Independent Node v.0.0.2 quick setup](https://www.youtube.com/watch?v=YJ5sa\_2cGeM) by Muzzo
-
 [Setup Guide - Raspberry Pi local node](https://medium.com/@jer0n/zenon-network-raspberry-pi-node-guide-1cd02d69e52e) by Jer0n
-
-[Setup Guide - Linux node](how-to-run-a-linux-node.md) by Sam
 
 [Setup Guide - Full node on VPS](https://medium.com/@ChadassCapital/how-to-setup-your-own-full-zenon-network-node-on-a-vps-4eabad359453) by Chadass
 
-[Add Liquidity to the wZNN / BNB pool on Pancakeswap](https://medium.com/@rufusizthebezt/zenon-liquidity-program-how-to-add-liquidity-on-pancakeswap-75894da9949b) by Rufus
-
 [Pillar and Sentinel Setup Resource](https://github.com/sultanofstaking?tab=repositories) by SultanofStaking
 
-[Delegating guide](https://medium.com/@SultanOfStaking/zenon-pillar-delegation-guide-4a1d56962873) by SultanofStaking
-
 [Senty Security for Pillars Guide](https://github.com/MoonBaZe/sentrify) by Moonbaze
+
+[Setup Guide - Independent Node v.0.0.2 quick setup](https://www.youtube.com/watch?v=YJ5sa\_2cGeM) by Muzzo
+
+[Add Liquidity to the wZNN / BNB pool on Pancakeswap](https://medium.com/@rufusizthebezt/zenon-liquidity-program-how-to-add-liquidity-on-pancakeswap-75894da9949b) by Rufus
+
+[Delegating guide](https://medium.com/@SultanOfStaking/zenon-pillar-delegation-guide-4a1d56962873) by SultanofStaking
 
 [Zenon & the Syrius wallet guide](https://drive.google.com/file/d/1Lc5PvyH6rYNRr6ODF2tf49NEg9PO3nIm/view) by Mexi\_finance
 

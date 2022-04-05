@@ -1,4 +1,8 @@
-# How to run a node
+---
+description: April 2022 - This page is currently being updated.
+---
+
+# How to run a Linux node
 
 Min requirements:
 
